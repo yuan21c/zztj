@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>資治通鑑</title>
+<link rel="stylesheet" href="css/reader.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="header-title" id="headerTitle"></div>
+  <nav class="header-controls" id="headerControls">
+    <button id="btnPrevVol">前卷</button>
+    <button id="btnNextVol">後卷</button>
+    <button id="btnFontDec">字小</button>
+    <button id="btnFontInc">字大</button>
+    <button id="btnLineNarrow">行窄</button>
+    <button id="btnLineWide">行寬</button>
+    <button id="btnReset">重置</button>
+    <button id="btnTheme">夜間</button>
+    <button id="btnToc">目錄</button>
+  </nav>
+  <button class="menu-toggle" id="btnMenu" aria-expanded="false">☰</button>
+</header>
+
+<div class="reader-wrapper" id="readerWrapper"><div class="reader" id="reader"></div></div>
+
+<div class="toc-overlay" id="tocOverlay" aria-hidden="true">
+  <button class="toc-close" id="btnTocClose" type="button">關閉</button>
+  <div class="toc-panel" id="tocPanel"></div>
+</div>
+
+<div class="loading-overlay" id="loadingOverlay" aria-hidden="true">
+  <div class="loading-spinner"></div><div class="loading-text">正在重排</div>
+</div>
+
+<script src="js/reader.js"></script>
+</body>
+</html>

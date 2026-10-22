@@ -1,0 +1,12177 @@
+[
+  {
+    "volume-title": [
+      "資治通鑑卷第一百五十九"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "provenance": [
+      {
+        "dual": [
+          "端明殿學士兼翰林侍讀學士朝散大夫右諫議大夫充集賢殿修撰提舉西京嵩",
+          "山崇福宮上柱國河內郡開國侯食邑二千八百戶食實封六百戶賜紫金魚袋臣"
+        ]
+      },
+      "　司馬光　奉敕編集"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "provenance": [
+      "後　　　　　　　　　學　　　　　　　　　　天　　　　　　　　　台",
+      "　胡三省　音　　註"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "section-heading": [
+      {
+        "era-or-label": "　梁紀十五"
+      }
+    ]
+  },
+  {
+    "annotation-span": [
+      "起旃蒙赤奮若乙丑",
+      {
+        "punct": "dou"
+      },
+      "盡柔兆攝提格丙寅",
+      {
+        "punct": "dou"
+      },
+      "凡二年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "ruler": [
+      {
+        "bold": "　　高祖武皇帝十五"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "reign-year": [
+      "　大同十一年"
+    ]
+  },
+  {
+    "annotation-era": [
+      "乙丑",
+      {
+        "punct": "dou"
+      },
+      "五四五"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "1"
+    ]
+  },
+  {
+    "chronicle": [
+      "春",
+      {
+        "punct": "dou"
+      },
+      "正月",
+      {
+        "punct": "dou"
+      },
+      "丙申",
+      {
+        "punct": "dou"
+      },
+      "東魏遣兼散騎常侍李獎來聘",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "散",
+      {
+        "punct": "dou"
+      },
+      "悉亶翻",
+      {
+        "punct": "ju"
+      },
+      "騎",
+      {
+        "punct": "dou"
+      },
+      "奇寄翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "2"
+    ]
+  },
+  {
+    "chronicle": [
+      "東魏儀同爾朱文暢與丞相司馬任冑",
+      {
+        "punct": "dou"
+      },
+      "都督鄭仲禮等",
+      {
+        "punct": "dou"
+      },
+      "謀因正月望夜觀打簇戲作亂",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "北史"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "魏氏舊俗",
+      {
+        "punct": "dou"
+      },
+      "以正月十五夜為打簇戲",
+      {
+        "punct": "dou"
+      },
+      "能中者卽時賞帛",
+      {
+        "punct": "ju"
+      },
+      "按",
+      {
+        "book-title": "魏書"
+      },
+      {
+        "punct": "dou"
+      },
+      "孝靜天平四年",
+      {
+        "punct": "dou"
+      },
+      "春",
+      {
+        "punct": "dou"
+      },
+      "正月",
+      {
+        "punct": "dou"
+      },
+      "禁打簇相偷戲",
+      {
+        "punct": "ju"
+      },
+      "蓋此禁尋弛也",
+      {
+        "punct": "ju"
+      },
+      "任",
+      {
+        "punct": "dou"
+      },
+      "音壬",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "collation-zou": [
+      "鄒",
+      {
+        "punct": "dou"
+      },
+      "打簇戲",
+      {
+        "punct": "dou"
+      },
+      "此蓋元宵節之初形也",
+      {
+        "punct": "ju"
+      },
+      "劉敬叔",
+      {
+        "book-title": "異苑"
+      },
+      "中",
+      {
+        "punct": "dou"
+      },
+      "載迎紫姑",
+      {
+        "lacuna": "蠶神"
+      },
+      "習俗",
+      {
+        "punct": "dou"
+      },
+      "姑本人家妾",
+      {
+        "punct": "dou"
+      },
+      "為大婦所妒",
+      {
+        "punct": "dou"
+      },
+      "正月十五日感激而死",
+      {
+        "punct": "dou"
+      },
+      "故世人作其形迎之",
+      {
+        "punct": "ju"
+      },
+      "咒云",
+      {
+        "punct": "dou"
+      },
+      "子胥",
+      {
+        "lacuna": "壻"
+      },
+      "不在",
+      {
+        "punct": "dou"
+      },
+      "曹夫人已行",
+      {
+        "punct": "dou"
+      },
+      "小姑可出",
+      {
+        "punct": "ju"
+      },
+      "於廁邊或豬欄邊迎之",
+      {
+        "punct": "dou"
+      },
+      "以卜將來蠶桑",
+      {
+        "punct": "dou"
+      },
+      "並占眾事",
+      {
+        "punct": "ju"
+      },
+      "陸翽",
+      {
+        "book-title": "石虎鄴中記"
+      },
+      {
+        "punct": "dou"
+      },
+      "正月十五日",
+      {
+        "punct": "dou"
+      },
+      "有登高之會",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "北齊書尒爾朱文暢傳"
+      },
+      {
+        "punct": "dou"
+      },
+      "自魏氏舊俗",
+      {
+        "punct": "dou"
+      },
+      "以正月十五夜為打簇戲",
+      {
+        "punct": "dou"
+      },
+      "能中者卽時賞帛",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "隋書柳或傳"
+      },
+      {
+        "punct": "dou"
+      },
+      "每以正月望日",
+      {
+        "punct": "dou"
+      },
+      "充街塞陌",
+      {
+        "punct": "dou"
+      },
+      "聚戲朋遊",
+      {
+        "punct": "dou"
+      },
+      "鳴鼓聒天",
+      {
+        "punct": "dou"
+      },
+      "燎炬照地",
+      {
+        "punct": "dou"
+      },
+      "人戴獸面",
+      {
+        "punct": "dou"
+      },
+      "男為女服",
+      {
+        "punct": "dou"
+      },
+      "倡優雜技",
+      {
+        "punct": "dou"
+      },
+      "詭狀異形",
+      {
+        "punct": "dou"
+      },
+      "以穢嫚為歡娛",
+      {
+        "punct": "dou"
+      },
+      "用鄙褻為笑樂",
+      {
+        "punct": "dou"
+      },
+      "內外共觀",
+      {
+        "punct": "dou"
+      },
+      "曾不相避",
+      {
+        "punct": "dou"
+      },
+      "高棚跨路",
+      {
+        "punct": "dou"
+      },
+      "廣幕陵雲",
+      {
+        "punct": "dou"
+      },
+      "袨服靚粧",
+      {
+        "punct": "dou"
+      },
+      "車馬塡噎",
+      {
+        "punct": "ju"
+      },
+      "及至盛唐",
+      {
+        "punct": "dou"
+      },
+      "長安宵禁",
+      {
+        "punct": "dou"
+      },
+      "逢正月望日前後三夜解禁",
+      {
+        "punct": "dou"
+      },
+      "遂有元宵賞燈之習俗",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "殺丞相歡",
+      {
+        "punct": "dou"
+      },
+      "奉文暢為主",
+      {
+        "punct": "dou"
+      },
+      "事泄",
+      {
+        "punct": "dou"
+      },
+      "皆死",
+      {
+        "punct": "ju"
+      },
+      "文暢",
+      {
+        "punct": "dou"
+      },
+      "榮之子也",
+      {
+        "punct": "dou"
+      },
+      "其姊",
+      {
+        "punct": "dou"
+      },
+      "敬宗之后",
+      {
+        "punct": "dou"
+      },
+      "及仲禮姊大車",
+      {
+        "punct": "dou"
+      },
+      "皆為歡妾",
+      {
+        "punct": "dou"
+      },
+      "有寵",
+      {
+        "punct": "dou"
+      },
+      "故其兄弟皆不坐",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡上書言",
+      {
+        "punct": "dou"
+      },
+      "幷州",
+      {
+        "punct": "dou"
+      },
+      "軍器所聚",
+      {
+        "punct": "dou"
+      },
+      "動須女功",
+      {
+        "punct": "dou"
+      },
+      "請置宮以處配沒之口",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "處",
+      {
+        "punct": "dou"
+      },
+      "昌呂翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "又納吐谷渾之女以招懷之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "吐谷渾國於西魏西南",
+      {
+        "punct": "dou"
+      },
+      "高歡越境納其女以招懷之",
+      {
+        "punct": "dou"
+      },
+      "蓋欲借其力以侵擾西魏",
+      {
+        "punct": "ju"
+      },
+      "吐",
+      {
+        "punct": "dou"
+      },
+      "從暾入聲",
+      {
+        "punct": "ju"
+      },
+      "谷",
+      {
+        "punct": "dou"
+      },
+      "音浴",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "丁未",
+      {
+        "punct": "dou"
+      },
+      "置晉陽宮",
+      {
+        "punct": "ju"
+      },
+      "二月",
+      {
+        "punct": "dou"
+      },
+      "庚申",
+      {
+        "punct": "dou"
+      },
+      "東魏主納吐谷渾可汗從妹為容華",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "容華",
+      {
+        "punct": "dou"
+      },
+      "前漢內職舊號",
+      {
+        "punct": "ju"
+      },
+      "可",
+      {
+        "punct": "dou"
+      },
+      "從刊入聲",
+      {
+        "punct": "ju"
+      },
+      "汗",
+      {
+        "punct": "dou"
+      },
+      "音寒",
+      {
+        "punct": "ju"
+      },
+      "從",
+      {
+        "punct": "dou"
+      },
+      "才用翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "3"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏丞相泰遣酒泉胡安諾槃陀始通使於突厥",
+      {
+        "punct": "ju"
+      },
+      "突厥本西方小國",
+      {
+        "punct": "dou"
+      },
+      "姓阿史那氏",
+      {
+        "punct": "dou"
+      },
+      "世居金山之陽",
+      {
+        "punct": "dou"
+      },
+      "為柔然鐵王",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      },
+      "李延壽曰",
+      {
+        "punct": "dou"
+      },
+      "突厥",
+      {
+        "punct": "dou"
+      },
+      "其先居西海之右",
+      {
+        "punct": "dou"
+      },
+      "獨為部落",
+      {
+        "punct": "dou"
+      },
+      "蓋匈奴之別種也",
+      {
+        "punct": "dou"
+      },
+      "姓阿史那氏",
+      {
+        "punct": "ju"
+      },
+      "後為鄰國所破",
+      {
+        "punct": "dou"
+      },
+      "盡滅其族",
+      {
+        "punct": "ju"
+      },
+      "有一兒",
+      {
+        "punct": "dou"
+      },
+      "年且十歲",
+      {
+        "punct": "dou"
+      },
+      "兵人見其小",
+      {
+        "punct": "dou"
+      },
+      "不忍殺之",
+      {
+        "punct": "dou"
+      },
+      "乃刖足斷臂棄澤中",
+      {
+        "punct": "dou"
+      },
+      "有牝狼以肉飼之",
+      {
+        "punct": "dou"
+      },
+      "及長",
+      {
+        "punct": "dou"
+      },
+      "與狼交合",
+      {
+        "punct": "dou"
+      },
+      "遂有孕焉",
+      {
+        "punct": "ju"
+      },
+      "彼王聞此兒尚在",
+      {
+        "punct": "dou"
+      },
+      "復遣殺之",
+      {
+        "punct": "ju"
+      },
+      "使者見在狼側",
+      {
+        "punct": "dou"
+      },
+      "幷欲殺狼",
+      {
+        "punct": "ju"
+      },
+      "於時若有神物投狼於西海之東",
+      {
+        "punct": "dou"
+      },
+      "落高昌國西北山",
+      {
+        "punct": "dou"
+      },
+      "狼匿其中",
+      {
+        "punct": "dou"
+      },
+      "遂生十男",
+      {
+        "punct": "ju"
+      },
+      "男長",
+      {
+        "punct": "dou"
+      },
+      "外託妻孕",
+      {
+        "punct": "ju"
+      },
+      "其後各為一姓",
+      {
+        "punct": "dou"
+      },
+      "阿史那其一也",
+      {
+        "punct": "dou"
+      },
+      "最賢",
+      {
+        "punct": "dou"
+      },
+      "遂為君長",
+      {
+        "punct": "ju"
+      },
+      "故牙門建狼頭纛",
+      {
+        "punct": "dou"
+      },
+      "示不忘本也",
+      {
+        "punct": "ju"
+      },
+      "或云",
+      {
+        "punct": "dou"
+      },
+      "突厥本平涼雜胡",
+      {
+        "punct": "dou"
+      },
+      "姓阿史那氏",
+      {
+        "punct": "ju"
+      },
+      "魏太武滅沮渠氏",
+      {
+        "punct": "dou"
+      },
+      "阿史那以五百家奔柔然",
+      {
+        "punct": "ju"
+      },
+      "世居金山之陽",
+      {
+        "punct": "dou"
+      },
+      "為柔然鐵工",
+      {
+        "punct": "ju"
+      },
+      "金山形似兜鍪",
+      {
+        "punct": "dou"
+      },
+      "借",
+      {
+        "lacuna": "俗"
+      },
+      "號兜鍪突厥",
+      {
+        "punct": "dou"
+      },
+      "突厥因以為號",
+      {
+        "punct": "ju"
+      },
+      "又曰",
+      {
+        "punct": "dou"
+      },
+      "突厥之先出於索國",
+      {
+        "punct": "dou"
+      },
+      "在匈奴之北",
+      {
+        "punct": "ju"
+      },
+      "其部落大人曰阿謗步",
+      {
+        "punct": "dou"
+      },
+      "兄弟七十人",
+      {
+        "punct": "dou"
+      },
+      "其一曰伊質泥師都",
+      {
+        "punct": "dou"
+      },
+      "狼所生也",
+      {
+        "punct": "ju"
+      },
+      "此說雖殊",
+      {
+        "punct": "dou"
+      },
+      "終狼種也",
+      {
+        "punct": "ju"
+      },
+      "程大昌曰",
+      {
+        "punct": "dou"
+      },
+      "金山",
+      {
+        "punct": "dou"
+      },
+      "形如兜鍪",
+      {
+        "punct": "ju"
+      },
+      "其俗謂兜鍪為突厥",
+      {
+        "punct": "dou"
+      },
+      "因以為號",
+      {
+        "punct": "ju"
+      },
+      "厥",
+      {
+        "punct": "dou"
+      },
+      "九勿翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "至其酋長土門",
+      {
+        "punct": "dou"
+      },
+      "始強大",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "酋",
+      {
+        "punct": "dou"
+      },
+      "慈秋翻",
+      {
+        "punct": "ju"
+      },
+      "長",
+      {
+        "punct": "dou"
+      },
+      "知兩翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "頗侵魏西邊",
+      {
+        "punct": "ju"
+      },
+      "安諾槃陀至",
+      {
+        "punct": "dou"
+      },
+      "其國人皆喜曰",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "其國之下當更有國字",
+      {
+        "punct": "dou"
+      },
+      "屬下句",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "大國使者至",
+      {
+        "punct": "dou"
+      },
+      "吾國其將興矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "4"
+    ]
+  },
+  {
+    "chronicle": [
+      "三月",
+      {
+        "punct": "dou"
+      },
+      "乙未",
+      {
+        "punct": "dou"
+      },
+      "東魏丞相勸入朝于鄴",
+      {
+        "punct": "dou"
+      },
+      "百姓迎於紫陌",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "朝",
+      {
+        "punct": "dou"
+      },
+      "直遙翻",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "鄴都記"
+      },
+      {
+        "punct": "dou"
+      },
+      "紫陌在鄴城西北五里",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡握崔暹手而勞之曰",
+      {
+        "punct": "dou"
+      },
+      "往日朝廷豈無法官",
+      {
+        "punct": "dou"
+      },
+      "莫肯舉劾",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "勞",
+      {
+        "punct": "dou"
+      },
+      "力到翻",
+      {
+        "punct": "ju"
+      },
+      "劾",
+      {
+        "punct": "dou"
+      },
+      "戶槪翻",
+      {
+        "punct": "dou"
+      },
+      "又戶得翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "中尉盡心徇國",
+      {
+        "punct": "dou"
+      },
+      "不避豪強",
+      {
+        "punct": "dou"
+      },
+      "遂使遠邇肅清",
+      {
+        "punct": "ju"
+      },
+      "衝鋒陷陣",
+      {
+        "punct": "ju"
+      },
+      "大有其人",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "陳",
+      {
+        "punct": "dou"
+      },
+      "讀曰陣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "當官正色",
+      {
+        "punct": "dou"
+      },
+      "今始見之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "言聞之古人有當官正色者",
+      {
+        "punct": "dou"
+      },
+      "今始見崔暹也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "富貴乃中尉自取",
+      {
+        "punct": "dou"
+      },
+      "高歡父子無以相報",
+      {
+        "punct": "ju"
+      },
+      "賜暹良馬",
+      {
+        "punct": "ju"
+      },
+      "暹拜",
+      {
+        "punct": "dou"
+      },
+      "馬驚走",
+      {
+        "punct": "dou"
+      },
+      "歡親擁之",
+      {
+        "punct": "dou"
+      },
+      "授以轡",
+      {
+        "punct": "ju"
+      },
+      "東魏主宴於華林園",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "鄴都倣京洛之制",
+      {
+        "punct": "dou"
+      },
+      "亦有華林園",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "使歡擇朝廷公直者勸之酒",
+      {
+        "punct": "dou"
+      },
+      "歡降階跪曰",
+      {
+        "punct": "dou"
+      },
+      "唯暹一人可勸",
+      {
+        "punct": "dou"
+      },
+      "幷請以臣所射賜物千段賜之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "時於華林園宴射",
+      {
+        "punct": "dou"
+      },
+      "賜歡物千段",
+      {
+        "punct": "ju"
+      },
+      "歡請回以賜暹",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "高澄退",
+      {
+        "punct": "dou"
+      },
+      "謂暹曰",
+      {
+        "punct": "dou"
+      },
+      "我尚畏羨",
+      {
+        "punct": "dou"
+      },
+      "何況餘人",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "然暹中懷頗挾巧詐",
+      {
+        "punct": "ju"
+      },
+      "初",
+      {
+        "punct": "dou"
+      },
+      "魏高陽王斌有庶妹玉儀",
+      {
+        "punct": "dou"
+      },
+      "不為其家所齒",
+      {
+        "punct": "dou"
+      },
+      "為孫騰妓",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "斌",
+      {
+        "punct": "dou"
+      },
+      "音彬",
+      {
+        "punct": "ju"
+      },
+      "妓",
+      {
+        "punct": "dou"
+      },
+      "渠綺翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "騰又棄之",
+      {
+        "punct": "dou"
+      },
+      "高澄遇諸塗",
+      {
+        "punct": "dou"
+      },
+      "悅而納之",
+      {
+        "punct": "dou"
+      },
+      "遂有殊寵",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "白居易詩云",
+      {
+        "punct": "dou"
+      },
+      "天下無正色",
+      {
+        "punct": "dou"
+      },
+      "悅目卽為姝",
+      {
+        "punct": "ju"
+      },
+      "誠有是事",
+      {
+        "punct": "ju"
+      },
+      "蓋玉儀所乏者非色",
+      {
+        "punct": "dou"
+      },
+      "必妖媚善蠱惑",
+      {
+        "punct": "dou"
+      },
+      "故所如衆女謠諑而不見容",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "封瑯邪公主",
+      {
+        "punct": "ju"
+      },
+      "澄謂崔季舒曰",
+      {
+        "punct": "dou"
+      },
+      "崔暹必造直諫",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "造",
+      {
+        "punct": "dou"
+      },
+      "如字",
+      {
+        "punct": "dou"
+      },
+      "作也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "我亦有以待之",
+      {
+        "punct": "ju"
+      },
+      "及暹諮事",
+      {
+        "punct": "dou"
+      },
+      "澄不復假以顏色",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "居三日",
+      {
+        "punct": "dou"
+      },
+      "暹懷刺墜之於前",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "續世說"
+      },
+      {
+        "punct": "dou"
+      },
+      "古者未有紙",
+      {
+        "punct": "dou"
+      },
+      "削竹木以書姓名",
+      {
+        "punct": "dou"
+      },
+      "謂之刺",
+      {
+        "punct": "ju"
+      },
+      "後以紙書",
+      {
+        "punct": "dou"
+      },
+      "謂之名紙",
+      {
+        "punct": "ju"
+      },
+      "唐李德裕貴盛",
+      {
+        "punct": "dou"
+      },
+      "人務加禮",
+      {
+        "punct": "dou"
+      },
+      "改具銜候起居之狀",
+      {
+        "punct": "dou"
+      },
+      "謂之門狀",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "澄問",
+      {
+        "punct": "dou"
+      },
+      "何用此為",
+      {
+        "punct": "ju"
+      },
+      "暹悚然曰",
+      {
+        "punct": "dou"
+      },
+      "未得通公主",
+      {
+        "punct": "ju"
+      },
+      "澄大悅",
+      {
+        "punct": "dou"
+      },
+      "把暹臂",
+      {
+        "punct": "dou"
+      },
+      "入見之",
+      {
+        "punct": "ju"
+      },
+      "季舒語人曰",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "語",
+      {
+        "punct": "dou"
+      },
+      "牛倨翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "崔暹常忿吾佞",
+      {
+        "punct": "dou"
+      },
+      "在大將軍前",
+      {
+        "punct": "dou"
+      },
+      "每言叔父可殺",
+      {
+        "punct": "dou"
+      },
+      "及其自作",
+      {
+        "punct": "dou"
+      },
+      "乃過於吾",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "5"
+    ]
+  },
+  {
+    "chronicle": [
+      "夏",
+      {
+        "punct": "dou"
+      },
+      "五月",
+      {
+        "punct": "dou"
+      },
+      "甲辰",
+      {
+        "punct": "dou"
+      },
+      "東魏大赦",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "6"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏王盟卒",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "九月",
+      {
+        "punct": "dou"
+      },
+      "魏以王盟為太傅",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "7"
+    ]
+  },
+  {
+    "chronicle": [
+      "晉氏以來",
+      {
+        "punct": "dou"
+      },
+      "文章競為浮華",
+      {
+        "punct": "dou"
+      },
+      "魏丞相泰欲革其弊",
+      {
+        "punct": "ju"
+      },
+      "六月",
+      {
+        "punct": "dou"
+      },
+      "丁巳",
+      {
+        "punct": "dou"
+      },
+      "魏主饗太廟",
+      {
+        "punct": "ju"
+      },
+      "泰命大行臺度支尚書",
+      {
+        "punct": "dou"
+      },
+      "領著作蘇綽"
+    ]
+  },
+  {
+    "annotation": [
+      "度",
+      {
+        "punct": "dou"
+      },
+      "徒洛翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "作",
+      {
+        "book-title": "大誥"
+      },
+      {
+        "punct": "dou"
+      },
+      "宣示羣臣",
+      {
+        "punct": "dou"
+      },
+      "戒以政事",
+      {
+        "punct": "dou"
+      },
+      "仍命自今文章皆依此體",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "宇文泰令蘇綽倣",
+      {
+        "book-title": "周書"
+      },
+      "作",
+      {
+        "book-title": "大誥"
+      },
+      {
+        "punct": "dou"
+      },
+      "今其文尚在",
+      {
+        "punct": "ju"
+      },
+      "使當時文章皆依此體",
+      {
+        "punct": "dou"
+      },
+      "亦非所以崇雅黜浮也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "8"
+    ]
+  },
+  {
+    "chronicle": [
+      "上遣交州刺史楊㬓討李賁",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "㬓",
+      {
+        "punct": "dou"
+      },
+      "匹妙翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "collation-zou": [
+      "鄒",
+      {
+        "punct": "dou"
+      },
+      "㬓",
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "博雅"
+      },
+      {
+        "punct": "dou"
+      },
+      "曝也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "以陳霸先為司馬",
+      {
+        "punct": "dou"
+      },
+      "命定州刺史蕭勃會㬓於西江",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "鬱林郡",
+      {
+        "punct": "dou"
+      },
+      "梁置定州",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "勃知軍士憚遠役",
+      {
+        "punct": "dou"
+      },
+      "因詭說留㬓",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "說",
+      {
+        "punct": "dou"
+      },
+      "式芮翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "㬓集諸將問計",
+      {
+        "punct": "dou"
+      },
+      "霸先曰",
+      {
+        "punct": "dou"
+      },
+      "交趾叛換",
+      {
+        "punct": "dou"
+      },
+      "罪由宗室",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "謂李賁之叛",
+      {
+        "punct": "dou"
+      },
+      "由武林侯諮也",
+      {
+        "punct": "ju"
+      },
+      "事見上卷七年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "遂使溷亂數州",
+      {
+        "punct": "dou"
+      },
+      "逋誅累歲",
+      {
+        "punct": "ju"
+      },
+      "定州欲安目前",
+      {
+        "punct": "dou"
+      },
+      "不顧大計",
+      {
+        "punct": "dou"
+      },
+      "節下奉辭伐罪",
+      {
+        "punct": "dou"
+      },
+      "當死生以之",
+      {
+        "punct": "dou"
+      },
+      "豈可逗橈不進",
+      {
+        "punct": "dou"
+      },
+      "長寇沮衆也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "橈",
+      {
+        "punct": "dou"
+      },
+      "奴敎翻",
+      {
+        "punct": "ju"
+      },
+      "長",
+      {
+        "punct": "dou"
+      },
+      "知兩翻",
+      {
+        "punct": "ju"
+      },
+      "沮",
+      {
+        "punct": "dou"
+      },
+      "在呂翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "遂勒兵先發",
+      {
+        "punct": "ju"
+      },
+      "㬓以霸先為前鋒",
+      {
+        "punct": "ju"
+      },
+      "至交州",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "考異"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "典略"
+      },
+      "作十二月癸丑至交州",
+      {
+        "punct": "dou"
+      },
+      "姚思廉",
+      {
+        "book-title": "陳書·帝紀"
+      },
+      "在六月",
+      {
+        "punct": "dou"
+      },
+      "今從之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "賁帥衆三萬拒之",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "帥",
+      {
+        "punct": "dou"
+      },
+      "讀曰率",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "敗於朱鳶",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "朱鳶縣",
+      {
+        "punct": "dou"
+      },
+      "自漢以來屬交趾郡",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "朱鳶縣舊置武平郡",
+      {
+        "punct": "ju"
+      },
+      "鳶",
+      {
+        "punct": "dou"
+      },
+      "音緣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "又敗於蘇歷江口",
+      {
+        "punct": "dou"
+      },
+      "賁奔嘉寧城",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "沈約",
+      {
+        "book-title": "志"
+      },
+      {
+        "punct": "dou"
+      },
+      "吳孫皓建衡三年",
+      {
+        "punct": "dou"
+      },
+      "分交趾立新興郡",
+      {
+        "punct": "dou"
+      },
+      "幷立嘉寧縣",
+      {
+        "punct": "dou"
+      },
+      "晉武帝太康三年",
+      {
+        "punct": "dou"
+      },
+      "更郡曰新昌",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "交趾郡臺寧縣",
+      {
+        "punct": "dou"
+      },
+      "舊置興州新昌郡",
+      {
+        "punct": "dou"
+      },
+      "隋改曰峯州",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "諸軍圍之",
+      {
+        "punct": "ju"
+      },
+      "勃",
+      {
+        "punct": "dou"
+      },
+      "昺之子也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "吳平侯昺",
+      {
+        "punct": "dou"
+      },
+      "帝從父弟也",
+      {
+        "punct": "ju"
+      },
+      "昺",
+      {
+        "punct": "dou"
+      },
+      "音丙",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "9"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏與柔然頭兵可汗謀連兵伐東魏",
+      {
+        "punct": "dou"
+      },
+      "丞相歡患之",
+      {
+        "punct": "dou"
+      },
+      "遣行臺郞中杜弼使於柔然",
+      {
+        "punct": "dou"
+      },
+      "為世子澄求婚",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "ju"
+      },
+      "為",
+      {
+        "punct": "dou"
+      },
+      "于偽翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "頭兵曰",
+      {
+        "punct": "dou"
+      },
+      "高王自娶則可",
+      {
+        "punct": "ju"
+      },
+      "歡猶豫未決",
+      {
+        "punct": "ju"
+      },
+      "婁妃曰",
+      {
+        "punct": "dou"
+      },
+      "國家大計",
+      {
+        "punct": "dou"
+      },
+      "願勿疑也",
+      {
+        "punct": "ju"
+      },
+      "世子澄",
+      {
+        "punct": "dou"
+      },
+      "尉景亦勸之",
+      {
+        "punct": "ju"
+      },
+      "歡乃遣鎭南將軍慕容儼往聘之",
+      {
+        "punct": "dou"
+      },
+      "號曰蠕蠕公主",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "魏明元帝命柔然曰蠕蠕",
+      {
+        "punct": "dou"
+      },
+      "謂其蠕動無知識也",
+      {
+        "punct": "ju"
+      },
+      "阿那瓌封蠕蠕王",
+      {
+        "punct": "dou"
+      },
+      "雖曰以為國號",
+      {
+        "punct": "dou"
+      },
+      "猶鄙賤之也",
+      {
+        "punct": "ju"
+      },
+      "至高歡納其女",
+      {
+        "punct": "dou"
+      },
+      "號曰蠕蠕公主",
+      {
+        "punct": "dou"
+      },
+      "則徑以為國號",
+      {
+        "punct": "dou"
+      },
+      "不復以為鄙賤矣",
+      {
+        "punct": "ju"
+      },
+      "蠕",
+      {
+        "punct": "dou"
+      },
+      "人兗翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "秋",
+      {
+        "punct": "dou"
+      },
+      "八月",
+      {
+        "punct": "dou"
+      },
+      "歡親迎於下館",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "據",
+      {
+        "book-title": "北史·彭城太妃傳"
+      },
+      {
+        "punct": "dou"
+      },
+      "下館",
+      {
+        "punct": "dou"
+      },
+      "當在木井北",
+      {
+        "punct": "ju"
+      },
+      "宋白曰",
+      {
+        "punct": "dou"
+      },
+      "木井城",
+      {
+        "punct": "dou"
+      },
+      "今幷州陽曲縣理",
+      {
+        "punct": "ju"
+      },
+      "又曰",
+      {
+        "punct": "dou"
+      },
+      "代州卽古陰館城",
+      {
+        "punct": "dou"
+      },
+      "有上館",
+      {
+        "punct": "dou"
+      },
+      "下館",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "公主至",
+      {
+        "punct": "dou"
+      },
+      "婁妃避正室以處之",
+      {
+        "punct": "dou"
+      },
+      "歡跪而拜謝",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "婁妃",
+      {
+        "punct": "dou"
+      },
+      "歡微時之妻",
+      {
+        "punct": "dou"
+      },
+      "正室也",
+      {
+        "punct": "ju"
+      },
+      "處",
+      {
+        "punct": "dou"
+      },
+      "昌呂翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "妃曰",
+      {
+        "punct": "dou"
+      },
+      "彼將覺之",
+      {
+        "punct": "dou"
+      },
+      "願絕勿顧",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "史言婁妃為國家計",
+      {
+        "punct": "dou"
+      },
+      "有趙姬使叔隗為內子而己下之之意",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "頭兵使其弟禿突佳來送女",
+      {
+        "punct": "dou"
+      },
+      "且報聘",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "或云作聘",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "胡註或云作聘",
+      {
+        "punct": "ju"
+      },
+      "十二行本作娉",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本同",
+      {
+        "punct": "dou"
+      },
+      "疑元刻本作娉",
+      {
+        "punct": "dou"
+      },
+      "胡刻改誤",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "仍戒曰",
+      {
+        "punct": "dou"
+      },
+      "待見外孫乃歸",
+      {
+        "punct": "ju"
+      },
+      "公主性嚴毅",
+      {
+        "punct": "dou"
+      },
+      "終身不肯華言",
+      {
+        "punct": "ju"
+      },
+      "歡嘗病",
+      {
+        "punct": "dou"
+      },
+      "不得往",
+      {
+        "punct": "dou"
+      },
+      "禿突佳怨恚",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "恚",
+      {
+        "punct": "dou"
+      },
+      "於避翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡輿疾就之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "10"
+    ]
+  },
+  {
+    "chronicle": [
+      "冬",
+      {
+        "punct": "dou"
+      },
+      "十月",
+      {
+        "punct": "dou"
+      },
+      "乙未",
+      {
+        "punct": "dou"
+      },
+      "詔有罪者復聽入贖",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "天監三年",
+      {
+        "punct": "dou"
+      },
+      "除贖罪科",
+      {
+        "punct": "dou"
+      },
+      "見一百四十五卷",
+      {
+        "punct": "ju"
+      },
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "11"
+    ]
+  },
+  {
+    "chronicle": [
+      "東魏遣中書舍人尉瑾來聘",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "12"
+    ]
+  },
+  {
+    "chronicle": [
+      "乙未",
+      {
+        "punct": "dou"
+      },
+      "東魏丞相歡請釋邙山俘囚桎梏",
+      {
+        "punct": "dou"
+      },
+      "配以民間寡婦",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "此邙山之捷所獲西魏之兵也",
+      {
+        "punct": "ju"
+      },
+      "捷事見上卷九年",
+      {
+        "punct": "ju"
+      },
+      "桎",
+      {
+        "punct": "dou"
+      },
+      "之日翻",
+      {
+        "punct": "ju"
+      },
+      "梏",
+      {
+        "punct": "dou"
+      },
+      "古沃翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "13"
+    ]
+  },
+  {
+    "chronicle": [
+      "十二月",
+      {
+        "punct": "dou"
+      },
+      "東魏以侯景為司徒",
+      {
+        "punct": "dou"
+      },
+      "中書令韓軌為司空",
+      {
+        "punct": "dou"
+      },
+      "戊子",
+      {
+        "punct": "dou"
+      },
+      "以孫騰錄尚書事",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "14"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏築圜丘於城南",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "長安城南也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "15"
+    ]
+  },
+  {
+    "chronicle": [
+      "散騎常侍賀琛啓陳四事",
+      {
+        "punct": "dou"
+      },
+      "其一",
+      {
+        "punct": "dou"
+      },
+      "以為今北邊稽服",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "稽",
+      {
+        "punct": "dou"
+      },
+      "音啓",
+      {
+        "punct": "ju"
+      },
+      "謂東魏通和也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "正是生聚敎訓之時",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "用伍子胥越十年生聚",
+      {
+        "punct": "dou"
+      },
+      "十年敎訓之言",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "而天下戶口減落",
+      {
+        "punct": "dou"
+      },
+      "關外彌甚",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "謂淮",
+      {
+        "punct": "dou"
+      },
+      "汝",
+      {
+        "punct": "dou"
+      },
+      "潼",
+      {
+        "punct": "dou"
+      },
+      "泗新復州郡在邊關之外者",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "郡不堪州之控總",
+      {
+        "punct": "dou"
+      },
+      "縣不堪郡之裒削",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "裒",
+      {
+        "punct": "dou"
+      },
+      "薄侯翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "更相呼擾",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "更",
+      {
+        "punct": "dou"
+      },
+      "工衡翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "惟事徵斂",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "斂",
+      {
+        "punct": "dou"
+      },
+      "力贍翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "民不堪命",
+      {
+        "punct": "dou"
+      },
+      "各務流移",
+      {
+        "punct": "dou"
+      },
+      "此豈非牧守之過歟",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "守",
+      {
+        "punct": "dou"
+      },
+      "式又翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "東境戶口空虛",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "東境",
+      {
+        "punct": "dou"
+      },
+      "謂三吳之地",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "皆由使命繁數",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      },
+      "數",
+      {
+        "punct": "dou"
+      },
+      "所角翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "窮幽極遠",
+      {
+        "punct": "dou"
+      },
+      "無不皆至",
+      {
+        "punct": "dou"
+      },
+      "每有一使",
+      {
+        "punct": "dou"
+      },
+      "所屬搔擾",
+      {
+        "punct": "dou"
+      },
+      "駑困守宰",
+      {
+        "punct": "dou"
+      },
+      "則拱手聽其漁獵",
+      {
+        "punct": "dou"
+      },
+      "桀黠長吏",
+      {
+        "punct": "dou"
+      },
+      "又因之重為貪殘",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "黠",
+      {
+        "punct": "dou"
+      },
+      "下八翻",
+      {
+        "punct": "ju"
+      },
+      "長",
+      {
+        "punct": "dou"
+      },
+      "知兩翻",
+      {
+        "punct": "ju"
+      },
+      "重",
+      {
+        "punct": "dou"
+      },
+      "直用翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "縱有廉平",
+      {
+        "punct": "dou"
+      },
+      "郡猶掣肘",
+      {
+        "punct": "ju"
+      },
+      "如此",
+      {
+        "punct": "dou"
+      },
+      "雖年降復業之詔",
+      {
+        "punct": "dou"
+      },
+      "屢下蠲賦之恩",
+      {
+        "punct": "dou"
+      },
+      "而民不得反其居也",
+      {
+        "punct": "ju"
+      },
+      "其二",
+      {
+        "punct": "dou"
+      },
+      "以為今天下"
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "十二行本下下有守宰二字",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本同",
+      {
+        "punct": "dou"
+      },
+      "孔本同",
+      {
+        "punct": "dou"
+      },
+      "張校同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "所以貪殘",
+      {
+        "punct": "dou"
+      },
+      "良由風俗侈靡使之然也",
+      {
+        "punct": "ju"
+      },
+      "今之燕喜",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "詩·魯頌"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "魯侯燕喜",
+      {
+        "punct": "ju"
+      },
+      "鄭氐",
+      {
+        "book-title": "箋"
+      },
+      "云",
+      {
+        "punct": "dou"
+      },
+      "燕",
+      {
+        "punct": "dou"
+      },
+      "飲也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "相競誇豪",
+      {
+        "punct": "dou"
+      },
+      "積果如丘陵",
+      {
+        "punct": "dou"
+      },
+      "列肴同綺繡",
+      {
+        "punct": "dou"
+      },
+      "露臺之產",
+      {
+        "punct": "dou"
+      },
+      "不周一燕之資",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "露臺之產",
+      {
+        "punct": "dou"
+      },
+      "謂百金也",
+      {
+        "punct": "ju"
+      },
+      "露臺事見十五卷漢文帝後七年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "而賓主之間",
+      {
+        "punct": "dou"
+      },
+      "裁取滿腹",
+      {
+        "punct": "dou"
+      },
+      "未及下堂",
+      {
+        "punct": "dou"
+      },
+      "已同臭腐",
+      {
+        "punct": "ju"
+      },
+      "又",
+      {
+        "punct": "dou"
+      },
+      "畜妓之夫",
+      {
+        "punct": "dou"
+      },
+      "無有等秩",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "畜",
+      {
+        "punct": "dou"
+      },
+      "吁玉翻",
+      {
+        "punct": "ju"
+      },
+      "妓",
+      {
+        "punct": "dou"
+      },
+      "渠綺翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "為吏牧民者",
+      {
+        "punct": "dou"
+      },
+      "致貲巨億",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "巨億者",
+      {
+        "punct": "dou"
+      },
+      "憶億也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "罷歸之日",
+      {
+        "punct": "dou"
+      },
+      "不支數年",
+      {
+        "punct": "dou"
+      },
+      "率皆盡於燕飲之物",
+      {
+        "punct": "dou"
+      },
+      "歌謠之具",
+      {
+        "punct": "ju"
+      },
+      "所費事等丘山",
+      {
+        "punct": "dou"
+      },
+      "為歡止在俄頃",
+      {
+        "punct": "dou"
+      },
+      "乃更追恨向所取之少",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "少",
+      {
+        "punct": "dou"
+      },
+      "詩沼翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "如復傅翼",
+      {
+        "punct": "dou"
+      },
+      "增其搏噬",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      },
+      "傅",
+      {
+        "punct": "dou"
+      },
+      "讀曰附",
+      {
+        "punct": "ju"
+      },
+      "言罷官家食之人",
+      {
+        "punct": "dou"
+      },
+      "復出為官",
+      {
+        "punct": "dou"
+      },
+      "猶不能奮飛之鳥",
+      {
+        "punct": "dou"
+      },
+      "復傅之羽翼也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "一何悖哉",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "悖",
+      {
+        "punct": "dou"
+      },
+      "蒲內翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "其餘淫侈",
+      {
+        "punct": "dou"
+      },
+      "著之凡百",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "言時人凡百所為",
+      {
+        "punct": "dou"
+      },
+      "皆事淫侈也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "習以成俗",
+      {
+        "punct": "dou"
+      },
+      "日見滋甚",
+      {
+        "punct": "dou"
+      },
+      "欲使人守廉白",
+      {
+        "punct": "dou"
+      },
+      "安可得邪",
+      {
+        "punct": "ju"
+      },
+      "誠宜嚴為禁制",
+      {
+        "punct": "dou"
+      },
+      "道以節儉",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "道",
+      {
+        "punct": "dou"
+      },
+      "讀曰導",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "糾奏浮華",
+      {
+        "punct": "dou"
+      },
+      "變其耳目",
+      {
+        "punct": "ju"
+      },
+      "夫失節之嗟",
+      {
+        "punct": "dou"
+      },
+      "亦民所自患",
+      {
+        "punct": "dou"
+      },
+      "正恥不能及羣",
+      {
+        "punct": "dou"
+      },
+      "故勉強而為之",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "易"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "不節若",
+      {
+        "punct": "dou"
+      },
+      "則嗟若",
+      {
+        "punct": "dou"
+      },
+      "無咎",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "象"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "不節之嗟",
+      {
+        "punct": "dou"
+      },
+      "又誰咎也",
+      {
+        "punct": "ju"
+      },
+      "琛引用之以發己意",
+      {
+        "punct": "dou"
+      },
+      "此論誠切中人情",
+      {
+        "punct": "ju"
+      },
+      "強",
+      {
+        "punct": "dou"
+      },
+      "其兩翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "茍以純素為先",
+      {
+        "punct": "dou"
+      },
+      "足正彫流之弊矣",
+      {
+        "punct": "ju"
+      },
+      "其三",
+      {
+        "punct": "dou"
+      },
+      "以為陛下憂念四海",
+      {
+        "punct": "dou"
+      },
+      "不憚勤勞",
+      {
+        "punct": "dou"
+      },
+      "至於百司",
+      {
+        "punct": "dou"
+      },
+      "莫不奏事",
+      {
+        "punct": "ju"
+      },
+      "但斗筲之人",
+      {
+        "punct": "dou"
+      },
+      "旣得伏奏帷扆",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "扆",
+      {
+        "punct": "dou"
+      },
+      "於豈翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "便欲詭競求進",
+      {
+        "punct": "dou"
+      },
+      "不論國之大體",
+      {
+        "punct": "dou"
+      },
+      "心存明恕",
+      {
+        "punct": "dou"
+      },
+      "惟務吹毛求疵",
+      {
+        "punct": "dou"
+      },
+      "擘肌分理",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "吹毛以求其疵瘢",
+      {
+        "punct": "dou"
+      },
+      "擘肌以分其肉理",
+      {
+        "punct": "dou"
+      },
+      "言其茍細",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "以深刻為能",
+      {
+        "punct": "dou"
+      },
+      "以繩逐為務",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "繩逐者",
+      {
+        "punct": "dou"
+      },
+      "繩糾其過失而斥逐之也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "迹雖似於奉公",
+      {
+        "punct": "dou"
+      },
+      "事更成其威福",
+      {
+        "punct": "dou"
+      },
+      "犯罪者多",
+      {
+        "punct": "dou"
+      },
+      "巧避滋甚",
+      {
+        "punct": "dou"
+      },
+      "長弊增姦",
+      {
+        "punct": "dou"
+      },
+      "寔由於此",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "長",
+      {
+        "punct": "dou"
+      },
+      "知兩翻",
+      {
+        "punct": "ju"
+      },
+      "古寔",
+      {
+        "punct": "dou"
+      },
+      "實同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "誠願責其公平之效",
+      {
+        "punct": "dou"
+      },
+      "黜其讒慝之心",
+      {
+        "punct": "dou"
+      },
+      "則下安上謐",
+      {
+        "punct": "dou"
+      },
+      "無徼悻之患矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "徼",
+      {
+        "punct": "dou"
+      },
+      "堅堯翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "其四",
+      {
+        "punct": "dou"
+      },
+      "以為今天下無事",
+      {
+        "punct": "dou"
+      },
+      "而猶日不暇給",
+      {
+        "punct": "dou"
+      },
+      "宜省事",
+      {
+        "punct": "dou"
+      },
+      "息費",
+      {
+        "punct": "dou"
+      },
+      "事省則民養",
+      {
+        "punct": "dou"
+      },
+      "費息則財聚",
+      {
+        "punct": "ju"
+      },
+      "應內省職掌各檢所部",
+      {
+        "punct": "dou"
+      },
+      "凡京師治",
+      {
+        "punct": "dou"
+      },
+      "署",
+      {
+        "punct": "dou"
+      },
+      "邸",
+      {
+        "punct": "dou"
+      },
+      "肆及國容",
+      {
+        "punct": "dou"
+      },
+      "戎備",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "治",
+      {
+        "punct": "dou"
+      },
+      "理事之所",
+      {
+        "punct": "ju"
+      },
+      "署",
+      {
+        "punct": "dou"
+      },
+      "舍止之所",
+      {
+        "punct": "ju"
+      },
+      "邸",
+      {
+        "punct": "dou"
+      },
+      "諸王列第及諸郡朝宿之區",
+      {
+        "punct": "ju"
+      },
+      "肆",
+      {
+        "punct": "dou"
+      },
+      "市列也",
+      {
+        "punct": "ju"
+      },
+      "國容",
+      {
+        "punct": "dou"
+      },
+      "禮樂",
+      {
+        "punct": "dou"
+      },
+      "車服",
+      {
+        "punct": "dou"
+      },
+      "旗章也",
+      {
+        "punct": "ju"
+      },
+      "戎備",
+      {
+        "punct": "dou"
+      },
+      "用兵之器備也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "四方屯",
+      {
+        "punct": "dou"
+      },
+      "傳",
+      {
+        "punct": "dou"
+      },
+      "邸治",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "屯",
+      {
+        "punct": "dou"
+      },
+      "軍屯也",
+      {
+        "punct": "ju"
+      },
+      "傳",
+      {
+        "punct": "dou"
+      },
+      "驛傳也",
+      {
+        "punct": "ju"
+      },
+      "傳",
+      {
+        "punct": "dou"
+      },
+      "張戀翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "有所宜除",
+      {
+        "punct": "dou"
+      },
+      "除之",
+      {
+        "punct": "dou"
+      },
+      "有所宜減",
+      {
+        "punct": "dou"
+      },
+      "減之",
+      {
+        "punct": "dou"
+      },
+      "興造有非急者",
+      {
+        "punct": "dou"
+      },
+      "徵求有可緩者",
+      {
+        "punct": "dou"
+      },
+      "皆宜停省",
+      {
+        "punct": "dou"
+      },
+      "以息費休民",
+      {
+        "punct": "ju"
+      },
+      "故畜其財者",
+      {
+        "punct": "dou"
+      },
+      "所以大用之也",
+      {
+        "punct": "dou"
+      },
+      "養其民者",
+      {
+        "punct": "dou"
+      },
+      "所以大役之也",
+      {
+        "punct": "ju"
+      },
+      "若言小事不足害財",
+      {
+        "punct": "dou"
+      },
+      "則終年不息矣",
+      {
+        "punct": "dou"
+      },
+      "以小役不足妨民",
+      {
+        "punct": "dou"
+      },
+      "則終年不止矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "此亦確論也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "如此",
+      {
+        "punct": "dou"
+      },
+      "則難可以語富強而圖遠大矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "啓奏",
+      {
+        "punct": "dou"
+      },
+      "上大怒",
+      {
+        "punct": "dou"
+      },
+      "召主書於前",
+      {
+        "punct": "dou"
+      },
+      "口授敕書以責琛",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "蕭子顯曰",
+      {
+        "punct": "dou"
+      },
+      "自齊建武以來",
+      {
+        "punct": "dou"
+      },
+      "詔命不關中書",
+      {
+        "punct": "dou"
+      },
+      "專出舍人省",
+      {
+        "punct": "ju"
+      },
+      "四省",
+      {
+        "punct": "dou"
+      },
+      "謂之四戶",
+      {
+        "punct": "ju"
+      },
+      "其下有主書令史",
+      {
+        "punct": "dou"
+      },
+      "舊用武官",
+      {
+        "punct": "dou"
+      },
+      "末改文吏",
+      {
+        "punct": "dou"
+      },
+      "人數無員",
+      {
+        "punct": "dou"
+      },
+      "莫非左右要密",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "大指以為",
+      {
+        "punct": "dou"
+      },
+      "朕有天下四十餘年",
+      {
+        "punct": "dou"
+      },
+      "公車讜言",
+      {
+        "punct": "dou"
+      },
+      "日關聽覽",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "讜",
+      {
+        "punct": "dou"
+      },
+      "多曩翻",
+      {
+        "punct": "ju"
+      },
+      "讜言",
+      {
+        "punct": "dou"
+      },
+      "善言也",
+      {
+        "punct": "dou"
+      },
+      "直言也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "所陳之事",
+      {
+        "punct": "dou"
+      },
+      "與卿不異",
+      {
+        "punct": "dou"
+      },
+      "每苦倥偬",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "倥",
+      {
+        "punct": "dou"
+      },
+      "康董翻",
+      {
+        "punct": "ju"
+      },
+      "偬",
+      {
+        "punct": "dou"
+      },
+      "作孔翻",
+      {
+        "punct": "ju"
+      },
+      "倥偬",
+      {
+        "punct": "dou"
+      },
+      "困苦也",
+      {
+        "punct": "dou"
+      },
+      "不暇給也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "更增惛惑",
+      {
+        "punct": "ju"
+      },
+      "卿不宜自同闒茸",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "闒",
+      {
+        "punct": "dou"
+      },
+      "吐盍翻",
+      {
+        "punct": "ju"
+      },
+      "茸",
+      {
+        "punct": "dou"
+      },
+      "而隴翻",
+      {
+        "punct": "ju"
+      },
+      "闒茸",
+      {
+        "punct": "dou"
+      },
+      "不肖也",
+      {
+        "punct": "dou"
+      },
+      "劣也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "止取名字",
+      {
+        "punct": "dou"
+      },
+      "宣之行路",
+      {
+        "punct": "dou"
+      },
+      "言我能上事",
+      {
+        "punct": "dou"
+      },
+      "恨朝廷之不用",
+      {
+        "punct": "ju"
+      },
+      "何不分別顯言",
+      {
+        "punct": "dou"
+      },
+      "某刺史橫暴",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "上",
+      {
+        "punct": "dou"
+      },
+      "時掌翻",
+      {
+        "punct": "ju"
+      },
+      "別",
+      {
+        "punct": "dou"
+      },
+      "彼列翻",
+      {
+        "punct": "ju"
+      },
+      "橫",
+      {
+        "punct": "dou"
+      },
+      "戶孟翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "某太守貪殘",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "守",
+      {
+        "punct": "dou"
+      },
+      "式又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "尚書",
+      {
+        "punct": "dou"
+      },
+      "蘭臺某人姦猾",
+      {
+        "punct": "dou"
+      },
+      "使者漁獵",
+      {
+        "punct": "dou"
+      },
+      "並何姓名",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "取與者誰",
+      {
+        "punct": "ju"
+      },
+      "明言其事",
+      {
+        "punct": "dou"
+      },
+      "得以誅黜",
+      {
+        "punct": "dou"
+      },
+      "更擇材良",
+      {
+        "punct": "ju"
+      },
+      "又",
+      {
+        "punct": "dou"
+      },
+      "士民飲食過差",
+      {
+        "punct": "dou"
+      },
+      "若加嚴禁",
+      {
+        "punct": "dou"
+      },
+      "密房曲屋",
+      {
+        "punct": "dou"
+      },
+      "云何可知",
+      {
+        "punct": "ju"
+      },
+      "儻家家搜檢",
+      {
+        "punct": "dou"
+      },
+      "恐益增苛擾",
+      {
+        "punct": "ju"
+      },
+      "若指朝廷",
+      {
+        "punct": "dou"
+      },
+      "我無此事",
+      {
+        "punct": "ju"
+      },
+      "昔之牲牢",
+      {
+        "punct": "dou"
+      },
+      "久不宰殺",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "周禮"
+      },
+      {
+        "punct": "dou"
+      },
+      "王膳用六牲",
+      {
+        "punct": "dou"
+      },
+      "謂馬",
+      {
+        "punct": "dou"
+      },
+      "牛",
+      {
+        "punct": "dou"
+      },
+      "羊",
+      {
+        "punct": "dou"
+      },
+      "豕",
+      {
+        "punct": "dou"
+      },
+      "犬",
+      {
+        "punct": "dou"
+      },
+      "雞也",
+      {
+        "punct": "ju"
+      },
+      "又曰",
+      {
+        "punct": "dou"
+      },
+      "王日一舉",
+      {
+        "punct": "dou"
+      },
+      "鼎十有二",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "註"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "殺牲盛饌曰舉",
+      {
+        "punct": "dou"
+      },
+      "鼎十有二",
+      {
+        "punct": "dou"
+      },
+      "牢鼎九",
+      {
+        "punct": "dou"
+      },
+      "陪鼎三",
+      {
+        "punct": "ju"
+      },
+      "帝事佛",
+      {
+        "punct": "dou"
+      },
+      "乃不宰殺",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "朝中會同",
+      {
+        "punct": "dou"
+      },
+      "菜蔬而已",
+      {
+        "punct": "dou"
+      },
+      "若復減此",
+      {
+        "punct": "dou"
+      },
+      "必有",
+      {
+        "book-title": "蟋蟀"
+      },
+      "之譏",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "詩·唐·蟋蟀"
+      },
+      {
+        "punct": "dou"
+      },
+      "刺晉僖公儉不中禮",
+      {
+        "punct": "ju"
+      },
+      "朝",
+      {
+        "punct": "dou"
+      },
+      "直遙翻",
+      {
+        "punct": "ju"
+      },
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "若以為功德事者",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "帝以供佛",
+      {
+        "punct": "dou"
+      },
+      "供僧",
+      {
+        "punct": "dou"
+      },
+      "設無遮",
+      {
+        "punct": "dou"
+      },
+      "無礙會為功德事",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "皆是園中之物",
+      {
+        "punct": "dou"
+      },
+      "變一瓜為數十種",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "種",
+      {
+        "punct": "dou"
+      },
+      "章勇翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "治一菜為數十味",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "治",
+      {
+        "punct": "dou"
+      },
+      "直之翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "以變故多",
+      {
+        "punct": "dou"
+      },
+      "何損於事",
+      {
+        "punct": "ju"
+      },
+      "我自非公宴",
+      {
+        "punct": "dou"
+      },
+      "不食國家之食",
+      {
+        "punct": "dou"
+      },
+      "多歷年所",
+      {
+        "punct": "dou"
+      },
+      "乃至宮人",
+      {
+        "punct": "dou"
+      },
+      "亦不食國家之食",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "帝奄有東南",
+      {
+        "punct": "dou"
+      },
+      "凡其所食",
+      {
+        "punct": "dou"
+      },
+      "自其身以及六宮",
+      {
+        "punct": "dou"
+      },
+      "不由佛營",
+      {
+        "punct": "dou"
+      },
+      "不由神造",
+      {
+        "punct": "dou"
+      },
+      "又不由西天竺國來",
+      {
+        "punct": "dou"
+      },
+      "有不出於東南民力者乎",
+      {
+        "punct": "ju"
+      },
+      "惟不出於公賦",
+      {
+        "punct": "dou"
+      },
+      "遂以為不食國家之食",
+      {
+        "punct": "ju"
+      },
+      "誠如此",
+      {
+        "punct": "dou"
+      },
+      "則國家者果誰之國家邪",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "凡所營造",
+      {
+        "punct": "dou"
+      },
+      "不關材官及以國匠",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "此自文其營造塔寺之過耳",
+      {
+        "punct": "ju"
+      },
+      "材官將軍",
+      {
+        "punct": "dou"
+      },
+      "屬少府卿",
+      {
+        "punct": "ju"
+      },
+      "國匠者",
+      {
+        "punct": "dou"
+      },
+      "官給其俸廩以供國家之用者",
+      {
+        "punct": "ju"
+      },
+      "大匠卿",
+      {
+        "punct": "dou"
+      },
+      "掌土木之工",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "皆資雇借以成其事",
+      {
+        "punct": "ju"
+      },
+      "勇怯不同",
+      {
+        "punct": "dou"
+      },
+      "貪廉各用",
+      {
+        "punct": "dou"
+      },
+      "亦非朝廷為之傅翼",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "為",
+      {
+        "punct": "dou"
+      },
+      "于偽翻",
+      {
+        "punct": "ju"
+      },
+      "傅",
+      {
+        "punct": "dou"
+      },
+      "讀曰附",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "卿以朝廷為悖",
+      {
+        "punct": "dou"
+      },
+      "乃自甘之",
+      {
+        "punct": "dou"
+      },
+      "當思致悖所以",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "悖",
+      {
+        "punct": "dou"
+      },
+      "蒲妹翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "卿云宜導之以節儉",
+      {
+        "punct": "dou"
+      },
+      "朕絕房室三十餘年",
+      {
+        "punct": "dou"
+      },
+      "至於居處不過一牀之地",
+      {
+        "punct": "dou"
+      },
+      "雕飾之物不入於宮",
+      {
+        "punct": "dou"
+      },
+      "受生不飲酒",
+      {
+        "punct": "dou"
+      },
+      "不好音聲",
+      {
+        "punct": "dou"
+      },
+      "所以朝中曲宴",
+      {
+        "punct": "dou"
+      },
+      "未嘗奏樂",
+      {
+        "punct": "dou"
+      },
+      "此羣賢之所見也",
+      {
+        "punct": "ju"
+      },
+      "朕三更出治事",
+      {
+        "punct": "dou"
+      },
+      "隨事多少",
+      {
+        "punct": "dou"
+      },
+      "事少午前得竟",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "孔穎達曰",
+      {
+        "punct": "dou"
+      },
+      "雜比曰音",
+      {
+        "punct": "dou"
+      },
+      "單出曰聲",
+      {
+        "punct": "ju"
+      },
+      "竟",
+      {
+        "punct": "dou"
+      },
+      "畢其事也",
+      {
+        "punct": "ju"
+      },
+      "處",
+      {
+        "punct": "dou"
+      },
+      "昌呂翻",
+      {
+        "punct": "ju"
+      },
+      "好",
+      {
+        "punct": "dou"
+      },
+      "呼到翻",
+      {
+        "punct": "ju"
+      },
+      "更",
+      {
+        "punct": "dou"
+      },
+      "工衡翻",
+      {
+        "punct": "ju"
+      },
+      "朝",
+      {
+        "punct": "dou"
+      },
+      "直遙翻",
+      {
+        "punct": "ju"
+      },
+      "少",
+      {
+        "punct": "dou"
+      },
+      "詩沼翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "事多日昃方食",
+      {
+        "punct": "dou"
+      },
+      "日常一食",
+      {
+        "punct": "dou"
+      },
+      "若晝若夜",
+      {
+        "punct": "dou"
+      },
+      "昔要腹過於十圍",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "要",
+      {
+        "punct": "dou"
+      },
+      "讀曰腰",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "今之瘦削纔二尺餘",
+      {
+        "punct": "dou"
+      },
+      "舊帶猶存",
+      {
+        "punct": "dou"
+      },
+      "非為妄說",
+      {
+        "punct": "ju"
+      },
+      "為誰為之",
+      {
+        "punct": "ju"
+      },
+      "救物故也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "為誰之為",
+      {
+        "punct": "dou"
+      },
+      "于偽翻",
+      {
+        "punct": "dou"
+      },
+      "下手為同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "卿又曰百司莫不奏事",
+      {
+        "punct": "dou"
+      },
+      "詭競求進",
+      {
+        "punct": "dou"
+      },
+      "今不使外人呈事",
+      {
+        "punct": "dou"
+      },
+      "誰尸其任",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "尸",
+      {
+        "punct": "dou"
+      },
+      "主也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "專委之人",
+      {
+        "punct": "dou"
+      },
+      "云何可得",
+      {
+        "punct": "ju"
+      },
+      "古人云",
+      {
+        "punct": "dou"
+      },
+      "專聽生姦",
+      {
+        "punct": "dou"
+      },
+      "獨任成亂",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "漢鄒陽之言",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "二世之委趙高",
+      {
+        "punct": "dou"
+      },
+      "元后之付王莽",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "趙高事見",
+      {
+        "book-title": "秦紀"
+      },
+      {
+        "punct": "dou"
+      },
+      "王莽事見",
+      {
+        "book-title": "漢紀"
+      },
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "呼鹿為馬",
+      {
+        "punct": "dou"
+      },
+      "又可法歟",
+      {
+        "punct": "ju"
+      },
+      "卿云吹毛求疵",
+      {
+        "punct": "dou"
+      },
+      "復是何人",
+      {
+        "punct": "ju"
+      },
+      "擘肌分理",
+      {
+        "punct": "dou"
+      },
+      "復是何事",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "dou"
+      },
+      "下當復",
+      {
+        "punct": "dou"
+      },
+      "復見",
+      {
+        "punct": "dou"
+      },
+      "敢復同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "治",
+      {
+        "punct": "dou"
+      },
+      "署",
+      {
+        "punct": "dou"
+      },
+      "邸",
+      {
+        "punct": "dou"
+      },
+      "肆等",
+      {
+        "punct": "dou"
+      },
+      "何者宜除",
+      {
+        "punct": "ju"
+      },
+      "何者宜減",
+      {
+        "punct": "ju"
+      },
+      "何處興造非急",
+      {
+        "punct": "ju"
+      },
+      "何處徵求可緩",
+      {
+        "punct": "ju"
+      },
+      "各出其事",
+      {
+        "punct": "dou"
+      },
+      "具以奏聞",
+      {
+        "punct": "ju"
+      },
+      "富國強兵之術",
+      {
+        "punct": "dou"
+      },
+      "息民省役之宜",
+      {
+        "punct": "dou"
+      },
+      "並宜具列",
+      {
+        "punct": "ju"
+      },
+      "若不具列",
+      {
+        "punct": "dou"
+      },
+      "則是欺罔朝廷",
+      {
+        "punct": "ju"
+      },
+      "倚"
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "十二行本倚作佇",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本同",
+      {
+        "punct": "dou"
+      },
+      "孔本同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "聞重奏",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "倚",
+      {
+        "punct": "dou"
+      },
+      "側也",
+      {
+        "punct": "ju"
+      },
+      "側者",
+      {
+        "punct": "dou"
+      },
+      "傾待之義",
+      {
+        "punct": "dou"
+      },
+      "如側耳",
+      {
+        "punct": "dou"
+      },
+      "側身",
+      {
+        "punct": "dou"
+      },
+      "側席之類",
+      {
+        "punct": "ju"
+      },
+      "重",
+      {
+        "punct": "dou"
+      },
+      "直龍翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "當復省覽",
+      {
+        "punct": "dou"
+      },
+      "付之尚書",
+      {
+        "punct": "dou"
+      },
+      "班下海內",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "省",
+      {
+        "punct": "dou"
+      },
+      "悉景翻",
+      {
+        "punct": "ju"
+      },
+      "下",
+      {
+        "punct": "dou"
+      },
+      "遐嫁翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "庶惟新之美",
+      {
+        "punct": "dou"
+      },
+      "復見今日",
+      {
+        "punct": "ju"
+      },
+      "琛但謝過而已",
+      {
+        "punct": "dou"
+      },
+      "不敢復言",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "上為人孝慈恭儉",
+      {
+        "punct": "dou"
+      },
+      "博學能文",
+      {
+        "punct": "dou"
+      },
+      "陰陽",
+      {
+        "punct": "dou"
+      },
+      "卜筮",
+      {
+        "punct": "dou"
+      },
+      "騎射",
+      {
+        "punct": "dou"
+      },
+      "聲律",
+      {
+        "punct": "dou"
+      },
+      "草隸",
+      {
+        "punct": "dou"
+      },
+      "圍碁",
+      {
+        "punct": "dou"
+      },
+      "無不精妙",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "騎",
+      {
+        "punct": "dou"
+      },
+      "奇寄翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "勤於政務",
+      {
+        "punct": "dou"
+      },
+      "冬月四更竟",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "夜分五更",
+      {
+        "punct": "dou"
+      },
+      "每更至五點而竟",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "卽起視事",
+      {
+        "punct": "dou"
+      },
+      "執筆觸寒",
+      {
+        "punct": "dou"
+      },
+      "手為皴裂",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "皴",
+      {
+        "punct": "dou"
+      },
+      "七倫翻",
+      {
+        "punct": "dou"
+      },
+      "皮細起也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "自天監中用釋氏法",
+      {
+        "punct": "dou"
+      },
+      "長齋斷魚肉",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "斷",
+      {
+        "punct": "dou"
+      },
+      "音短",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "日止一食",
+      {
+        "punct": "dou"
+      },
+      "惟菜羹",
+      {
+        "punct": "dou"
+      },
+      "糲飯而已",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "糲",
+      {
+        "punct": "dou"
+      },
+      "盧達翻",
+      {
+        "punct": "ju"
+      },
+      "糲者",
+      {
+        "punct": "dou"
+      },
+      "粗而不鑿也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "或遇事繁",
+      {
+        "punct": "dou"
+      },
+      "日移中則嗽口以過",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "日移中",
+      {
+        "punct": "dou"
+      },
+      "日過中也",
+      {
+        "punct": "ju"
+      },
+      "嗽",
+      {
+        "punct": "dou"
+      },
+      "當作漱",
+      {
+        "punct": "dou"
+      },
+      "滌口也",
+      {
+        "punct": "dou"
+      },
+      "音先奏翻",
+      {
+        "punct": "ju"
+      },
+      "過",
+      {
+        "punct": "dou"
+      },
+      "謂度日也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "身衣布衣",
+      {
+        "punct": "dou"
+      },
+      "木緜皁帳",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "木綿",
+      {
+        "punct": "dou"
+      },
+      "江南多有之",
+      {
+        "punct": "dou"
+      },
+      "以春二三月之晦下子種之",
+      {
+        "punct": "ju"
+      },
+      "旣生",
+      {
+        "punct": "dou"
+      },
+      "須一月三薅其四旁",
+      {
+        "punct": "dou"
+      },
+      "失時不薅",
+      {
+        "punct": "dou"
+      },
+      "則為草所荒穢",
+      {
+        "punct": "dou"
+      },
+      "輒萎死",
+      {
+        "punct": "ju"
+      },
+      "入夏漸茂",
+      {
+        "punct": "dou"
+      },
+      "至秋生黃花結實",
+      {
+        "punct": "ju"
+      },
+      "及熟時",
+      {
+        "punct": "dou"
+      },
+      "其皮四裂",
+      {
+        "punct": "dou"
+      },
+      "其中綻出如綿",
+      {
+        "punct": "ju"
+      },
+      "土人以鐵鋌碾去其核",
+      {
+        "punct": "dou"
+      },
+      "取如綿者",
+      {
+        "punct": "dou"
+      },
+      "以竹為小弓",
+      {
+        "punct": "dou"
+      },
+      "長尺四五寸許",
+      {
+        "punct": "dou"
+      },
+      "牽弦以彈緜",
+      {
+        "punct": "dou"
+      },
+      "令其勻細",
+      {
+        "punct": "ju"
+      },
+      "卷為小筩",
+      {
+        "punct": "dou"
+      },
+      "就車紡之",
+      {
+        "punct": "dou"
+      },
+      "自然抽緒",
+      {
+        "punct": "dou"
+      },
+      "如繅絲狀",
+      {
+        "punct": "dou"
+      },
+      "不勞紉緝",
+      {
+        "punct": "dou"
+      },
+      "織以為布",
+      {
+        "punct": "ju"
+      },
+      "自閩",
+      {
+        "punct": "dou"
+      },
+      "廣來者",
+      {
+        "punct": "dou"
+      },
+      "尤為麗密",
+      {
+        "punct": "ju"
+      },
+      "方勺曰",
+      {
+        "punct": "dou"
+      },
+      "閩",
+      {
+        "punct": "dou"
+      },
+      "廣多種木綿",
+      {
+        "punct": "dou"
+      },
+      "樹高七八尺",
+      {
+        "punct": "dou"
+      },
+      "葉如柞",
+      {
+        "punct": "dou"
+      },
+      "結實如大菱而色青",
+      {
+        "punct": "dou"
+      },
+      "秋深卽開露",
+      {
+        "punct": "dou"
+      },
+      "白綿茸然",
+      {
+        "punct": "ju"
+      },
+      "土人摘取",
+      {
+        "punct": "dou"
+      },
+      "去殼",
+      {
+        "punct": "dou"
+      },
+      "以鐵扙捍盡黑子",
+      {
+        "punct": "dou"
+      },
+      "徐以小弓彈令紛起",
+      {
+        "punct": "dou"
+      },
+      "然後紡績為布",
+      {
+        "punct": "dou"
+      },
+      "名曰吉貝",
+      {
+        "punct": "dou"
+      },
+      "今所貨木綿",
+      {
+        "punct": "dou"
+      },
+      "特其細緊者耳",
+      {
+        "punct": "ju"
+      },
+      "當以花多為勝",
+      {
+        "punct": "dou"
+      },
+      "橫數之得百二十花",
+      {
+        "punct": "dou"
+      },
+      "此最上品",
+      {
+        "punct": "ju"
+      },
+      "海南蠻人織為巾",
+      {
+        "punct": "dou"
+      },
+      "上出細字雜花卉",
+      {
+        "punct": "dou"
+      },
+      "尤工巧",
+      {
+        "punct": "dou"
+      },
+      "卽古所謂白疊巾",
+      {
+        "punct": "ju"
+      },
+      "身衣",
+      {
+        "punct": "dou"
+      },
+      "於旣翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "一冠三載",
+      {
+        "punct": "dou"
+      },
+      "一衾二年",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "載",
+      {
+        "punct": "dou"
+      },
+      "子亥翻",
+      {
+        "punct": "dou"
+      },
+      "亦年也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "後宮貴妃以下",
+      {
+        "punct": "dou"
+      },
+      "衣不曳地",
+      {
+        "punct": "ju"
+      },
+      "性不飲酒",
+      {
+        "punct": "dou"
+      },
+      "非宗廟祭祀",
+      {
+        "punct": "dou"
+      },
+      "大饗宴及諸法事",
+      {
+        "punct": "dou"
+      },
+      "未嘗作樂",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "法事",
+      {
+        "punct": "dou"
+      },
+      "謂奉佛為梵唄",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "雖居暗室",
+      {
+        "punct": "dou"
+      },
+      "恆理衣冠",
+      {
+        "punct": "dou"
+      },
+      "小坐",
+      {
+        "punct": "dou"
+      },
+      "盛暑",
+      {
+        "punct": "dou"
+      },
+      "未嘗褰袒",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "小坐",
+      {
+        "punct": "dou"
+      },
+      "宮中便坐也",
+      {
+        "punct": "ju"
+      },
+      "恆",
+      {
+        "punct": "dou"
+      },
+      "戶登翻",
+      {
+        "punct": "ju"
+      },
+      "坐",
+      {
+        "punct": "dou"
+      },
+      "徂臥翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "對內豎小臣",
+      {
+        "punct": "dou"
+      },
+      "如遇大賓",
+      {
+        "punct": "ju"
+      },
+      "然優假士人太過",
+      {
+        "punct": "dou"
+      },
+      "牧守多浸漁百姓",
+      {
+        "punct": "dou"
+      },
+      "使者干擾郡縣",
+      {
+        "punct": "ju"
+      },
+      "又好親任小人",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "守",
+      {
+        "punct": "dou"
+      },
+      "式又翻",
+      {
+        "punct": "ju"
+      },
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "ju"
+      },
+      "好",
+      {
+        "punct": "dou"
+      },
+      "呼到翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "頗傷苛察",
+      {
+        "punct": "dou"
+      },
+      "多造塔廟",
+      {
+        "punct": "dou"
+      },
+      "公私費損",
+      {
+        "punct": "ju"
+      },
+      "江南久安",
+      {
+        "punct": "dou"
+      },
+      "風俗奢靡",
+      {
+        "punct": "dou"
+      },
+      "故琛啓及之",
+      {
+        "punct": "ju"
+      },
+      "上惡其觸實",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "惡",
+      {
+        "punct": "dou"
+      },
+      "烏路翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "故怒",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "臣光曰",
+      {
+        "punct": "dou"
+      },
+      "梁高祖之不終也",
+      {
+        "punct": "dou"
+      },
+      "宜哉",
+      {
+        "punct": "ju"
+      },
+      "夫人君聽納之失",
+      {
+        "punct": "dou"
+      },
+      "在於叢脞",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "孔安國曰",
+      {
+        "punct": "dou"
+      },
+      "叢脞",
+      {
+        "punct": "dou"
+      },
+      "細碎無大略",
+      {
+        "punct": "ju"
+      },
+      "馬融曰",
+      {
+        "punct": "dou"
+      },
+      "叢",
+      {
+        "punct": "dou"
+      },
+      "總也",
+      {
+        "punct": "ju"
+      },
+      "脞",
+      {
+        "punct": "dou"
+      },
+      "小也",
+      {
+        "punct": "ju"
+      },
+      "陸德明曰",
+      {
+        "punct": "dou"
+      },
+      "脞",
+      {
+        "punct": "dou"
+      },
+      "倉果翻",
+      {
+        "punct": "dou"
+      },
+      "徐音鎖",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "人臣獻替之病",
+      {
+        "punct": "dou"
+      },
+      "在於煩碎",
+      {
+        "punct": "ju"
+      },
+      "是以明主守要道以御萬機之本",
+      {
+        "punct": "dou"
+      },
+      "忠臣陳大體以格君心之非",
+      {
+        "punct": "dou"
+      },
+      "故身不勞而收功遠",
+      {
+        "punct": "dou"
+      },
+      "言至約而為益大也",
+      {
+        "punct": "ju"
+      },
+      "觀夫賀琛之諫未"
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "十二行本未上有亦字",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本同",
+      {
+        "punct": "dou"
+      },
+      "孔本同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "至於切直",
+      {
+        "punct": "dou"
+      },
+      "而高祖已赫然震怒",
+      {
+        "punct": "dou"
+      },
+      "護其所短",
+      {
+        "punct": "dou"
+      },
+      "矜其所長",
+      {
+        "punct": "dou"
+      },
+      "詰貪暴之主名",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "詰",
+      {
+        "punct": "dou"
+      },
+      "去吉翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "問勞費之條目",
+      {
+        "punct": "dou"
+      },
+      "困以難對之狀",
+      {
+        "punct": "dou"
+      },
+      "責以必窮之辭",
+      {
+        "punct": "ju"
+      },
+      "自以蔬食之儉為盛德",
+      {
+        "punct": "dou"
+      },
+      "日昃之勤為至治",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "昃",
+      {
+        "punct": "dou"
+      },
+      "阻力翻",
+      {
+        "punct": "ju"
+      },
+      "治",
+      {
+        "punct": "dou"
+      },
+      "直吏翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "君道已備",
+      {
+        "punct": "dou"
+      },
+      "無復可加",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "羣臣箴規",
+      {
+        "punct": "dou"
+      },
+      "舉不足聽",
+      {
+        "punct": "ju"
+      },
+      "如此",
+      {
+        "punct": "dou"
+      },
+      "則自餘切直之言過於琛者",
+      {
+        "punct": "dou"
+      },
+      "誰敢進哉",
+      {
+        "punct": "ju"
+      },
+      "由是姦佞居前而不見",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "謂朱异",
+      {
+        "punct": "dou"
+      },
+      "周石珍輩也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "大謀顚錯而不知",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "謂納侯景",
+      {
+        "punct": "dou"
+      },
+      "復與東魏和也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "commentary": [
+      "名辱身危",
+      {
+        "punct": "dou"
+      },
+      "覆邦絕祀",
+      {
+        "punct": "dou"
+      },
+      "為千古所閔笑",
+      {
+        "punct": "dou"
+      },
+      "豈不哀哉",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "16"
+    ]
+  },
+  {
+    "chronicle": [
+      "上敦尚文雅",
+      {
+        "punct": "dou"
+      },
+      "疏簡刑法",
+      {
+        "punct": "dou"
+      },
+      "自公卿大臣",
+      {
+        "punct": "dou"
+      },
+      "咸不以鞫獄為意",
+      {
+        "punct": "ju"
+      },
+      "姦吏招權弄法",
+      {
+        "punct": "dou"
+      },
+      "貨賂成市",
+      {
+        "punct": "dou"
+      },
+      "枉濫者多",
+      {
+        "punct": "ju"
+      },
+      "大率二歲刑已上歲至五千人",
+      {
+        "punct": "dou"
+      },
+      "徒居作者具五任",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "任",
+      {
+        "punct": "dou"
+      },
+      "謂其人巧力所任也",
+      {
+        "punct": "ju"
+      },
+      "五任",
+      {
+        "punct": "dou"
+      },
+      "謂任攻木者則役之攻木",
+      {
+        "punct": "dou"
+      },
+      "任攻金者則役之攻金",
+      {
+        "punct": "dou"
+      },
+      "任攻皮者則役之攻皮",
+      {
+        "punct": "dou"
+      },
+      "任設色者則役之設色",
+      {
+        "punct": "dou"
+      },
+      "任摶埴者則役之摶埴",
+      {
+        "punct": "ju"
+      },
+      "任",
+      {
+        "punct": "dou"
+      },
+      "音壬",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "其無任者著升械",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "魏武帝定",
+      {
+        "book-title": "甲子科"
+      },
+      {
+        "punct": "dou"
+      },
+      "犯釱左右趾者",
+      {
+        "punct": "dou"
+      },
+      "易以升械",
+      {
+        "punct": "dou"
+      },
+      "是時乏鐵",
+      {
+        "punct": "dou"
+      },
+      "故易以木焉",
+      {
+        "punct": "ju"
+      },
+      "著",
+      {
+        "punct": "dou"
+      },
+      "陟略翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "若疾病",
+      {
+        "punct": "dou"
+      },
+      "權解之",
+      {
+        "punct": "dou"
+      },
+      "是後囚徒或有優",
+      {
+        "punct": "dou"
+      },
+      "劇",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "言囚徒有力足以行賂者",
+      {
+        "punct": "dou"
+      },
+      "則守吏詭言疾病",
+      {
+        "punct": "dou"
+      },
+      "權解其械而得優寬",
+      {
+        "punct": "ju"
+      },
+      "其無力以賂吏者",
+      {
+        "punct": "dou"
+      },
+      "則雖實罹疾病",
+      {
+        "punct": "dou"
+      },
+      "亦不得解械",
+      {
+        "punct": "dou"
+      },
+      "更增苦劇也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "時王侯子弟",
+      {
+        "punct": "dou"
+      },
+      "多驕淫不法",
+      {
+        "punct": "ju"
+      },
+      "上年老",
+      {
+        "punct": "dou"
+      },
+      "厭於萬幾",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "幾",
+      {
+        "punct": "dou"
+      },
+      "居希翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "又專精佛戒",
+      {
+        "punct": "dou"
+      },
+      "每斷重罪",
+      {
+        "punct": "dou"
+      },
+      "則終日不懌",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "梁武帝斷重罪則終日不懌",
+      {
+        "punct": "dou"
+      },
+      "此好生惡殺之意也",
+      {
+        "punct": "ju"
+      },
+      "夷考帝之終身",
+      {
+        "punct": "dou"
+      },
+      "自襄陽舉兵以至下建康",
+      {
+        "punct": "dou"
+      },
+      "猶曰事關家國",
+      {
+        "punct": "dou"
+      },
+      "伐罪救民",
+      {
+        "punct": "ju"
+      },
+      "洛口之敗",
+      {
+        "punct": "dou"
+      },
+      "死者凡幾何人",
+      {
+        "punct": "ju"
+      },
+      "俘山之役",
+      {
+        "punct": "dou"
+      },
+      "死者凡幾何人",
+      {
+        "punct": "ju"
+      },
+      "寒山之敗",
+      {
+        "punct": "dou"
+      },
+      "死者又幾何人",
+      {
+        "punct": "ju"
+      },
+      "其間爭城以戰",
+      {
+        "punct": "dou"
+      },
+      "殺人盈城",
+      {
+        "punct": "dou"
+      },
+      "爭地以戰",
+      {
+        "punct": "dou"
+      },
+      "殺人盈野",
+      {
+        "punct": "dou"
+      },
+      "南北之人交相為死者",
+      {
+        "punct": "dou"
+      },
+      "不可以數計也",
+      {
+        "punct": "ju"
+      },
+      "至於侯景之亂",
+      {
+        "punct": "dou"
+      },
+      "東極吳",
+      {
+        "punct": "dou"
+      },
+      "會",
+      {
+        "punct": "dou"
+      },
+      "西抵江",
+      {
+        "punct": "dou"
+      },
+      "郢",
+      {
+        "punct": "dou"
+      },
+      "死於兵",
+      {
+        "punct": "dou"
+      },
+      "死於饑者",
+      {
+        "punct": "dou"
+      },
+      "自典午南渡之後",
+      {
+        "punct": "dou"
+      },
+      "未始見也",
+      {
+        "punct": "ju"
+      },
+      "驅無辜之人而就死地",
+      {
+        "punct": "dou"
+      },
+      "不惟儒道之所不許",
+      {
+        "punct": "dou"
+      },
+      "乃佛敎之罪人",
+      {
+        "punct": "dou"
+      },
+      "而斷一重罪乃終日不懌",
+      {
+        "punct": "dou"
+      },
+      "吾誰欺",
+      {
+        "punct": "dou"
+      },
+      "欺天乎",
+      {
+        "punct": "ju"
+      },
+      "斷",
+      {
+        "punct": "dou"
+      },
+      "丁亂翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "或謀反逆",
+      {
+        "punct": "dou"
+      },
+      "事覺",
+      {
+        "punct": "dou"
+      },
+      "亦泣而宥之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "如臨賀王正德父子是也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "由是王侯益橫",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "橫",
+      {
+        "punct": "dou"
+      },
+      "戶孟翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "或白晝殺人於都街",
+      {
+        "punct": "dou"
+      },
+      "或暮夜公行剽劫",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "剽",
+      {
+        "punct": "dou"
+      },
+      "匹妙翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "有罪亡命者",
+      {
+        "punct": "dou"
+      },
+      "匿於王家",
+      {
+        "punct": "dou"
+      },
+      "有司不敢搜捕",
+      {
+        "punct": "ju"
+      },
+      "上深知其弊",
+      {
+        "punct": "dou"
+      },
+      "溺於慈愛",
+      {
+        "punct": "dou"
+      },
+      "不能禁也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "17"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏東陽王榮為瓜州刺史",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "敦煌郡",
+      {
+        "punct": "dou"
+      },
+      "舊置瓜州",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "與其壻鄧彥偕行",
+      {
+        "punct": "ju"
+      },
+      "榮卒",
+      {
+        "punct": "dou"
+      },
+      "瓜州首望表榮子康為刺史",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "各州之大姓",
+      {
+        "punct": "dou"
+      },
+      "是為望族",
+      {
+        "punct": "ju"
+      },
+      "首望者",
+      {
+        "punct": "dou"
+      },
+      "又一州望族之首",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "彥殺康而奪其位",
+      {
+        "punct": "dou"
+      },
+      "魏不能討",
+      {
+        "punct": "dou"
+      },
+      "因以彥為刺史",
+      {
+        "punct": "dou"
+      },
+      "屢徵不至",
+      {
+        "punct": "dou"
+      },
+      "又南通吐谷渾",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "吐谷渾立國在敦煌之南",
+      {
+        "punct": "dou"
+      },
+      "隔大河",
+      {
+        "punct": "ju"
+      },
+      "吐",
+      {
+        "punct": "dou"
+      },
+      "從暾入聲",
+      {
+        "punct": "ju"
+      },
+      "谷",
+      {
+        "punct": "dou"
+      },
+      "音浴",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "丞相泰以道遠難於動衆",
+      {
+        "punct": "dou"
+      },
+      "欲以計取之",
+      {
+        "punct": "dou"
+      },
+      "以給事黃門侍郞申徽為河西大使",
+      {
+        "punct": "dou"
+      },
+      "密令圖彥",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "徽以五十騎行",
+      {
+        "punct": "dou"
+      },
+      "旣至",
+      {
+        "punct": "dou"
+      },
+      "止於賓館",
+      {
+        "punct": "dou"
+      },
+      "彥見徽單使",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "兵從不多",
+      {
+        "punct": "dou"
+      },
+      "故曰單使",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "文選"
+      },
+      "李陵",
+      {
+        "book-title": "答蘇武書"
+      },
+      "所謂單車之使者也",
+      {
+        "punct": "ju"
+      },
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "ju"
+      },
+      "騎",
+      {
+        "punct": "dou"
+      },
+      "奇寄翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "不以為疑",
+      {
+        "punct": "ju"
+      },
+      "徽遣人微勸彥歸朝",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "朝",
+      {
+        "punct": "dou"
+      },
+      "直遙翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "彥不從",
+      {
+        "punct": "dou"
+      },
+      "徽又使贊成其留計",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "贊其留敦煌之計",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "彥信之",
+      {
+        "punct": "dou"
+      },
+      "遂來至館",
+      {
+        "punct": "ju"
+      },
+      "徽先與州主簿敦煌令狐整等密謀",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "令狐整",
+      {
+        "punct": "dou"
+      },
+      "瓜州之望也",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "姓譜"
+      },
+      {
+        "punct": "dou"
+      },
+      "令狐本自畢萬之後晉大夫令狐文子",
+      {
+        "punct": "dou"
+      },
+      "卽魏顆也",
+      {
+        "punct": "ju"
+      },
+      "敦",
+      {
+        "punct": "dou"
+      },
+      "徒門翻",
+      {
+        "punct": "ju"
+      },
+      "令",
+      {
+        "punct": "dou"
+      },
+      "音零",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "執彥於坐",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "坐",
+      {
+        "punct": "dou"
+      },
+      "徂臥翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "責而縛之",
+      {
+        "punct": "dou"
+      },
+      "因宣詔慰諭吏民",
+      {
+        "punct": "dou"
+      },
+      "且云大軍續至",
+      {
+        "punct": "dou"
+      },
+      "城中無敢動者",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "鄧彥久在瓜州",
+      {
+        "punct": "dou"
+      },
+      "豈無黨與",
+      {
+        "punct": "ju"
+      },
+      "威之以大軍繼至",
+      {
+        "punct": "dou"
+      },
+      "故懼而不敢動",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "遂送彥於長安",
+      {
+        "punct": "ju"
+      },
+      "泰以徽為都官尚書",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "reign-year": [
+      "　中大同元年"
+    ]
+  },
+  {
+    "annotation-era": [
+      "丙寅",
+      {
+        "punct": "dou"
+      },
+      "五四六"
+    ]
+  },
+  {
+    "annotation": [
+      "是年夏四月",
+      {
+        "punct": "dou"
+      },
+      "方改元為中大同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "1"
+    ]
+  },
+  {
+    "chronicle": [
+      "春",
+      {
+        "punct": "dou"
+      },
+      "正月",
+      {
+        "punct": "dou"
+      },
+      "癸丑",
+      {
+        "punct": "dou"
+      },
+      "楊㬓等克嘉寧城",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "㬓",
+      {
+        "punct": "dou"
+      },
+      "匹妙翻",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "考異"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "典略"
+      },
+      "作乙未",
+      {
+        "punct": "ju"
+      },
+      "今從",
+      {
+        "book-title": "梁帝紀"
+      },
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "李賁奔新昌獠中",
+      {
+        "punct": "dou"
+      },
+      "諸軍頓于江口",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "江口",
+      {
+        "punct": "dou"
+      },
+      "卽蘇歷江入海之口",
+      {
+        "punct": "ju"
+      },
+      "獠",
+      {
+        "punct": "dou"
+      },
+      "魯皓翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "2"
+    ]
+  },
+  {
+    "chronicle": [
+      "二月",
+      {
+        "punct": "dou"
+      },
+      "魏以義州刺史史寧"
+    ]
+  },
+  {
+    "annotation": [
+      "先是東",
+      {
+        "punct": "dou"
+      },
+      "西魏爭義州",
+      {
+        "punct": "dou"
+      },
+      "史寧先入城據之",
+      {
+        "punct": "dou"
+      },
+      "西魏因以為刺史",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "為涼州刺史",
+      {
+        "punct": "dou"
+      },
+      "前刺史宇文仲和據州",
+      {
+        "punct": "dou"
+      },
+      "不受代",
+      {
+        "punct": "dou"
+      },
+      "瓜州民張保殺刺史成慶以應之",
+      {
+        "punct": "dou"
+      },
+      "晉昌民呂興殺太守郭肆",
+      {
+        "punct": "dou"
+      },
+      "以郡應保",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "劉昫",
+      {
+        "book-title": "唐志"
+      },
+      {
+        "punct": "dou"
+      },
+      "瓜州晉昌縣",
+      {
+        "punct": "dou"
+      },
+      "漢敦煌郡之寘安縣",
+      {
+        "punct": "dou"
+      },
+      "舊置晉昌郡及寘安縣",
+      {
+        "punct": "dou"
+      },
+      "因改晉昌為永興",
+      {
+        "punct": "dou"
+      },
+      "隋改為瓜州",
+      {
+        "punct": "dou"
+      },
+      "改寘安為常樂",
+      {
+        "punct": "dou"
+      },
+      "武德七年",
+      {
+        "punct": "dou"
+      },
+      "復為晉昌",
+      {
+        "punct": "ju"
+      },
+      "唐又有常樂縣",
+      {
+        "punct": "dou"
+      },
+      "則漢之廣至縣地也",
+      {
+        "punct": "ju"
+      },
+      "又按",
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "瓜州常樂縣",
+      {
+        "punct": "dou"
+      },
+      "後魏置常樂郡",
+      {
+        "punct": "dou"
+      },
+      "後周倂涼興",
+      {
+        "punct": "dou"
+      },
+      "廣至",
+      {
+        "punct": "dou"
+      },
+      "寘安",
+      {
+        "punct": "dou"
+      },
+      "閏泉合為涼興縣",
+      {
+        "punct": "dou"
+      },
+      "隋廢郡",
+      {
+        "punct": "dou"
+      },
+      "改縣為常樂",
+      {
+        "punct": "ju"
+      },
+      "參而考之",
+      {
+        "punct": "dou"
+      },
+      "則晉昌郡當置於隋常樂縣界",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "丞相泰遣太子太保獨狐信",
+      {
+        "punct": "dou"
+      },
+      "開府儀同三司怡峯與史寧討之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "3"
+    ]
+  },
+  {
+    "chronicle": [
+      "三月",
+      {
+        "punct": "dou"
+      },
+      "乙巳",
+      {
+        "punct": "dou"
+      },
+      "大赦",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "4"
+    ]
+  },
+  {
+    "chronicle": [
+      "庚戌",
+      {
+        "punct": "dou"
+      },
+      "上幸同泰寺",
+      {
+        "punct": "dou"
+      },
+      "遂停寺省",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "同泰寺有便省",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "講三慧經",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "考異"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "典略"
+      },
+      "云",
+      {
+        "punct": "dou"
+      },
+      "癸卯",
+      {
+        "punct": "dou"
+      },
+      "詔以今月八日於同泰寺設無遮大會",
+      {
+        "punct": "dou"
+      },
+      "捨朕身及以宮人幷所王境土供養三寶",
+      {
+        "punct": "ju"
+      },
+      "四月",
+      {
+        "punct": "dou"
+      },
+      "丙戌",
+      {
+        "punct": "dou"
+      },
+      "公卿以錢二億萬奉贖",
+      {
+        "punct": "ju"
+      },
+      "按韓愈",
+      {
+        "book-title": "佛骨表"
+      },
+      "云",
+      {
+        "punct": "dou"
+      },
+      "三度捨身為寺家奴",
+      {
+        "punct": "dou"
+      },
+      "若幷此則四矣",
+      {
+        "punct": "ju"
+      },
+      "今從",
+      {
+        "book-title": "梁書"
+      },
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "夏",
+      {
+        "punct": "dou"
+      },
+      "四月",
+      {
+        "punct": "dou"
+      },
+      "丙戌",
+      {
+        "punct": "dou"
+      },
+      "解講",
+      {
+        "punct": "dou"
+      },
+      "大赦",
+      {
+        "punct": "dou"
+      },
+      "改元",
+      {
+        "punct": "ju"
+      },
+      "是夜",
+      {
+        "punct": "dou"
+      },
+      "同泰寺浮圖災",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "collation-zou": [
+      "鄒",
+      {
+        "punct": "dou"
+      },
+      "天火曰災",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "上曰",
+      {
+        "punct": "dou"
+      },
+      "此魔也",
+      {
+        "punct": "dou"
+      },
+      "宜廣為法事",
+      {
+        "punct": "ju"
+      },
+      "羣臣皆稱善",
+      {
+        "punct": "ju"
+      },
+      "乃下詔曰",
+      {
+        "punct": "dou"
+      },
+      "道高魔盛",
+      {
+        "punct": "dou"
+      },
+      "行善鄣生",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "魔",
+      {
+        "punct": "dou"
+      },
+      "鬼魔",
+      {
+        "punct": "ju"
+      },
+      "鄣",
+      {
+        "punct": "dou"
+      },
+      "鄣礙",
+      {
+        "punct": "ju"
+      },
+      "魔",
+      {
+        "punct": "dou"
+      },
+      "眉波翻",
+      {
+        "punct": "ju"
+      },
+      "行",
+      {
+        "punct": "dou"
+      },
+      "下孟翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "當窮茲土木",
+      {
+        "punct": "dou"
+      },
+      "倍增往日",
+      {
+        "punct": "ju"
+      },
+      "遂起十二層浮圖",
+      {
+        "punct": "dou"
+      },
+      "將成",
+      {
+        "punct": "dou"
+      },
+      "值侯景亂而止",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "5"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏史寧曉諭涼州吏民",
+      {
+        "punct": "dou"
+      },
+      "率皆歸附",
+      {
+        "punct": "dou"
+      },
+      "獨宇文仲和據城不下",
+      {
+        "punct": "ju"
+      },
+      "五月",
+      {
+        "punct": "dou"
+      },
+      "獨孤信使諸將夜攻其東北",
+      {
+        "punct": "dou"
+      },
+      "自帥壯士襲其西南",
+      {
+        "punct": "dou"
+      },
+      "遲明",
+      {
+        "punct": "dou"
+      },
+      "克之",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "將",
+      {
+        "punct": "dou"
+      },
+      "卽亮翻",
+      {
+        "punct": "ju"
+      },
+      "帥",
+      {
+        "punct": "dou"
+      },
+      "讀曰率",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      },
+      "遲",
+      {
+        "punct": "dou"
+      },
+      "直二翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "遂擒仲和",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "初",
+      {
+        "punct": "dou"
+      },
+      "張保欲殺州主簿令狐整",
+      {
+        "punct": "dou"
+      },
+      "以其人望",
+      {
+        "punct": "dou"
+      },
+      "恐失衆心",
+      {
+        "punct": "dou"
+      },
+      "雖外相敬",
+      {
+        "punct": "dou"
+      },
+      "內甚忌之",
+      {
+        "punct": "ju"
+      },
+      "整陽為親附",
+      {
+        "punct": "dou"
+      },
+      "因使人說保曰",
+      {
+        "punct": "dou"
+      },
+      "今東軍漸逼涼州",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "東軍",
+      {
+        "punct": "dou"
+      },
+      "謂獨孤信之軍東自長安來",
+      {
+        "punct": "ju"
+      },
+      "說",
+      {
+        "punct": "dou"
+      },
+      "式芮翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "彼勢孤危",
+      {
+        "punct": "dou"
+      },
+      "恐不能敵",
+      {
+        "punct": "dou"
+      },
+      "宜急分精銳以救之",
+      {
+        "punct": "ju"
+      },
+      "然成敗在於將領",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "將",
+      {
+        "punct": "dou"
+      },
+      "卽亮翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "令狐延保",
+      {
+        "punct": "dou"
+      },
+      "兼資文武",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "令狐整",
+      {
+        "punct": "dou"
+      },
+      "字延保",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "使將兵以往",
+      {
+        "punct": "dou"
+      },
+      "蔑不濟矣",
+      {
+        "punct": "ju"
+      },
+      "保從之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "整行及玉門",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "玉門縣",
+      {
+        "punct": "dou"
+      },
+      "漢",
+      {
+        "punct": "dou"
+      },
+      "晉屬酒泉郡",
+      {
+        "punct": "ju"
+      },
+      "師古曰",
+      {
+        "punct": "dou"
+      },
+      "闞駰云",
+      {
+        "punct": "dou"
+      },
+      "漢罷玉門關屯",
+      {
+        "punct": "dou"
+      },
+      "徙其人於此",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "瓜州玉門縣",
+      {
+        "punct": "dou"
+      },
+      "後魏置會稽郡",
+      {
+        "punct": "dou"
+      },
+      "又有玉門郡",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "召豪傑保罪狀",
+      {
+        "punct": "dou"
+      },
+      "馳還襲之",
+      {
+        "punct": "ju"
+      },
+      "先克晉昌",
+      {
+        "punct": "dou"
+      },
+      "斬呂興",
+      {
+        "punct": "dou"
+      },
+      "進擊瓜州",
+      {
+        "punct": "dou"
+      },
+      "州人素信服整",
+      {
+        "punct": "dou"
+      },
+      "皆棄保來降",
+      {
+        "punct": "ju"
+      },
+      "保奔吐谷渾",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "降",
+      {
+        "punct": "dou"
+      },
+      "戶江翻",
+      {
+        "punct": "ju"
+      },
+      "吐",
+      {
+        "punct": "dou"
+      },
+      "從暾入聲",
+      {
+        "punct": "ju"
+      },
+      "谷",
+      {
+        "punct": "dou"
+      },
+      "音浴",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "衆議推整為刺史",
+      {
+        "punct": "dou"
+      },
+      "整曰",
+      {
+        "punct": "dou"
+      },
+      "吾屬以張保逆亂",
+      {
+        "punct": "dou"
+      },
+      "恐闔州之人俱陷不義",
+      {
+        "punct": "dou"
+      },
+      "故相與討誅之",
+      {
+        "punct": "dou"
+      },
+      "今復見推",
+      {
+        "punct": "dou"
+      },
+      "是效尤也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "左傳"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "尤而效之",
+      {
+        "punct": "dou"
+      },
+      "罪又甚焉",
+      {
+        "punct": "ju"
+      },
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "乃推魏所遣使波斯者張道義行州事",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "使",
+      {
+        "punct": "dou"
+      },
+      "疏吏翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "具以狀聞",
+      {
+        "punct": "ju"
+      },
+      "丞相泰以申徽為瓜州刺史",
+      {
+        "punct": "ju"
+      },
+      "召整壽昌太守",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "西城郡石泉縣",
+      {
+        "punct": "dou"
+      },
+      "舊曰永樂",
+      {
+        "punct": "dou"
+      },
+      "置晉昌郡",
+      {
+        "punct": "dou"
+      },
+      "西魏改為壽昌郡",
+      {
+        "punct": "dou"
+      },
+      "又改永樂為石泉",
+      {
+        "punct": "ju"
+      },
+      "守",
+      {
+        "punct": "dou"
+      },
+      "式又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "封襄武男",
+      {
+        "punct": "ju"
+      },
+      "整帥宗族鄕里三千餘人入朝",
+      {
+        "punct": "dou"
+      },
+      "從泰征討",
+      {
+        "punct": "dou"
+      },
+      "累遷驃騎大將軍",
+      {
+        "punct": "dou"
+      },
+      "開府儀同三司",
+      {
+        "punct": "dou"
+      },
+      "加侍中",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "令狐整以忠順貴顯於魏",
+      {
+        "punct": "dou"
+      },
+      "史終言之",
+      {
+        "punct": "ju"
+      },
+      "朝",
+      {
+        "punct": "dou"
+      },
+      "直遙翻",
+      {
+        "punct": "ju"
+      },
+      "驃",
+      {
+        "punct": "dou"
+      },
+      "匹妙翻",
+      {
+        "punct": "ju"
+      },
+      "騎",
+      {
+        "punct": "dou"
+      },
+      "奇寄翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "6"
+    ]
+  },
+  {
+    "chronicle": [
+      "六月",
+      {
+        "punct": "dou"
+      },
+      "庚子",
+      {
+        "punct": "dou"
+      },
+      "東魏以司徒景為河南大將軍",
+      {
+        "punct": "dou"
+      },
+      "大行臺",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "7"
+    ]
+  },
+  {
+    "chronicle": [
+      "秋",
+      {
+        "punct": "dou"
+      },
+      "七月",
+      {
+        "punct": "dou"
+      },
+      "壬寅",
+      {
+        "punct": "dou"
+      },
+      "東魏遣散騎常侍元廓來聘",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "散",
+      {
+        "punct": "dou"
+      },
+      "悉亶翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "8"
+    ]
+  },
+  {
+    "chronicle": [
+      "甲子",
+      {
+        "punct": "dou"
+      },
+      "詔",
+      {
+        "punct": "dou"
+      },
+      "犯罪非大逆",
+      {
+        "punct": "dou"
+      },
+      "父母",
+      {
+        "punct": "dou"
+      },
+      "祖父母不坐",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "9"
+    ]
+  },
+  {
+    "chronicle": [
+      "先是",
+      {
+        "punct": "dou"
+      },
+      "江東唯建康及三吳",
+      {
+        "punct": "dou"
+      },
+      "荊",
+      {
+        "punct": "dou"
+      },
+      "郢",
+      {
+        "punct": "dou"
+      },
+      "江",
+      {
+        "punct": "dou"
+      },
+      "湘",
+      {
+        "punct": "dou"
+      },
+      "梁",
+      {
+        "punct": "dou"
+      },
+      "益用錢",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "先",
+      {
+        "punct": "dou"
+      },
+      "悉薦翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "其餘州郡雜以穀帛",
+      {
+        "punct": "dou"
+      },
+      "交",
+      {
+        "punct": "dou"
+      },
+      "廣專以金銀為貨",
+      {
+        "punct": "ju"
+      },
+      "上自鑄五銖及女錢",
+      {
+        "punct": "dou"
+      },
+      "二品並行",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "杜佑曰",
+      {
+        "punct": "dou"
+      },
+      "梁武帝鑄錢",
+      {
+        "punct": "dou"
+      },
+      "肉好周郭",
+      {
+        "punct": "dou"
+      },
+      "文曰五銖",
+      {
+        "punct": "dou"
+      },
+      "重二銖三絫二黍",
+      {
+        "punct": "dou"
+      },
+      "其百文則重一斤二兩",
+      {
+        "punct": "ju"
+      },
+      "又別鑄除其肉郭",
+      {
+        "punct": "dou"
+      },
+      "謂之公式女錢",
+      {
+        "punct": "dou"
+      },
+      "徑一寸",
+      {
+        "punct": "dou"
+      },
+      "文曰五銖",
+      {
+        "punct": "dou"
+      },
+      "重如新鑄五銖",
+      {
+        "punct": "ju"
+      },
+      "二錢並行",
+      {
+        "punct": "ju"
+      },
+      "及其末也",
+      {
+        "punct": "dou"
+      },
+      "又有兩柱錢",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "禁諸古錢",
+      {
+        "punct": "ju"
+      },
+      "普通中",
+      {
+        "punct": "dou"
+      },
+      "更鑄鐵錢",
+      {
+        "punct": "ju"
+      },
+      "由是民私鑄者多",
+      {
+        "punct": "dou"
+      },
+      "物價騰踊",
+      {
+        "punct": "dou"
+      },
+      "交易者至以車載錢",
+      {
+        "punct": "dou"
+      },
+      "不復計數",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "更",
+      {
+        "punct": "dou"
+      },
+      "工衡翻",
+      {
+        "punct": "ju"
+      },
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "又自破嶺以東",
+      {
+        "punct": "dou"
+      },
+      "八十為百",
+      {
+        "punct": "dou"
+      },
+      "名曰東錢",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "破嶺",
+      {
+        "punct": "dou"
+      },
+      "在今鎭江府丹楊縣",
+      {
+        "punct": "dou"
+      },
+      "秦始皇所鑿",
+      {
+        "punct": "dou"
+      },
+      "卽破岡也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "江",
+      {
+        "punct": "dou"
+      },
+      "郢以上",
+      {
+        "punct": "dou"
+      },
+      "七十為百",
+      {
+        "punct": "dou"
+      },
+      "名曰西錢",
+      {
+        "punct": "dou"
+      },
+      "建康以九十為百",
+      {
+        "punct": "dou"
+      },
+      "名曰長錢",
+      {
+        "punct": "ju"
+      },
+      "丙寅",
+      {
+        "punct": "dou"
+      },
+      "詔曰",
+      {
+        "punct": "dou"
+      },
+      "朝四暮三",
+      {
+        "punct": "dou"
+      },
+      "衆狙皆喜",
+      {
+        "punct": "dou"
+      },
+      "名實未虧而喜怒為用",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "莊子"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "狙公賦芋",
+      {
+        "punct": "dou"
+      },
+      "曰朝三而暮四",
+      {
+        "punct": "dou"
+      },
+      "衆狙皆怒",
+      {
+        "punct": "dou"
+      },
+      "曰朝四而暮三",
+      {
+        "punct": "dou"
+      },
+      "衆狙皆喜",
+      {
+        "punct": "ju"
+      },
+      "狙",
+      {
+        "punct": "dou"
+      },
+      "千余翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "頃聞外間多用九陌錢",
+      {
+        "punct": "dou"
+      },
+      "陌減則物貴",
+      {
+        "punct": "dou"
+      },
+      "陌足則物賤",
+      {
+        "punct": "dou"
+      },
+      "非物有貴賤",
+      {
+        "punct": "dou"
+      },
+      "乃心有顚倒",
+      {
+        "punct": "ju"
+      },
+      "至於遠方",
+      {
+        "punct": "dou"
+      },
+      "日更滋甚",
+      {
+        "punct": "dou"
+      },
+      "徒亂王制",
+      {
+        "punct": "dou"
+      },
+      "無益民財",
+      {
+        "punct": "ju"
+      },
+      "自今可通用足陌錢",
+      {
+        "punct": "ju"
+      },
+      "令書行後",
+      {
+        "punct": "dou"
+      },
+      "百日為期",
+      {
+        "punct": "dou"
+      },
+      "若猶有犯",
+      {
+        "punct": "dou"
+      },
+      "男子謫運",
+      {
+        "punct": "dou"
+      },
+      "女子質作",
+      {
+        "punct": "dou"
+      },
+      "並同三年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "謫運者",
+      {
+        "punct": "dou"
+      },
+      "以謫發之轉運",
+      {
+        "punct": "dou"
+      },
+      "質作",
+      {
+        "punct": "dou"
+      },
+      "質其身使居作",
+      {
+        "punct": "dou"
+      },
+      "皆役之三年",
+      {
+        "punct": "ju"
+      },
+      "此古所謂三歲刑也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "詔下而人不從",
+      {
+        "punct": "dou"
+      },
+      "錢陌益少",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "少",
+      {
+        "punct": "dou"
+      },
+      "詩沼翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "至於季年",
+      {
+        "punct": "dou"
+      },
+      "遂以三十五為百云",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "10"
+    ]
+  },
+  {
+    "chronicle": [
+      "上年高",
+      {
+        "punct": "dou"
+      },
+      "諸子心不相下",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "下",
+      {
+        "punct": "dou"
+      },
+      "遐嫁翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "十二行本下下有互相猜忌四字",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本同",
+      {
+        "punct": "dou"
+      },
+      "孔本同",
+      {
+        "punct": "dou"
+      },
+      "退齋校同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "邵陵王綸為丹楊尹",
+      {
+        "punct": "dou"
+      },
+      "湖東王繹在江州",
+      {
+        "punct": "dou"
+      },
+      "武陵王紀在益州",
+      {
+        "punct": "dou"
+      },
+      "皆權侔人主",
+      {
+        "punct": "dou"
+      },
+      "太子綱惡之",
+      {
+        "punct": "dou"
+      },
+      "常選精兵以衞東宮",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "為帝諸子皆不終張本",
+      {
+        "punct": "ju"
+      },
+      "惡",
+      {
+        "punct": "dou"
+      },
+      "烏路翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "八月",
+      {
+        "punct": "dou"
+      },
+      "以綸為南徐州刺史",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "11"
+    ]
+  },
+  {
+    "chronicle": [
+      "東魏丞相歡如鄴",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "自晉陽朝于鄴而書如鄴",
+      {
+        "punct": "dou"
+      },
+      "言其威權陵上",
+      {
+        "punct": "dou"
+      },
+      "若列國然",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "高澄遷洛陽",
+      {
+        "book-title": "石經"
+      },
+      "五十二碑於鄴",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "石經"
+      },
+      "見五十七卷漢靈帝熹平四年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "12"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏徙幷州刺史王思政為荊州刺史",
+      {
+        "punct": "dou"
+      },
+      "使之舉諸將可代鎭玉壁者",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "西魏置幷州刺史",
+      {
+        "punct": "dou"
+      },
+      "僑治玉壁",
+      {
+        "punct": "ju"
+      },
+      "將",
+      {
+        "punct": "dou"
+      },
+      "卽亮翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "思政舉晉州刺史韋孝寬",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "晉州屬東魏",
+      {
+        "punct": "dou"
+      },
+      "韋孝寬遙領刺史耳",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "丞相泰從之",
+      {
+        "punct": "ju"
+      },
+      "東魏丞相歡悉舉山東之衆",
+      {
+        "punct": "dou"
+      },
+      "將伐魏",
+      {
+        "punct": "dou"
+      },
+      "癸巳",
+      {
+        "punct": "dou"
+      },
+      "自鄴會兵於晉陽",
+      {
+        "punct": "dou"
+      },
+      "九月",
+      {
+        "punct": "dou"
+      },
+      "至玉壁",
+      {
+        "punct": "dou"
+      },
+      "圍之",
+      {
+        "punct": "ju"
+      },
+      "以挑西師",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "挑",
+      {
+        "punct": "dou"
+      },
+      "徒了翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "西師不出",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "13"
+    ]
+  },
+  {
+    "chronicle": [
+      "李賁復帥衆二萬自獠中出",
+      {
+        "punct": "dou"
+      },
+      "屯典澈湖",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      },
+      "湖亦當在新昌郡界",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "考異"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "典略"
+      },
+      "云",
+      {
+        "punct": "dou"
+      },
+      "渡武平江",
+      {
+        "punct": "dou"
+      },
+      "據新安村",
+      {
+        "punct": "ju"
+      },
+      "今從",
+      {
+        "book-title": "陳帝紀"
+      },
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "大造船艦",
+      {
+        "punct": "dou"
+      },
+      "充塞湖中",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "艦",
+      {
+        "punct": "dou"
+      },
+      "戶黯翻",
+      {
+        "punct": "ju"
+      },
+      "塞",
+      {
+        "punct": "dou"
+      },
+      "悉則翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "衆軍憚之",
+      {
+        "punct": "dou"
+      },
+      "頓湖口",
+      {
+        "punct": "dou"
+      },
+      "不敢進",
+      {
+        "punct": "ju"
+      },
+      "陳霸先謂諸將曰",
+      {
+        "punct": "dou"
+      },
+      "我師已老",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "楊㬓等自去年夏五月出師",
+      {
+        "punct": "dou"
+      },
+      "至是幾一年半",
+      {
+        "punct": "dou"
+      },
+      "故自謂師老",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "將士疲勞",
+      {
+        "punct": "dou"
+      },
+      "且孤軍無援",
+      {
+        "punct": "dou"
+      },
+      "入人心腹",
+      {
+        "punct": "dou"
+      },
+      "若一戰不捷",
+      {
+        "punct": "dou"
+      },
+      "豈望生全",
+      {
+        "punct": "ju"
+      },
+      "今藉其屢奔",
+      {
+        "punct": "dou"
+      },
+      "人情未固",
+      {
+        "punct": "dou"
+      },
+      "夷",
+      {
+        "punct": "dou"
+      },
+      "獠烏合",
+      {
+        "punct": "dou"
+      },
+      "易為摧殄",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "獠",
+      {
+        "punct": "dou"
+      },
+      "魯皓翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      },
+      "易",
+      {
+        "punct": "dou"
+      },
+      "弋豉翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "正當共出百死",
+      {
+        "punct": "dou"
+      },
+      "決力取之",
+      {
+        "punct": "dou"
+      },
+      "無故停留",
+      {
+        "punct": "dou"
+      },
+      "時事去矣",
+      {
+        "punct": "ju"
+      },
+      "諸將皆默然莫應",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "諸將心不欲戰",
+      {
+        "punct": "dou"
+      },
+      "故默而莫敢應",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "是夜",
+      {
+        "punct": "dou"
+      },
+      "江水暴起七丈",
+      {
+        "punct": "dou"
+      },
+      "注湖中",
+      {
+        "punct": "ju"
+      },
+      "霸先勒所部兵乘流先進",
+      {
+        "punct": "dou"
+      },
+      "衆軍鼓譟俱前",
+      {
+        "punct": "dou"
+      },
+      "賁衆大潰",
+      {
+        "punct": "dou"
+      },
+      "竄入屈獠洞中",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "14"
+    ]
+  },
+  {
+    "chronicle": [
+      "冬",
+      {
+        "punct": "dou"
+      },
+      "十月",
+      {
+        "punct": "dou"
+      },
+      "乙亥",
+      {
+        "punct": "dou"
+      },
+      "以前東揚州刺史岳陽王詧為雍州刺史",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "雍",
+      {
+        "punct": "dou"
+      },
+      "於用翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "上捨詧兄弟而立太子綱",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "事見一百五十五卷中大通三年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "內嘗愧之",
+      {
+        "punct": "dou"
+      },
+      "寵亞諸子",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "言詧被寵",
+      {
+        "punct": "dou"
+      },
+      "亞於諸子",
+      {
+        "punct": "ju"
+      },
+      "帝固知詧之才器足以自立矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "以會稽人物殷阜",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "會",
+      {
+        "punct": "dou"
+      },
+      "工外翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "故用詧兄弟迭為東揚州以慰其心",
+      {
+        "punct": "ju"
+      },
+      "詧兄弟亦內懷不平",
+      {
+        "punct": "ju"
+      },
+      "詧以上衰老",
+      {
+        "punct": "dou"
+      },
+      "朝多秕政",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "朝",
+      {
+        "punct": "dou"
+      },
+      "直遙翻",
+      {
+        "punct": "ju"
+      },
+      "秕",
+      {
+        "punct": "dou"
+      },
+      "卑履翻",
+      {
+        "punct": "dou"
+      },
+      "不成粟也",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "書"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "若粟之有秕",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "後漢書·安帝贊"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "秕我王度",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "註"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "秕",
+      {
+        "punct": "dou"
+      },
+      "諭穢也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "遂蓄聚貨財",
+      {
+        "punct": "dou"
+      },
+      "折節下士",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "折",
+      {
+        "punct": "dou"
+      },
+      "而設翻",
+      {
+        "punct": "ju"
+      },
+      "下",
+      {
+        "punct": "dou"
+      },
+      "遐嫁翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "招募勇敢",
+      {
+        "punct": "dou"
+      },
+      "左右至數千人",
+      {
+        "punct": "ju"
+      },
+      "以襄陽形勝之地",
+      {
+        "punct": "dou"
+      },
+      "梁業所基",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "謂帝自襄陽起兵以得天下",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "遇亂可以圖大功",
+      {
+        "punct": "ju"
+      },
+      "乃克己為政",
+      {
+        "punct": "dou"
+      },
+      "撫循士民",
+      {
+        "punct": "dou"
+      },
+      "數施恩惠",
+      {
+        "punct": "dou"
+      },
+      "延納規諫",
+      {
+        "punct": "dou"
+      },
+      "所部稱治",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "為詧據襄陽張本",
+      {
+        "punct": "ju"
+      },
+      "數",
+      {
+        "punct": "dou"
+      },
+      "所角翻",
+      {
+        "punct": "ju"
+      },
+      "治",
+      {
+        "punct": "dou"
+      },
+      "直吏翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "15"
+    ]
+  },
+  {
+    "chronicle": [
+      "東魏丞相歡攻玉壁",
+      {
+        "punct": "dou"
+      },
+      "晝夜不息",
+      {
+        "punct": "dou"
+      },
+      "魏韋孝寬隨機拒之",
+      {
+        "punct": "ju"
+      },
+      "城中無水",
+      {
+        "punct": "dou"
+      },
+      "汲於汾",
+      {
+        "punct": "dou"
+      },
+      "歡使移汾",
+      {
+        "punct": "dou"
+      },
+      "一夕而畢",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "於汾水上流決而移之",
+      {
+        "punct": "dou"
+      },
+      "不使近城",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡於城南起土山",
+      {
+        "punct": "dou"
+      },
+      "欲乘之以入",
+      {
+        "punct": "ju"
+      },
+      "城上先有二樓",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "先",
+      {
+        "punct": "dou"
+      },
+      "悉薦翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "孝寬縛木接之",
+      {
+        "punct": "dou"
+      },
+      "令常高於土山以禦之",
+      {
+        "punct": "ju"
+      },
+      "歡使告之曰",
+      {
+        "punct": "dou"
+      },
+      "雖爾縛樓至天",
+      {
+        "punct": "dou"
+      },
+      "我當穿地取爾",
+      {
+        "punct": "ju"
+      },
+      "乃鑿地為十道",
+      {
+        "punct": "dou"
+      },
+      "又用術士李業興",
+      {
+        "book-title": "孤虛法"
+      },
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "漢書·藝文志"
+      },
+      "有",
+      {
+        "book-title": "風后孤虛"
+      },
+      "二十卷",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "史記·日者傳"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "日辰不全",
+      {
+        "punct": "dou"
+      },
+      "故有孤虛",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "註"
+      },
+      "云",
+      {
+        "punct": "dou"
+      },
+      "甲乙謂之日",
+      {
+        "punct": "dou"
+      },
+      "子丑謂之辰",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "六甲孤虛法"
+      },
+      {
+        "punct": "dou"
+      },
+      "甲子旬中無戌亥",
+      {
+        "punct": "dou"
+      },
+      "戌亥卽為孤",
+      {
+        "punct": "dou"
+      },
+      "辰巳卽為虛",
+      {
+        "punct": "ju"
+      },
+      "甲戌旬中無申酉",
+      {
+        "punct": "dou"
+      },
+      "申酉為孤",
+      {
+        "punct": "dou"
+      },
+      "寅卯為虛",
+      {
+        "punct": "ju"
+      },
+      "甲申旬中無午未",
+      {
+        "punct": "dou"
+      },
+      "午未為孤",
+      {
+        "punct": "dou"
+      },
+      "子丑為虛",
+      {
+        "punct": "ju"
+      },
+      "甲午旬中無辰巳",
+      {
+        "punct": "dou"
+      },
+      "辰巳為孤",
+      {
+        "punct": "dou"
+      },
+      "戌亥為虛",
+      {
+        "punct": "ju"
+      },
+      "甲辰旬中無寅卯",
+      {
+        "punct": "dou"
+      },
+      "寅卯為孤",
+      {
+        "punct": "dou"
+      },
+      "申酉為虛",
+      {
+        "punct": "ju"
+      },
+      "甲寅旬中無子丑",
+      {
+        "punct": "dou"
+      },
+      "子丑為孤",
+      {
+        "punct": "dou"
+      },
+      "午未為虛",
+      {
+        "punct": "ju"
+      },
+      "賢曰",
+      {
+        "punct": "dou"
+      },
+      "對孤為虛",
+      {
+        "punct": "ju"
+      },
+      "玄女謂黃帝曰",
+      {
+        "punct": "dou"
+      },
+      "戰陳之法",
+      {
+        "punct": "dou"
+      },
+      "避孤擊虛",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "聚攻其北",
+      {
+        "punct": "dou"
+      },
+      "北",
+      {
+        "punct": "dou"
+      },
+      "天險也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "天險",
+      {
+        "punct": "dou"
+      },
+      "自然之險也",
+      {
+        "punct": "dou"
+      },
+      "天設地造",
+      {
+        "punct": "dou"
+      },
+      "不假人力者也",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "易"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "天險不可升也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "孝寬掘長塹",
+      {
+        "punct": "dou"
+      },
+      "邀其地道",
+      {
+        "punct": "dou"
+      },
+      "選戰士屯塹上",
+      {
+        "punct": "dou"
+      },
+      "每穿至塹",
+      {
+        "punct": "dou"
+      },
+      "戰士輒禽殺之",
+      {
+        "punct": "ju"
+      },
+      "又於塹外積柴貯火",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "塹",
+      {
+        "punct": "dou"
+      },
+      "七豔翻",
+      {
+        "punct": "ju"
+      },
+      "貯",
+      {
+        "punct": "dou"
+      },
+      "丁呂翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "敵有在地道內者",
+      {
+        "punct": "dou"
+      },
+      "塞柴投火",
+      {
+        "punct": "dou"
+      },
+      "以皮排吹之",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "塞",
+      {
+        "punct": "dou"
+      },
+      "悉則翻",
+      {
+        "punct": "ju"
+      },
+      "排",
+      {
+        "punct": "dou"
+      },
+      "讀與鞴同",
+      {
+        "punct": "dou"
+      },
+      "音步拜翻",
+      {
+        "punct": "dou"
+      },
+      "韋囊也",
+      {
+        "punct": "dou"
+      },
+      "所以吹火",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "一鼓皆焦爛",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "鼓排吹之",
+      {
+        "punct": "dou"
+      },
+      "火氣入地道",
+      {
+        "punct": "dou"
+      },
+      "故敵人在其中者皆焦爛",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "敵以攻車撞城",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "撞",
+      {
+        "punct": "dou"
+      },
+      "直江翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "車之所及",
+      {
+        "punct": "dou"
+      },
+      "莫不摧毀",
+      {
+        "punct": "dou"
+      },
+      "無能禦者",
+      {
+        "punct": "ju"
+      },
+      "孝寬縫布為幔",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "幔",
+      {
+        "punct": "dou"
+      },
+      "莫半翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "隨其所向張之",
+      {
+        "punct": "dou"
+      },
+      "布旣懸空",
+      {
+        "punct": "dou"
+      },
+      "車不能壞",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "壞",
+      {
+        "punct": "dou"
+      },
+      "音怪",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "敵又縛松",
+      {
+        "punct": "dou"
+      },
+      "麻於竿",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "松薪麻骨之燥者",
+      {
+        "punct": "dou"
+      },
+      "燒之易然",
+      {
+        "punct": "dou"
+      },
+      "故敵用之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "灌油加火以燒布",
+      {
+        "punct": "dou"
+      },
+      "幷欲焚樓",
+      {
+        "punct": "ju"
+      },
+      "孝寬作長鉤",
+      {
+        "punct": "dou"
+      },
+      "利其刃",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "此所謂鉤刀也",
+      {
+        "punct": "ju"
+      },
+      "杜佑曰",
+      {
+        "punct": "dou"
+      },
+      "鉤竿如槍",
+      {
+        "punct": "dou"
+      },
+      "兩旁有曲刃",
+      {
+        "punct": "dou"
+      },
+      "可以鉤物",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "火竿將至",
+      {
+        "punct": "dou"
+      },
+      "以鉤遙割之",
+      {
+        "punct": "dou"
+      },
+      "松",
+      {
+        "punct": "dou"
+      },
+      "麻俱落",
+      {
+        "punct": "ju"
+      },
+      "敵又於城四面穿地為二十道",
+      {
+        "punct": "dou"
+      },
+      "其中施梁柱",
+      {
+        "punct": "dou"
+      },
+      "縱火燒之",
+      {
+        "punct": "dou"
+      },
+      "柱折",
+      {
+        "punct": "dou"
+      },
+      "城崩",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "高歡嘗用此術攻鄴以擒劉誕",
+      {
+        "punct": "dou"
+      },
+      "故復用之於玉壁",
+      {
+        "punct": "ju"
+      },
+      "折",
+      {
+        "punct": "dou"
+      },
+      "而設翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "孝寬於崩處豎木柵以扞之",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "豎",
+      {
+        "punct": "dou"
+      },
+      "而主翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "敵不得入",
+      {
+        "punct": "ju"
+      },
+      "城外盡攻擊之術",
+      {
+        "punct": "dou"
+      },
+      "而城中守禦有餘",
+      {
+        "punct": "ju"
+      },
+      "孝寬又奪據其土山",
+      {
+        "punct": "ju"
+      },
+      "歡無如之何",
+      {
+        "punct": "dou"
+      },
+      "乃使倉曹參軍祖珽說之曰",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "珽",
+      {
+        "punct": "dou"
+      },
+      "他鼎翻",
+      {
+        "punct": "ju"
+      },
+      "說",
+      {
+        "punct": "dou"
+      },
+      "式芮翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "君獨守孤城而西方無救",
+      {
+        "punct": "dou"
+      },
+      "恐終不能全",
+      {
+        "punct": "dou"
+      },
+      "何不降也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "降",
+      {
+        "punct": "dou"
+      },
+      "戶江翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "孝寬報曰",
+      {
+        "punct": "dou"
+      },
+      "我城池嚴固",
+      {
+        "punct": "dou"
+      },
+      "兵食有餘",
+      {
+        "punct": "ju"
+      },
+      "攻者自勞",
+      {
+        "punct": "dou"
+      },
+      "守者常逸",
+      {
+        "punct": "dou"
+      },
+      "豈有旬朔之間已須救援",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "浹日為旬",
+      {
+        "punct": "dou"
+      },
+      "改月為朔",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "適憂爾衆有不返之危",
+      {
+        "punct": "ju"
+      },
+      "孝寬關西男子",
+      {
+        "punct": "dou"
+      },
+      "必不為降將軍也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "自謂男子",
+      {
+        "punct": "dou"
+      },
+      "言決不怯懦如婦人",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "珽復謂城中人曰",
+      {
+        "punct": "dou"
+      },
+      "韋城主受彼榮祿",
+      {
+        "punct": "dou"
+      },
+      "或復可爾",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "可爾",
+      {
+        "punct": "dou"
+      },
+      "猶言可如此也",
+      {
+        "punct": "ju"
+      },
+      "復",
+      {
+        "punct": "dou"
+      },
+      "扶又翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "自外軍民",
+      {
+        "punct": "dou"
+      },
+      "何事相隨入湯火中",
+      {
+        "punct": "ju"
+      },
+      "乃射募格於城中"
+    ]
+  },
+  {
+    "annotation": [
+      "募格者",
+      {
+        "punct": "dou"
+      },
+      "立賞格以募人",
+      {
+        "punct": "ju"
+      },
+      "射",
+      {
+        "punct": "dou"
+      },
+      "而亦翻",
+      {
+        "punct": "dou"
+      },
+      "下同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "云",
+      {
+        "punct": "dou"
+      },
+      "能斬城主降者",
+      {
+        "punct": "dou"
+      },
+      "拜太尉",
+      {
+        "punct": "dou"
+      },
+      "封開國郡公",
+      {
+        "punct": "dou"
+      },
+      "賞帛萬匹",
+      {
+        "punct": "ju"
+      },
+      "孝寬手題書背",
+      {
+        "punct": "dou"
+      },
+      "返射城外云",
+      {
+        "punct": "dou"
+      },
+      "能斬高歡者準此",
+      {
+        "punct": "ju"
+      },
+      "珽",
+      {
+        "punct": "dou"
+      },
+      "瑩之子也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "祖瑩見一百五十卷普通六年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "東魏苦攻凡五十日",
+      {
+        "punct": "dou"
+      },
+      "士卒戰及病死者共七萬人",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "考異"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "北史·韋孝寬傳"
+      },
+      "云",
+      {
+        "punct": "dou"
+      },
+      "苦戰六旬",
+      {
+        "punct": "dou"
+      },
+      "傷及病死者什四五",
+      {
+        "punct": "ju"
+      },
+      "今從",
+      {
+        "book-title": "北齊書"
+      },
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "共為一家",
+      {
+        "punct": "ju"
+      },
+      "歡智力皆困",
+      {
+        "punct": "dou"
+      },
+      "因而發疾",
+      {
+        "punct": "ju"
+      },
+      "有星墜歡營中",
+      {
+        "punct": "dou"
+      },
+      "士卒驚懼",
+      {
+        "punct": "ju"
+      },
+      "十一月",
+      {
+        "punct": "dou"
+      },
+      "庚子",
+      {
+        "punct": "dou"
+      },
+      "解圍去",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "先是",
+      {
+        "punct": "dou"
+      },
+      "歡別使侯景將兵趣齊子嶺",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "河內郡王屋縣",
+      {
+        "punct": "dou"
+      },
+      "舊名長平",
+      {
+        "punct": "dou"
+      },
+      "有齊子嶺",
+      {
+        "punct": "dou"
+      },
+      "有軹關",
+      {
+        "punct": "ju"
+      },
+      "杜佑曰",
+      {
+        "punct": "dou"
+      },
+      "按齊子嶺在今王屋縣東二十里",
+      {
+        "punct": "dou"
+      },
+      "周",
+      {
+        "punct": "dou"
+      },
+      "齊分界處",
+      {
+        "punct": "ju"
+      },
+      "先",
+      {
+        "punct": "dou"
+      },
+      "悉薦翻",
+      {
+        "punct": "ju"
+      },
+      "將",
+      {
+        "punct": "dou"
+      },
+      "卽亮翻",
+      {
+        "punct": "ju"
+      },
+      "趣",
+      {
+        "punct": "dou"
+      },
+      "七喻翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "魏建州刺史楊檦鎭車廂",
+      {
+        "punct": "dou"
+      },
+      "恐其寇邵郡",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "先是",
+      {
+        "punct": "dou"
+      },
+      "檦取建州",
+      {
+        "punct": "dou"
+      },
+      "已而退還邵郡",
+      {
+        "punct": "dou"
+      },
+      "西魏因授以建州刺史",
+      {
+        "punct": "ju"
+      },
+      "車廂當在隋",
+      {
+        "punct": "dou"
+      },
+      "唐之絳州垣縣界",
+      {
+        "punct": "ju"
+      },
+      "宋白曰",
+      {
+        "punct": "dou"
+      },
+      "絳州絳縣",
+      {
+        "punct": "dou"
+      },
+      "本理車廂城",
+      {
+        "punct": "dou"
+      },
+      "隋移縣理於城北十里",
+      {
+        "punct": "dou"
+      },
+      "檦",
+      {
+        "punct": "dou"
+      },
+      "與標同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "帥騎禦之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "帥",
+      {
+        "punct": "dou"
+      },
+      "讀曰率",
+      {
+        "punct": "ju"
+      },
+      "騎",
+      {
+        "punct": "dou"
+      },
+      "奇寄翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "景聞檦至",
+      {
+        "punct": "dou"
+      },
+      "斫木斷路六十餘里",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "斷",
+      {
+        "punct": "dou"
+      },
+      "音短",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "猶驚而不安",
+      {
+        "punct": "dou"
+      },
+      "遂還河陽",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "楊檦常才耳",
+      {
+        "punct": "dou"
+      },
+      "侯景何至懼之如此",
+      {
+        "punct": "ju"
+      },
+      "史之所言容有過其實者",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "庚戌",
+      {
+        "punct": "dou"
+      },
+      "歡使段韶從太原公洋鎭鄴",
+      {
+        "punct": "ju"
+      },
+      "辛亥",
+      {
+        "punct": "dou"
+      },
+      "徵世子澄會晉陽",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "魏以韋孝寬為驃騎大將軍",
+      {
+        "punct": "dou"
+      },
+      "開府儀同三司",
+      {
+        "punct": "dou"
+      },
+      "進爵建忠公",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "賞守玉壁之功也",
+      {
+        "punct": "ju"
+      },
+      "建忠公",
+      {
+        "punct": "dou"
+      },
+      "建忠郡公",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "京兆郡三原縣",
+      {
+        "punct": "dou"
+      },
+      "後周置建忠郡",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "時人以王思政為知人",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "十一"
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本一作二",
+      {
+        "punct": "dou"
+      },
+      "張校同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "月",
+      {
+        "punct": "dou"
+      },
+      "己卯",
+      {
+        "punct": "dou"
+      },
+      "歡以無功",
+      {
+        "punct": "dou"
+      },
+      "表解都督中外諸軍",
+      {
+        "punct": "dou"
+      },
+      "東魏主許之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡之自玉壁歸也",
+      {
+        "punct": "dou"
+      },
+      "軍中訛言韋孝寬以定功弩射殺丞相",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "射",
+      {
+        "punct": "dou"
+      },
+      "而亦翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "魏人聞之",
+      {
+        "punct": "dou"
+      },
+      "因下令曰",
+      {
+        "punct": "dou"
+      },
+      "勁弩一發",
+      {
+        "punct": "dou"
+      },
+      "凶身自隕",
+      {
+        "punct": "ju"
+      },
+      "歡聞之",
+      {
+        "punct": "dou"
+      },
+      "勉坐見諸貴",
+      {
+        "punct": "dou"
+      },
+      "使斛律金作",
+      {
+        "book-title": "敕勒歌"
+      },
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "斛律金",
+      {
+        "punct": "dou"
+      },
+      "敕勒部人心",
+      {
+        "punct": "dou"
+      },
+      "故使作",
+      {
+        "book-title": "敕勒歌"
+      },
+      {
+        "punct": "ju"
+      },
+      "洪邁曰",
+      {
+        "punct": "dou"
+      },
+      "斛律金唱",
+      {
+        "book-title": "敕律歌"
+      },
+      {
+        "punct": "dou"
+      },
+      "本鮮卑語",
+      {
+        "punct": "ju"
+      },
+      "按",
+      {
+        "book-title": "古樂府"
+      },
+      "有其辭云",
+      {
+        "punct": "dou"
+      },
+      "敕勒川",
+      {
+        "punct": "dou"
+      },
+      "陰山下",
+      {
+        "punct": "dou"
+      },
+      "天似穹廬",
+      {
+        "punct": "dou"
+      },
+      "籠罩四野",
+      {
+        "punct": "ju"
+      },
+      "天蒼蒼",
+      {
+        "punct": "dou"
+      },
+      "野茫茫",
+      {
+        "punct": "dou"
+      },
+      "風吹草低見牛羊",
+      {
+        "punct": "ju"
+      },
+      "余謂此後人妄為之耳",
+      {
+        "punct": "ju"
+      },
+      "敕勒與鮮卑殊種",
+      {
+        "punct": "dou"
+      },
+      "斛律金出於敕勒",
+      {
+        "punct": "dou"
+      },
+      "故使之作",
+      {
+        "book-title": "敕勒歌"
+      },
+      {
+        "punct": "dou"
+      },
+      "若高歡則習鮮卑之俗者也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡自和之",
+      {
+        "punct": "dou"
+      },
+      "哀感流弟",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "和",
+      {
+        "punct": "dou"
+      },
+      "胡臥翻",
+      {
+        "punct": "ju"
+      },
+      "史言高歡將死",
+      {
+        "punct": "dou"
+      },
+      "故當樂而哀",
+      {
+        "punct": "dou"
+      },
+      "不能自揜",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "16"
+    ]
+  },
+  {
+    "chronicle": [
+      "魏大行臺度支尚書",
+      {
+        "punct": "dou"
+      },
+      "司農卿蘇綽",
+      {
+        "punct": "dou"
+      },
+      "性忠儉",
+      {
+        "punct": "dou"
+      },
+      "常以喪亂未平為己仕任",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "度",
+      {
+        "punct": "dou"
+      },
+      "徒洛翻",
+      {
+        "punct": "ju"
+      },
+      "喪",
+      {
+        "punct": "dou"
+      },
+      "息浪翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "紀"
+    ]
+  },
+  {
+    "collation-zhang": [
+      "章",
+      {
+        "punct": "dou"
+      },
+      "十二行本紀上有薦賢拔能四字",
+      {
+        "punct": "dou"
+      },
+      "乙十一行本同",
+      {
+        "punct": "dou"
+      },
+      "孔本同",
+      {
+        "punct": "dou"
+      },
+      "張校同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "綱庶政",
+      {
+        "punct": "dou"
+      },
+      "丞相泰推心任之",
+      {
+        "punct": "dou"
+      },
+      "人莫能間",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "間",
+      {
+        "punct": "dou"
+      },
+      "古莧翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "或出遊",
+      {
+        "punct": "dou"
+      },
+      "常預署空紙以授綽",
+      {
+        "punct": "dou"
+      },
+      "有須處分",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "處",
+      {
+        "punct": "dou"
+      },
+      "昌呂翻",
+      {
+        "punct": "ju"
+      },
+      "分",
+      {
+        "punct": "dou"
+      },
+      "扶問翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "隨事施行",
+      {
+        "punct": "dou"
+      },
+      "及還",
+      {
+        "punct": "dou"
+      },
+      "啓知而已",
+      {
+        "punct": "ju"
+      },
+      "綽常謂為國之道",
+      {
+        "punct": "dou"
+      },
+      "當愛人如慈父",
+      {
+        "punct": "dou"
+      },
+      "訓人如嚴師",
+      {
+        "punct": "ju"
+      },
+      "每與公卿論議",
+      {
+        "punct": "dou"
+      },
+      "自晝達夜",
+      {
+        "punct": "dou"
+      },
+      "事無巨細",
+      {
+        "punct": "dou"
+      },
+      "若指諸掌",
+      {
+        "punct": "dou"
+      },
+      "積勞成疾而卒",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "卒",
+      {
+        "punct": "dou"
+      },
+      "子恤翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "泰深痛惜之",
+      {
+        "punct": "dou"
+      },
+      "謂公卿曰",
+      {
+        "punct": "dou"
+      },
+      "蘇尚書平生廉讓",
+      {
+        "punct": "dou"
+      },
+      "吾欲全其素志",
+      {
+        "punct": "dou"
+      },
+      "恐悠悠之徒有所未達",
+      {
+        "punct": "dou"
+      },
+      "如厚加贈諡",
+      {
+        "punct": "dou"
+      },
+      "又乖宿昔相知之心",
+      {
+        "punct": "dou"
+      },
+      "何為而可",
+      {
+        "punct": "ju"
+      },
+      "尚書令史麻瑤"
+    ]
+  },
+  {
+    "annotation": [
+      "尚書令史",
+      {
+        "punct": "dou"
+      },
+      "自東漢有之",
+      {
+        "punct": "ju"
+      },
+      {
+        "book-title": "唐六典"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "魏",
+      {
+        "punct": "dou"
+      },
+      "晉以來",
+      {
+        "punct": "dou"
+      },
+      "令史之任",
+      {
+        "punct": "dou"
+      },
+      "用人常輕",
+      {
+        "punct": "dou"
+      },
+      "齊",
+      {
+        "punct": "dou"
+      },
+      "梁",
+      {
+        "punct": "dou"
+      },
+      "後魏",
+      {
+        "punct": "dou"
+      },
+      "北齊",
+      {
+        "punct": "dou"
+      },
+      "雖預品秩",
+      {
+        "punct": "dou"
+      },
+      "益又微矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "越次進曰",
+      {
+        "punct": "dou"
+      },
+      "儉約",
+      {
+        "punct": "dou"
+      },
+      "所以彰其美也",
+      {
+        "punct": "ju"
+      },
+      "泰從之",
+      {
+        "punct": "ju"
+      },
+      "歸葬武功",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "蘇綽",
+      {
+        "punct": "dou"
+      },
+      "武功人",
+      {
+        "punct": "dou"
+      },
+      "歸葬鄕里",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "載以布車一乘",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "乘",
+      {
+        "punct": "dou"
+      },
+      "繩證翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "泰與羣公步送出同州郭外",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "五代志"
+      },
+      {
+        "punct": "dou"
+      },
+      "馮翊郡",
+      {
+        "punct": "dou"
+      },
+      "後魏置華州",
+      {
+        "punct": "dou"
+      },
+      "西魏改曰同州",
+      {
+        "punct": "ju"
+      },
+      "孫愐曰",
+      {
+        "punct": "dou"
+      },
+      "馮翊有九龍泉",
+      {
+        "punct": "dou"
+      },
+      "泉有九源",
+      {
+        "punct": "dou"
+      },
+      "同為一流",
+      {
+        "punct": "dou"
+      },
+      "因以名州",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "泰於車後酹酒"
+    ]
+  },
+  {
+    "annotation": [
+      "酹",
+      {
+        "punct": "dou"
+      },
+      "盧對翻",
+      {
+        "punct": "dou"
+      },
+      "餟祭以酒沃地也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "言曰",
+      {
+        "punct": "dou"
+      },
+      "尚書平生為事",
+      {
+        "punct": "dou"
+      },
+      "妻子",
+      {
+        "punct": "dou"
+      },
+      "兄弟所不知者",
+      {
+        "punct": "dou"
+      },
+      "吾皆知之",
+      {
+        "punct": "ju"
+      },
+      "唯爾知吾心",
+      {
+        "punct": "dou"
+      },
+      "吾知爾志",
+      {
+        "punct": "dou"
+      },
+      "方與共定天下",
+      {
+        "punct": "dou"
+      },
+      "遽捨吾去",
+      {
+        "punct": "dou"
+      },
+      "柰何",
+      {
+        "punct": "ju"
+      },
+      "因舉聲慟哭",
+      {
+        "punct": "dou"
+      },
+      "不覺巵落於手",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "entry-number": [
+      "17"
+    ]
+  },
+  {
+    "chronicle": [
+      "東魏司徒",
+      {
+        "punct": "dou"
+      },
+      "河南大將軍",
+      {
+        "punct": "dou"
+      },
+      "大行臺侯景",
+      {
+        "punct": "dou"
+      },
+      "右足偏短",
+      {
+        "punct": "dou"
+      },
+      "弓馬非其長",
+      {
+        "punct": "dou"
+      },
+      "而多謀算",
+      {
+        "punct": "ju"
+      },
+      "諸將高敖曹",
+      {
+        "punct": "dou"
+      },
+      "彭樂等皆勇冠一時",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "冠",
+      {
+        "punct": "dou"
+      },
+      "古玩翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "景常輕之",
+      {
+        "punct": "dou"
+      },
+      "曰",
+      {
+        "punct": "dou"
+      },
+      "此屬皆如豕突",
+      {
+        "punct": "dou"
+      },
+      "勢何所至",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "言其勇而無謀也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "景嘗言於丞相歡",
+      {
+        "punct": "dou"
+      },
+      "願得兵三萬",
+      {
+        "punct": "dou"
+      },
+      "橫行天下",
+      {
+        "punct": "dou"
+      },
+      "要須濟江縛取蕭衍老公",
+      {
+        "punct": "dou"
+      },
+      "以為太平寺主",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "史言侯景夙有取江南之志",
+      {
+        "punct": "ju"
+      },
+      "太平寺蓋在鄴",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡使將兵十萬",
+      {
+        "punct": "dou"
+      },
+      "專制河南",
+      {
+        "punct": "dou"
+      },
+      "杖任若己之半體",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "杖",
+      {
+        "punct": "dou"
+      },
+      "直兩翻",
+      {
+        "punct": "dou"
+      },
+      "憑也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "景素輕高澄",
+      {
+        "punct": "dou"
+      },
+      "嘗謂司馬子如曰",
+      {
+        "punct": "dou"
+      },
+      "高王在",
+      {
+        "punct": "dou"
+      },
+      "吾不敢有異",
+      {
+        "punct": "dou"
+      },
+      "王沒",
+      {
+        "punct": "dou"
+      },
+      "吾不能與鮮卑小兒共事",
+      {
+        "punct": "ju"
+      },
+      "子如掩其口",
+      {
+        "punct": "ju"
+      },
+      "及歡疾篤",
+      {
+        "punct": "dou"
+      },
+      "澄詐為歡書以召景",
+      {
+        "punct": "ju"
+      },
+      "先是",
+      {
+        "punct": "dou"
+      },
+      "景與歡約曰",
+      {
+        "punct": "dou"
+      },
+      "今握兵在遠",
+      {
+        "punct": "dou"
+      },
+      "人易為詐",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "先",
+      {
+        "punct": "dou"
+      },
+      "悉薦翻",
+      {
+        "punct": "ju"
+      },
+      "易",
+      {
+        "punct": "dou"
+      },
+      "弋豉翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "所賜書皆請加微點",
+      {
+        "punct": "ju"
+      },
+      "歡從之",
+      {
+        "punct": "ju"
+      },
+      "景得書無點",
+      {
+        "punct": "dou"
+      },
+      "辭不至",
+      {
+        "punct": "dou"
+      },
+      "又聞歡疾篤",
+      {
+        "punct": "dou"
+      },
+      "用其行臺郞潁川王偉計",
+      {
+        "punct": "dou"
+      },
+      "遂擁兵自固",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "歡謂澄曰",
+      {
+        "punct": "dou"
+      },
+      "我雖病",
+      {
+        "punct": "dou"
+      },
+      "汝面更有餘憂",
+      {
+        "punct": "dou"
+      },
+      "何也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "言澄當以得盡總內外大權為喜",
+      {
+        "punct": "dou"
+      },
+      "不應更有餘憂",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "澄未及對",
+      {
+        "punct": "dou"
+      },
+      "歡曰",
+      {
+        "punct": "dou"
+      },
+      "豈非憂侯景叛邪",
+      {
+        "punct": "ju"
+      },
+      "對曰",
+      {
+        "punct": "dou"
+      },
+      "然",
+      {
+        "punct": "ju"
+      },
+      "歡曰",
+      {
+        "punct": "dou"
+      },
+      "景專制河南",
+      {
+        "punct": "dou"
+      },
+      "十四年矣",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "東魏天平元年",
+      {
+        "punct": "dou"
+      },
+      "歡使景取荊州",
+      {
+        "punct": "dou"
+      },
+      "後遂委以河南",
+      {
+        "punct": "dou"
+      },
+      "至是十三年",
+      {
+        "punct": "ju"
+      },
+      "歡此語當在來春垂沒之時",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "常有飛揚跋扈之志",
+      {
+        "punct": "dou"
+      },
+      "顧我能畜養",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "畜",
+      {
+        "punct": "dou"
+      },
+      "許竹翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "非汝所能駕御也",
+      {
+        "punct": "ju"
+      },
+      "今四方未定",
+      {
+        "punct": "dou"
+      },
+      "勿遽發哀",
+      {
+        "punct": "ju"
+      },
+      "庫狄干鮮卑老公",
+      {
+        "punct": "dou"
+      },
+      "斛律金敕勒老公",
+      {
+        "punct": "dou"
+      },
+      "並性遒直",
+      {
+        "punct": "dou"
+      },
+      "終不負汝",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "遒",
+      {
+        "punct": "dou"
+      },
+      "慈秋翻",
+      {
+        "punct": "dou"
+      },
+      "健也",
+      {
+        "punct": "dou"
+      },
+      "固也",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "可朱渾道元",
+      {
+        "punct": "dou"
+      },
+      "劉豐生",
+      {
+        "punct": "dou"
+      },
+      "遠來投我",
+      {
+        "punct": "dou"
+      },
+      "必無異心",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "可朱渾道元奔東魏見一百五十七卷大同元年",
+      {
+        "punct": "ju"
+      },
+      "劉豐生奔東魏見二年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "潘相樂本作道人",
+      {
+        "punct": "dou"
+      },
+      "心和厚",
+      {
+        "punct": "dou"
+      },
+      "汝兄弟當得其力",
+      {
+        "punct": "ju"
+      },
+      "韓軌少戇",
+      {
+        "punct": "dou"
+      },
+      "宜寬借之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "少",
+      {
+        "punct": "dou"
+      },
+      "詩沼翻",
+      {
+        "punct": "ju"
+      },
+      "戇",
+      {
+        "punct": "dou"
+      },
+      "陟降翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "彭樂心腹難得",
+      {
+        "punct": "dou"
+      },
+      "宜防護之",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "終以邙山事銜之",
+      {
+        "punct": "dou"
+      },
+      "為後彭樂被誅張本",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "堪敵侯景者",
+      {
+        "punct": "dou"
+      },
+      "唯有慕容紹宗",
+      {
+        "punct": "dou"
+      },
+      "我故不貴之",
+      {
+        "punct": "dou"
+      },
+      "留以遺汝",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "使澄厚以官爵",
+      {
+        "punct": "dou"
+      },
+      "結紹宗之心",
+      {
+        "punct": "ju"
+      },
+      "遺",
+      {
+        "punct": "dou"
+      },
+      "于季翻",
+      {
+        "punct": "dou"
+      },
+      "下患遺同",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "又曰",
+      {
+        "punct": "dou"
+      },
+      "段孝先忠高仁厚",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "段韶",
+      {
+        "punct": "dou"
+      },
+      "字孝先",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "智勇兼備",
+      {
+        "punct": "dou"
+      },
+      "親戚之中",
+      {
+        "punct": "dou"
+      },
+      "唯有此子",
+      {
+        "punct": "dou"
+      },
+      "軍旅大事",
+      {
+        "punct": "dou"
+      },
+      "宜共籌之",
+      {
+        "punct": "ju"
+      },
+      "又曰",
+      {
+        "punct": "dou"
+      },
+      "邙山之戰",
+      {
+        "punct": "dou"
+      },
+      "吾不用陳元康之言",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "事見上卷大同九年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "留患遺汝",
+      {
+        "punct": "dou"
+      },
+      "死不瞑目",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "annotation": [
+      "瞑",
+      {
+        "punct": "dou"
+      },
+      "莫定翻",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "相樂",
+      {
+        "punct": "dou"
+      },
+      "廣寧人也",
+      {
+        "punct": "ju"
+      }
+    ]
+  }
+]

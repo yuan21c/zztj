@@ -1,0 +1,2092 @@
+{
+  "entries": [
+    {
+      "file": "part0003",
+      "type": "editorial-note",
+      "title": "胡刻通鑑正文校宋記述略"
+    },
+    {
+      "file": "part0004",
+      "type": "preface",
+      "title": "新註資治通鑑序"
+    },
+    {
+      "file": "part0005",
+      "type": "preface",
+      "title": "興文署新刊資治通鑑序"
+    },
+    {
+      "file": "part0006",
+      "type": "preface",
+      "title": "宋神宗資治通鑑序"
+    },
+    {
+      "file": "part0007",
+      "type": "volume",
+      "title": "資治通鑑卷第一",
+      "label": "卷第一",
+      "n": 1
+    },
+    {
+      "file": "part0008",
+      "type": "volume",
+      "title": "資治通鑑卷第二",
+      "label": "卷第二",
+      "n": 2
+    },
+    {
+      "file": "part0009",
+      "type": "volume",
+      "title": "資治通鑑卷第三",
+      "label": "卷第三",
+      "n": 3
+    },
+    {
+      "file": "part0010",
+      "type": "volume",
+      "title": "資治通鑑卷第四",
+      "label": "卷第四",
+      "n": 4
+    },
+    {
+      "file": "part0011",
+      "type": "volume",
+      "title": "資治通鑑卷第五",
+      "label": "卷第五",
+      "n": 5
+    },
+    {
+      "file": "part0012",
+      "type": "volume",
+      "title": "資治通鑑卷第六",
+      "label": "卷第六",
+      "n": 6
+    },
+    {
+      "file": "part0013",
+      "type": "volume",
+      "title": "資治通鑑卷第七",
+      "label": "卷第七",
+      "n": 7
+    },
+    {
+      "file": "part0014",
+      "type": "volume",
+      "title": "資治通鑑卷第八",
+      "label": "卷第八",
+      "n": 8
+    },
+    {
+      "file": "part0015",
+      "type": "volume",
+      "title": "資治通鑑卷第九",
+      "label": "卷第九",
+      "n": 9
+    },
+    {
+      "file": "part0016",
+      "type": "volume",
+      "title": "資治通鑑卷第十",
+      "label": "卷第十",
+      "n": 10
+    },
+    {
+      "file": "part0017",
+      "type": "volume",
+      "title": "資治通鑑卷第十一",
+      "label": "卷第十一",
+      "n": 11
+    },
+    {
+      "file": "part0018",
+      "type": "volume",
+      "title": "資治通鑑卷第十二",
+      "label": "卷第十二",
+      "n": 12
+    },
+    {
+      "file": "part0019",
+      "type": "volume",
+      "title": "資治通鑑卷第十三",
+      "label": "卷第十三",
+      "n": 13
+    },
+    {
+      "file": "part0020",
+      "type": "volume",
+      "title": "資治通鑑卷第十四",
+      "label": "卷第十四",
+      "n": 14
+    },
+    {
+      "file": "part0021",
+      "type": "volume",
+      "title": "資治通鑑卷第十五",
+      "label": "卷第十五",
+      "n": 15
+    },
+    {
+      "file": "part0022",
+      "type": "volume",
+      "title": "資治通鑑卷第十六",
+      "label": "卷第十六",
+      "n": 16
+    },
+    {
+      "file": "part0023",
+      "type": "volume",
+      "title": "資治通鑑卷第十七",
+      "label": "卷第十七",
+      "n": 17
+    },
+    {
+      "file": "part0024",
+      "type": "volume",
+      "title": "資治通鑑卷第十八",
+      "label": "卷第十八",
+      "n": 18
+    },
+    {
+      "file": "part0025",
+      "type": "volume",
+      "title": "資治通鑑卷第十九",
+      "label": "卷第十九",
+      "n": 19
+    },
+    {
+      "file": "part0026",
+      "type": "volume",
+      "title": "資治通鑑卷第二十",
+      "label": "卷第二十",
+      "n": 20
+    },
+    {
+      "file": "part0027",
+      "type": "volume",
+      "title": "資治通鑑卷第二十一",
+      "label": "卷第二十一",
+      "n": 21
+    },
+    {
+      "file": "part0028",
+      "type": "volume",
+      "title": "資治通鑑卷第二十二",
+      "label": "卷第二十二",
+      "n": 22
+    },
+    {
+      "file": "part0029",
+      "type": "volume",
+      "title": "資治通鑑卷第二十三",
+      "label": "卷第二十三",
+      "n": 23
+    },
+    {
+      "file": "part0030",
+      "type": "volume",
+      "title": "資治通鑑卷第二十四",
+      "label": "卷第二十四",
+      "n": 24
+    },
+    {
+      "file": "part0031",
+      "type": "volume",
+      "title": "資治通鑑卷第二十五",
+      "label": "卷第二十五",
+      "n": 25
+    },
+    {
+      "file": "part0032",
+      "type": "volume",
+      "title": "資治通鑑卷第二十六",
+      "label": "卷第二十六",
+      "n": 26
+    },
+    {
+      "file": "part0033",
+      "type": "volume",
+      "title": "資治通鑑卷第二十七",
+      "label": "卷第二十七",
+      "n": 27
+    },
+    {
+      "file": "part0034",
+      "type": "volume",
+      "title": "資治通鑑卷第二十八",
+      "label": "卷第二十八",
+      "n": 28
+    },
+    {
+      "file": "part0035",
+      "type": "volume",
+      "title": "資治通鑑卷第二十九",
+      "label": "卷第二十九",
+      "n": 29
+    },
+    {
+      "file": "part0036",
+      "type": "volume",
+      "title": "資治通鑑卷第三十",
+      "label": "卷第三十",
+      "n": 30
+    },
+    {
+      "file": "part0037",
+      "type": "volume",
+      "title": "資治通鑑卷第三十一",
+      "label": "卷第三十一",
+      "n": 31
+    },
+    {
+      "file": "part0038",
+      "type": "volume",
+      "title": "資治通鑑卷第三十二",
+      "label": "卷第三十二",
+      "n": 32
+    },
+    {
+      "file": "part0039",
+      "type": "volume",
+      "title": "資治通鑑卷第三十三",
+      "label": "卷第三十三",
+      "n": 33
+    },
+    {
+      "file": "part0040",
+      "type": "volume",
+      "title": "資治通鑑卷第三十四",
+      "label": "卷第三十四",
+      "n": 34
+    },
+    {
+      "file": "part0041",
+      "type": "volume",
+      "title": "資治通鑑卷第三十五",
+      "label": "卷第三十五",
+      "n": 35
+    },
+    {
+      "file": "part0042",
+      "type": "volume",
+      "title": "資治通鑑卷第三十六",
+      "label": "卷第三十六",
+      "n": 36
+    },
+    {
+      "file": "part0043",
+      "type": "volume",
+      "title": "資治通鑑卷第三十七",
+      "label": "卷第三十七",
+      "n": 37
+    },
+    {
+      "file": "part0044",
+      "type": "volume",
+      "title": "資治通鑑卷第三十八",
+      "label": "卷第三十八",
+      "n": 38
+    },
+    {
+      "file": "part0045",
+      "type": "volume",
+      "title": "資治通鑑卷第三十九",
+      "label": "卷第三十九",
+      "n": 39
+    },
+    {
+      "file": "part0046",
+      "type": "volume",
+      "title": "資治通鑑卷第四十",
+      "label": "卷第四十",
+      "n": 40
+    },
+    {
+      "file": "part0047",
+      "type": "volume",
+      "title": "資治通鑑卷第四十一",
+      "label": "卷第四十一",
+      "n": 41
+    },
+    {
+      "file": "part0048",
+      "type": "volume",
+      "title": "資治通鑑卷第四十二",
+      "label": "卷第四十二",
+      "n": 42
+    },
+    {
+      "file": "part0049",
+      "type": "volume",
+      "title": "資治通鑑卷第四十三",
+      "label": "卷第四十三",
+      "n": 43
+    },
+    {
+      "file": "part0050",
+      "type": "volume",
+      "title": "資治通鑑卷第四十四",
+      "label": "卷第四十四",
+      "n": 44
+    },
+    {
+      "file": "part0051",
+      "type": "volume",
+      "title": "資治通鑑卷第四十五",
+      "label": "卷第四十五",
+      "n": 45
+    },
+    {
+      "file": "part0052",
+      "type": "volume",
+      "title": "資治通鑑卷第四十六",
+      "label": "卷第四十六",
+      "n": 46
+    },
+    {
+      "file": "part0053",
+      "type": "volume",
+      "title": "資治通鑑卷第四十七",
+      "label": "卷第四十七",
+      "n": 47
+    },
+    {
+      "file": "part0054",
+      "type": "volume",
+      "title": "資治通鑑卷第四十八",
+      "label": "卷第四十八",
+      "n": 48
+    },
+    {
+      "file": "part0055",
+      "type": "volume",
+      "title": "資治通鑑卷第四十九",
+      "label": "卷第四十九",
+      "n": 49
+    },
+    {
+      "file": "part0056",
+      "type": "volume",
+      "title": "資治通鑑卷第五十",
+      "label": "卷第五十",
+      "n": 50
+    },
+    {
+      "file": "part0057",
+      "type": "volume",
+      "title": "資治通鑑卷第五十一",
+      "label": "卷第五十一",
+      "n": 51
+    },
+    {
+      "file": "part0058",
+      "type": "volume",
+      "title": "資治通鑑卷第五十二",
+      "label": "卷第五十二",
+      "n": 52
+    },
+    {
+      "file": "part0059",
+      "type": "volume",
+      "title": "資治通鑑卷第五十三",
+      "label": "卷第五十三",
+      "n": 53
+    },
+    {
+      "file": "part0060",
+      "type": "volume",
+      "title": "資治通鑑卷第五十四",
+      "label": "卷第五十四",
+      "n": 54
+    },
+    {
+      "file": "part0061",
+      "type": "volume",
+      "title": "資治通鑑卷第五十五",
+      "label": "卷第五十五",
+      "n": 55
+    },
+    {
+      "file": "part0062",
+      "type": "volume",
+      "title": "資治通鑑卷第五十六",
+      "label": "卷第五十六",
+      "n": 56
+    },
+    {
+      "file": "part0063",
+      "type": "volume",
+      "title": "資治通鑑卷第五十七",
+      "label": "卷第五十七",
+      "n": 57
+    },
+    {
+      "file": "part0064",
+      "type": "volume",
+      "title": "資治通鑑卷第五十八",
+      "label": "卷第五十八",
+      "n": 58
+    },
+    {
+      "file": "part0065",
+      "type": "volume",
+      "title": "資治通鑑卷第五十九",
+      "label": "卷第五十九",
+      "n": 59
+    },
+    {
+      "file": "part0066",
+      "type": "volume",
+      "title": "資治通鑑卷第六十",
+      "label": "卷第六十",
+      "n": 60
+    },
+    {
+      "file": "part0067",
+      "type": "volume",
+      "title": "資治通鑑卷第六十一",
+      "label": "卷第六十一",
+      "n": 61
+    },
+    {
+      "file": "part0068",
+      "type": "volume",
+      "title": "資治通鑑卷第六十二",
+      "label": "卷第六十二",
+      "n": 62
+    },
+    {
+      "file": "part0069",
+      "type": "volume",
+      "title": "資治通鑑卷第六十三",
+      "label": "卷第六十三",
+      "n": 63
+    },
+    {
+      "file": "part0070",
+      "type": "volume",
+      "title": "資治通鑑卷第六十四",
+      "label": "卷第六十四",
+      "n": 64
+    },
+    {
+      "file": "part0071",
+      "type": "volume",
+      "title": "資治通鑑卷第六十五",
+      "label": "卷第六十五",
+      "n": 65
+    },
+    {
+      "file": "part0072",
+      "type": "volume",
+      "title": "資治通鑑卷第六十六",
+      "label": "卷第六十六",
+      "n": 66
+    },
+    {
+      "file": "part0073",
+      "type": "volume",
+      "title": "資治通鑑卷第六十七",
+      "label": "卷第六十七",
+      "n": 67
+    },
+    {
+      "file": "part0074",
+      "type": "volume",
+      "title": "資治通鑑卷第六十八",
+      "label": "卷第六十八",
+      "n": 68
+    },
+    {
+      "file": "part0075",
+      "type": "volume",
+      "title": "資治通鑑卷第六十九",
+      "label": "卷第六十九",
+      "n": 69
+    },
+    {
+      "file": "part0076",
+      "type": "volume",
+      "title": "資治通鑑卷第七十",
+      "label": "卷第七十",
+      "n": 70
+    },
+    {
+      "file": "part0077",
+      "type": "volume",
+      "title": "資治通鑑卷第七十一",
+      "label": "卷第七十一",
+      "n": 71
+    },
+    {
+      "file": "part0078",
+      "type": "volume",
+      "title": "資治通鑑卷第七十二",
+      "label": "卷第七十二",
+      "n": 72
+    },
+    {
+      "file": "part0079",
+      "type": "volume",
+      "title": "資治通鑑卷第七十三",
+      "label": "卷第七十三",
+      "n": 73
+    },
+    {
+      "file": "part0080",
+      "type": "volume",
+      "title": "資治通鑑卷第七十四",
+      "label": "卷第七十四",
+      "n": 74
+    },
+    {
+      "file": "part0081",
+      "type": "volume",
+      "title": "資治通鑑卷第七十五",
+      "label": "卷第七十五",
+      "n": 75
+    },
+    {
+      "file": "part0082",
+      "type": "volume",
+      "title": "資治通鑑卷第七十六",
+      "label": "卷第七十六",
+      "n": 76
+    },
+    {
+      "file": "part0083",
+      "type": "volume",
+      "title": "資治通鑑卷第七十七",
+      "label": "卷第七十七",
+      "n": 77
+    },
+    {
+      "file": "part0084",
+      "type": "volume",
+      "title": "資治通鑑卷第七十八",
+      "label": "卷第七十八",
+      "n": 78
+    },
+    {
+      "file": "part0085",
+      "type": "volume",
+      "title": "資治通鑑卷第七十九",
+      "label": "卷第七十九",
+      "n": 79
+    },
+    {
+      "file": "part0086",
+      "type": "volume",
+      "title": "資治通鑑卷第八十",
+      "label": "卷第八十",
+      "n": 80
+    },
+    {
+      "file": "part0087",
+      "type": "volume",
+      "title": "資治通鑑卷第八十一",
+      "label": "卷第八十一",
+      "n": 81
+    },
+    {
+      "file": "part0088",
+      "type": "volume",
+      "title": "資治通鑑卷第八十二",
+      "label": "卷第八十二",
+      "n": 82
+    },
+    {
+      "file": "part0089",
+      "type": "volume",
+      "title": "資治通鑑卷第八十三",
+      "label": "卷第八十三",
+      "n": 83
+    },
+    {
+      "file": "part0090",
+      "type": "volume",
+      "title": "資治通鑑卷第八十四",
+      "label": "卷第八十四",
+      "n": 84
+    },
+    {
+      "file": "part0091",
+      "type": "volume",
+      "title": "資治通鑑卷第八十五",
+      "label": "卷第八十五",
+      "n": 85
+    },
+    {
+      "file": "part0092",
+      "type": "volume",
+      "title": "資治通鑑卷第八十六",
+      "label": "卷第八十六",
+      "n": 86
+    },
+    {
+      "file": "part0093",
+      "type": "volume",
+      "title": "資治通鑑卷第八十七",
+      "label": "卷第八十七",
+      "n": 87
+    },
+    {
+      "file": "part0094",
+      "type": "volume",
+      "title": "資治通鑑卷第八十八",
+      "label": "卷第八十八",
+      "n": 88
+    },
+    {
+      "file": "part0095",
+      "type": "volume",
+      "title": "資治通鑑卷第八十九",
+      "label": "卷第八十九",
+      "n": 89
+    },
+    {
+      "file": "part0096",
+      "type": "volume",
+      "title": "資治通鑑卷第九十",
+      "label": "卷第九十",
+      "n": 90
+    },
+    {
+      "file": "part0097",
+      "type": "volume",
+      "title": "資治通鑑卷第九十一",
+      "label": "卷第九十一",
+      "n": 91
+    },
+    {
+      "file": "part0098",
+      "type": "volume",
+      "title": "資治通鑑卷第九十二",
+      "label": "卷第九十二",
+      "n": 92
+    },
+    {
+      "file": "part0099",
+      "type": "volume",
+      "title": "資治通鑑卷第九十三",
+      "label": "卷第九十三",
+      "n": 93
+    },
+    {
+      "file": "part0100",
+      "type": "volume",
+      "title": "資治通鑑卷第九十四",
+      "label": "卷第九十四",
+      "n": 94
+    },
+    {
+      "file": "part0101",
+      "type": "volume",
+      "title": "資治通鑑卷第九十五",
+      "label": "卷第九十五",
+      "n": 95
+    },
+    {
+      "file": "part0102",
+      "type": "volume",
+      "title": "資治通鑑卷第九十六",
+      "label": "卷第九十六",
+      "n": 96
+    },
+    {
+      "file": "part0103",
+      "type": "volume",
+      "title": "資治通鑑卷第九十七",
+      "label": "卷第九十七",
+      "n": 97
+    },
+    {
+      "file": "part0104",
+      "type": "volume",
+      "title": "資治通鑑卷第九十八",
+      "label": "卷第九十八",
+      "n": 98
+    },
+    {
+      "file": "part0105",
+      "type": "volume",
+      "title": "資治通鑑卷第九十九",
+      "label": "卷第九十九",
+      "n": 99
+    },
+    {
+      "file": "part0106",
+      "type": "volume",
+      "title": "資治通鑑卷第一百",
+      "label": "卷第一百",
+      "n": 100
+    },
+    {
+      "file": "part0107",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一",
+      "label": "卷第一百一",
+      "n": 101
+    },
+    {
+      "file": "part0108",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二",
+      "label": "卷第一百二",
+      "n": 102
+    },
+    {
+      "file": "part0109",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三",
+      "label": "卷第一百三",
+      "n": 103
+    },
+    {
+      "file": "part0110",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四",
+      "label": "卷第一百四",
+      "n": 104
+    },
+    {
+      "file": "part0111",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五",
+      "label": "卷第一百五",
+      "n": 105
+    },
+    {
+      "file": "part0112",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六",
+      "label": "卷第一百六",
+      "n": 106
+    },
+    {
+      "file": "part0113",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七",
+      "label": "卷第一百七",
+      "n": 107
+    },
+    {
+      "file": "part0114",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八",
+      "label": "卷第一百八",
+      "n": 108
+    },
+    {
+      "file": "part0115",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九",
+      "label": "卷第一百九",
+      "n": 109
+    },
+    {
+      "file": "part0116",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十",
+      "label": "卷第一百一十",
+      "n": 110
+    },
+    {
+      "file": "part0117",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十一",
+      "label": "卷第一百一十一",
+      "n": 111
+    },
+    {
+      "file": "part0118",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十二",
+      "label": "卷第一百一十二",
+      "n": 112
+    },
+    {
+      "file": "part0119",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十三",
+      "label": "卷第一百一十三",
+      "n": 113
+    },
+    {
+      "file": "part0120",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十四",
+      "label": "卷第一百一十四",
+      "n": 114
+    },
+    {
+      "file": "part0121",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十五",
+      "label": "卷第一百一十五",
+      "n": 115
+    },
+    {
+      "file": "part0122",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十六",
+      "label": "卷第一百一十六",
+      "n": 116
+    },
+    {
+      "file": "part0123",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十七",
+      "label": "卷第一百一十七",
+      "n": 117
+    },
+    {
+      "file": "part0124",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十八",
+      "label": "卷第一百一十八",
+      "n": 118
+    },
+    {
+      "file": "part0125",
+      "type": "volume",
+      "title": "資治通鑑卷第一百一十九",
+      "label": "卷第一百一十九",
+      "n": 119
+    },
+    {
+      "file": "part0126",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十",
+      "label": "卷第一百二十",
+      "n": 120
+    },
+    {
+      "file": "part0127",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十一",
+      "label": "卷第一百二十一",
+      "n": 121
+    },
+    {
+      "file": "part0128",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十二",
+      "label": "卷第一百二十二",
+      "n": 122
+    },
+    {
+      "file": "part0129",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十三",
+      "label": "卷第一百二十三",
+      "n": 123
+    },
+    {
+      "file": "part0130",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十四",
+      "label": "卷第一百二十四",
+      "n": 124
+    },
+    {
+      "file": "part0131",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十五",
+      "label": "卷第一百二十五",
+      "n": 125
+    },
+    {
+      "file": "part0132",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十六",
+      "label": "卷第一百二十六",
+      "n": 126
+    },
+    {
+      "file": "part0133",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十七",
+      "label": "卷第一百二十七",
+      "n": 127
+    },
+    {
+      "file": "part0134",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十八",
+      "label": "卷第一百二十八",
+      "n": 128
+    },
+    {
+      "file": "part0135",
+      "type": "volume",
+      "title": "資治通鑑卷第一百二十九",
+      "label": "卷第一百二十九",
+      "n": 129
+    },
+    {
+      "file": "part0136",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十",
+      "label": "卷第一百三十",
+      "n": 130
+    },
+    {
+      "file": "part0137",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十一",
+      "label": "卷第一百三十一",
+      "n": 131
+    },
+    {
+      "file": "part0138",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十二",
+      "label": "卷第一百三十二",
+      "n": 132
+    },
+    {
+      "file": "part0139",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十三",
+      "label": "卷第一百三十三",
+      "n": 133
+    },
+    {
+      "file": "part0140",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十四",
+      "label": "卷第一百三十四",
+      "n": 134
+    },
+    {
+      "file": "part0141",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十五",
+      "label": "卷第一百三十五",
+      "n": 135
+    },
+    {
+      "file": "part0142",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十六",
+      "label": "卷第一百三十六",
+      "n": 136
+    },
+    {
+      "file": "part0143",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十七",
+      "label": "卷第一百三十七",
+      "n": 137
+    },
+    {
+      "file": "part0144",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十八",
+      "label": "卷第一百三十八",
+      "n": 138
+    },
+    {
+      "file": "part0145",
+      "type": "volume",
+      "title": "資治通鑑卷第一百三十九",
+      "label": "卷第一百三十九",
+      "n": 139
+    },
+    {
+      "file": "part0146",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十",
+      "label": "卷第一百四十",
+      "n": 140
+    },
+    {
+      "file": "part0147",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十一",
+      "label": "卷第一百四十一",
+      "n": 141
+    },
+    {
+      "file": "part0148",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十二",
+      "label": "卷第一百四十二",
+      "n": 142
+    },
+    {
+      "file": "part0149",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十三",
+      "label": "卷第一百四十三",
+      "n": 143
+    },
+    {
+      "file": "part0150",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十四",
+      "label": "卷第一百四十四",
+      "n": 144
+    },
+    {
+      "file": "part0151",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十五",
+      "label": "卷第一百四十五",
+      "n": 145
+    },
+    {
+      "file": "part0152",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十六",
+      "label": "卷第一百四十六",
+      "n": 146
+    },
+    {
+      "file": "part0153",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十七",
+      "label": "卷第一百四十七",
+      "n": 147
+    },
+    {
+      "file": "part0154",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十八",
+      "label": "卷第一百四十八",
+      "n": 148
+    },
+    {
+      "file": "part0155",
+      "type": "volume",
+      "title": "資治通鑑卷第一百四十九",
+      "label": "卷第一百四十九",
+      "n": 149
+    },
+    {
+      "file": "part0156",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十",
+      "label": "卷第一百五十",
+      "n": 150
+    },
+    {
+      "file": "part0157",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十一",
+      "label": "卷第一百五十一",
+      "n": 151
+    },
+    {
+      "file": "part0158",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十二",
+      "label": "卷第一百五十二",
+      "n": 152
+    },
+    {
+      "file": "part0159",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十三",
+      "label": "卷第一百五十三",
+      "n": 153
+    },
+    {
+      "file": "part0160",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十四",
+      "label": "卷第一百五十四",
+      "n": 154
+    },
+    {
+      "file": "part0161",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十五",
+      "label": "卷第一百五十五",
+      "n": 155
+    },
+    {
+      "file": "part0162",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十六",
+      "label": "卷第一百五十六",
+      "n": 156
+    },
+    {
+      "file": "part0163",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十七",
+      "label": "卷第一百五十七",
+      "n": 157
+    },
+    {
+      "file": "part0164",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十八",
+      "label": "卷第一百五十八",
+      "n": 158
+    },
+    {
+      "file": "part0165",
+      "type": "volume",
+      "title": "資治通鑑卷第一百五十九",
+      "label": "卷第一百五十九",
+      "n": 159
+    },
+    {
+      "file": "part0166",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十",
+      "label": "卷第一百六十",
+      "n": 160
+    },
+    {
+      "file": "part0167",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十一",
+      "label": "卷第一百六十一",
+      "n": 161
+    },
+    {
+      "file": "part0168",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十二",
+      "label": "卷第一百六十二",
+      "n": 162
+    },
+    {
+      "file": "part0169",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十三",
+      "label": "卷第一百六十三",
+      "n": 163
+    },
+    {
+      "file": "part0170",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十四",
+      "label": "卷第一百六十四",
+      "n": 164
+    },
+    {
+      "file": "part0171",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十五",
+      "label": "卷第一百六十五",
+      "n": 165
+    },
+    {
+      "file": "part0172",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十六",
+      "label": "卷第一百六十六",
+      "n": 166
+    },
+    {
+      "file": "part0173",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十七",
+      "label": "卷第一百六十七",
+      "n": 167
+    },
+    {
+      "file": "part0174",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十八",
+      "label": "卷第一百六十八",
+      "n": 168
+    },
+    {
+      "file": "part0175",
+      "type": "volume",
+      "title": "資治通鑑卷第一百六十九",
+      "label": "卷第一百六十九",
+      "n": 169
+    },
+    {
+      "file": "part0176",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十",
+      "label": "卷第一百七十",
+      "n": 170
+    },
+    {
+      "file": "part0177",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十一",
+      "label": "卷第一百七十一",
+      "n": 171
+    },
+    {
+      "file": "part0178",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十二",
+      "label": "卷第一百七十二",
+      "n": 172
+    },
+    {
+      "file": "part0179",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十三",
+      "label": "卷第一百七十三",
+      "n": 173
+    },
+    {
+      "file": "part0180",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十四",
+      "label": "卷第一百七十四",
+      "n": 174
+    },
+    {
+      "file": "part0181",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十五",
+      "label": "卷第一百七十五",
+      "n": 175
+    },
+    {
+      "file": "part0182",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十六",
+      "label": "卷第一百七十六",
+      "n": 176
+    },
+    {
+      "file": "part0183",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十七",
+      "label": "卷第一百七十七",
+      "n": 177
+    },
+    {
+      "file": "part0184",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十八",
+      "label": "卷第一百七十八",
+      "n": 178
+    },
+    {
+      "file": "part0185",
+      "type": "volume",
+      "title": "資治通鑑卷第一百七十九",
+      "label": "卷第一百七十九",
+      "n": 179
+    },
+    {
+      "file": "part0186",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十",
+      "label": "卷第一百八十",
+      "n": 180
+    },
+    {
+      "file": "part0187",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十一",
+      "label": "卷第一百八十一",
+      "n": 181
+    },
+    {
+      "file": "part0188",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十二",
+      "label": "卷第一百八十二",
+      "n": 182
+    },
+    {
+      "file": "part0189",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十三",
+      "label": "卷第一百八十三",
+      "n": 183
+    },
+    {
+      "file": "part0190",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十四",
+      "label": "卷第一百八十四",
+      "n": 184
+    },
+    {
+      "file": "part0191",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十五",
+      "label": "卷第一百八十五",
+      "n": 185
+    },
+    {
+      "file": "part0192",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十六",
+      "label": "卷第一百八十六",
+      "n": 186
+    },
+    {
+      "file": "part0193",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十七",
+      "label": "卷第一百八十七",
+      "n": 187
+    },
+    {
+      "file": "part0194",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十八",
+      "label": "卷第一百八十八",
+      "n": 188
+    },
+    {
+      "file": "part0195",
+      "type": "volume",
+      "title": "資治通鑑卷第一百八十九",
+      "label": "卷第一百八十九",
+      "n": 189
+    },
+    {
+      "file": "part0196",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十",
+      "label": "卷第一百九十",
+      "n": 190
+    },
+    {
+      "file": "part0197",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十一",
+      "label": "卷第一百九十一",
+      "n": 191
+    },
+    {
+      "file": "part0198",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十二",
+      "label": "卷第一百九十二",
+      "n": 192
+    },
+    {
+      "file": "part0199",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十三",
+      "label": "卷第一百九十三",
+      "n": 193
+    },
+    {
+      "file": "part0200",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十四",
+      "label": "卷第一百九十四",
+      "n": 194
+    },
+    {
+      "file": "part0201",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十五",
+      "label": "卷第一百九十五",
+      "n": 195
+    },
+    {
+      "file": "part0202",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十六",
+      "label": "卷第一百九十六",
+      "n": 196
+    },
+    {
+      "file": "part0203",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十七",
+      "label": "卷第一百九十七",
+      "n": 197
+    },
+    {
+      "file": "part0204",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十八",
+      "label": "卷第一百九十八",
+      "n": 198
+    },
+    {
+      "file": "part0205",
+      "type": "volume",
+      "title": "資治通鑑卷第一百九十九",
+      "label": "卷第一百九十九",
+      "n": 199
+    },
+    {
+      "file": "part0206",
+      "type": "volume",
+      "title": "資治通鑑卷第二百",
+      "label": "卷第二百",
+      "n": 200
+    },
+    {
+      "file": "part0207",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一",
+      "label": "卷第二百一",
+      "n": 201
+    },
+    {
+      "file": "part0208",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二",
+      "label": "卷第二百二",
+      "n": 202
+    },
+    {
+      "file": "part0209",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三",
+      "label": "卷第二百三",
+      "n": 203
+    },
+    {
+      "file": "part0210",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四",
+      "label": "卷第二百四",
+      "n": 204
+    },
+    {
+      "file": "part0211",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五",
+      "label": "卷第二百五",
+      "n": 205
+    },
+    {
+      "file": "part0212",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六",
+      "label": "卷第二百六",
+      "n": 206
+    },
+    {
+      "file": "part0213",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七",
+      "label": "卷第二百七",
+      "n": 207
+    },
+    {
+      "file": "part0214",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八",
+      "label": "卷第二百八",
+      "n": 208
+    },
+    {
+      "file": "part0215",
+      "type": "volume",
+      "title": "資治通鑑卷第二百九",
+      "label": "卷第二百九",
+      "n": 209
+    },
+    {
+      "file": "part0216",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十",
+      "label": "卷第二百一十",
+      "n": 210
+    },
+    {
+      "file": "part0217",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十一",
+      "label": "卷第二百一十一",
+      "n": 211
+    },
+    {
+      "file": "part0218",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十二",
+      "label": "卷第二百一十二",
+      "n": 212
+    },
+    {
+      "file": "part0219",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十三",
+      "label": "卷第二百一十三",
+      "n": 213
+    },
+    {
+      "file": "part0220",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十四",
+      "label": "卷第二百一十四",
+      "n": 214
+    },
+    {
+      "file": "part0221",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十五",
+      "label": "卷第二百一十五",
+      "n": 215
+    },
+    {
+      "file": "part0222",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十六",
+      "label": "卷第二百一十六",
+      "n": 216
+    },
+    {
+      "file": "part0223",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十七",
+      "label": "卷第二百一十七",
+      "n": 217
+    },
+    {
+      "file": "part0224",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十八",
+      "label": "卷第二百一十八",
+      "n": 218
+    },
+    {
+      "file": "part0225",
+      "type": "volume",
+      "title": "資治通鑑卷第二百一十九",
+      "label": "卷第二百一十九",
+      "n": 219
+    },
+    {
+      "file": "part0226",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十",
+      "label": "卷第二百二十",
+      "n": 220
+    },
+    {
+      "file": "part0227",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十一",
+      "label": "卷第二百二十一",
+      "n": 221
+    },
+    {
+      "file": "part0228",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十二",
+      "label": "卷第二百二十二",
+      "n": 222
+    },
+    {
+      "file": "part0229",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十三",
+      "label": "卷第二百二十三",
+      "n": 223
+    },
+    {
+      "file": "part0230",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十四",
+      "label": "卷第二百二十四",
+      "n": 224
+    },
+    {
+      "file": "part0231",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十五",
+      "label": "卷第二百二十五",
+      "n": 225
+    },
+    {
+      "file": "part0232",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十六",
+      "label": "卷第二百二十六",
+      "n": 226
+    },
+    {
+      "file": "part0233",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十七",
+      "label": "卷第二百二十七",
+      "n": 227
+    },
+    {
+      "file": "part0234",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十八",
+      "label": "卷第二百二十八",
+      "n": 228
+    },
+    {
+      "file": "part0235",
+      "type": "volume",
+      "title": "資治通鑑卷第二百二十九",
+      "label": "卷第二百二十九",
+      "n": 229
+    },
+    {
+      "file": "part0236",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十",
+      "label": "卷第二百三十",
+      "n": 230
+    },
+    {
+      "file": "part0237",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十一",
+      "label": "卷第二百三十一",
+      "n": 231
+    },
+    {
+      "file": "part0238",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十二",
+      "label": "卷第二百三十二",
+      "n": 232
+    },
+    {
+      "file": "part0239",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十三",
+      "label": "卷第二百三十三",
+      "n": 233
+    },
+    {
+      "file": "part0240",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十四",
+      "label": "卷第二百三十四",
+      "n": 234
+    },
+    {
+      "file": "part0241",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十五",
+      "label": "卷第二百三十五",
+      "n": 235
+    },
+    {
+      "file": "part0242",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十六",
+      "label": "卷第二百三十六",
+      "n": 236
+    },
+    {
+      "file": "part0243",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十七",
+      "label": "卷第二百三十七",
+      "n": 237
+    },
+    {
+      "file": "part0244",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十八",
+      "label": "卷第二百三十八",
+      "n": 238
+    },
+    {
+      "file": "part0245",
+      "type": "volume",
+      "title": "資治通鑑卷第二百三十九",
+      "label": "卷第二百三十九",
+      "n": 239
+    },
+    {
+      "file": "part0246",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十",
+      "label": "卷第二百四十",
+      "n": 240
+    },
+    {
+      "file": "part0247",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十一",
+      "label": "卷第二百四十一",
+      "n": 241
+    },
+    {
+      "file": "part0248",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十二",
+      "label": "卷第二百四十二",
+      "n": 242
+    },
+    {
+      "file": "part0249",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十三",
+      "label": "卷第二百四十三",
+      "n": 243
+    },
+    {
+      "file": "part0250",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十四",
+      "label": "卷第二百四十四",
+      "n": 244
+    },
+    {
+      "file": "part0251",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十五",
+      "label": "卷第二百四十五",
+      "n": 245
+    },
+    {
+      "file": "part0252",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十六",
+      "label": "卷第二百四十六",
+      "n": 246
+    },
+    {
+      "file": "part0253",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十七",
+      "label": "卷第二百四十七",
+      "n": 247
+    },
+    {
+      "file": "part0254",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十八",
+      "label": "卷第二百四十八",
+      "n": 248
+    },
+    {
+      "file": "part0255",
+      "type": "volume",
+      "title": "資治通鑑卷第二百四十九",
+      "label": "卷第二百四十九",
+      "n": 249
+    },
+    {
+      "file": "part0256",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十",
+      "label": "卷第二百五十",
+      "n": 250
+    },
+    {
+      "file": "part0257",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十一",
+      "label": "卷第二百五十一",
+      "n": 251
+    },
+    {
+      "file": "part0258",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十二",
+      "label": "卷第二百五十二",
+      "n": 252
+    },
+    {
+      "file": "part0259",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十三",
+      "label": "卷第二百五十三",
+      "n": 253
+    },
+    {
+      "file": "part0260",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十四",
+      "label": "卷第二百五十四",
+      "n": 254
+    },
+    {
+      "file": "part0261",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十五",
+      "label": "卷第二百五十五",
+      "n": 255
+    },
+    {
+      "file": "part0262",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十六",
+      "label": "卷第二百五十六",
+      "n": 256
+    },
+    {
+      "file": "part0263",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十七",
+      "label": "卷第二百五十七",
+      "n": 257
+    },
+    {
+      "file": "part0264",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十八",
+      "label": "卷第二百五十八",
+      "n": 258
+    },
+    {
+      "file": "part0265",
+      "type": "volume",
+      "title": "資治通鑑卷第二百五十九",
+      "label": "卷第二百五十九",
+      "n": 259
+    },
+    {
+      "file": "part0266",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十",
+      "label": "卷第二百六十",
+      "n": 260
+    },
+    {
+      "file": "part0267",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十一",
+      "label": "卷第二百六十一",
+      "n": 261
+    },
+    {
+      "file": "part0268",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十二",
+      "label": "卷第二百六十二",
+      "n": 262
+    },
+    {
+      "file": "part0269",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十三",
+      "label": "卷第二百六十三",
+      "n": 263
+    },
+    {
+      "file": "part0270",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十四",
+      "label": "卷第二百六十四",
+      "n": 264
+    },
+    {
+      "file": "part0271",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十五",
+      "label": "卷第二百六十五",
+      "n": 265
+    },
+    {
+      "file": "part0272",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十六",
+      "label": "卷第二百六十六",
+      "n": 266
+    },
+    {
+      "file": "part0273",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十七",
+      "label": "卷第二百六十七",
+      "n": 267
+    },
+    {
+      "file": "part0274",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十八",
+      "label": "卷第二百六十八",
+      "n": 268
+    },
+    {
+      "file": "part0275",
+      "type": "volume",
+      "title": "資治通鑑卷第二百六十九",
+      "label": "卷第二百六十九",
+      "n": 269
+    },
+    {
+      "file": "part0276",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十",
+      "label": "卷第二百七十",
+      "n": 270
+    },
+    {
+      "file": "part0277",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十一",
+      "label": "卷第二百七十一",
+      "n": 271
+    },
+    {
+      "file": "part0278",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十二",
+      "label": "卷第二百七十二",
+      "n": 272
+    },
+    {
+      "file": "part0279",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十三",
+      "label": "卷第二百七十三",
+      "n": 273
+    },
+    {
+      "file": "part0280",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十四",
+      "label": "卷第二百七十四",
+      "n": 274
+    },
+    {
+      "file": "part0281",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十五",
+      "label": "卷第二百七十五",
+      "n": 275
+    },
+    {
+      "file": "part0282",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十六",
+      "label": "卷第二百七十六",
+      "n": 276
+    },
+    {
+      "file": "part0283",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十七",
+      "label": "卷第二百七十七",
+      "n": 277
+    },
+    {
+      "file": "part0284",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十八",
+      "label": "卷第二百七十八",
+      "n": 278
+    },
+    {
+      "file": "part0285",
+      "type": "volume",
+      "title": "資治通鑑卷第二百七十九",
+      "label": "卷第二百七十九",
+      "n": 279
+    },
+    {
+      "file": "part0286",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十",
+      "label": "卷第二百八十",
+      "n": 280
+    },
+    {
+      "file": "part0287",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十一",
+      "label": "卷第二百八十一",
+      "n": 281
+    },
+    {
+      "file": "part0288",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十二",
+      "label": "卷第二百八十二",
+      "n": 282
+    },
+    {
+      "file": "part0289",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十三",
+      "label": "卷第二百八十三",
+      "n": 283
+    },
+    {
+      "file": "part0290",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十四",
+      "label": "卷第二百八十四",
+      "n": 284
+    },
+    {
+      "file": "part0291",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十五",
+      "label": "卷第二百八十五",
+      "n": 285
+    },
+    {
+      "file": "part0292",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十六",
+      "label": "卷第二百八十六",
+      "n": 286
+    },
+    {
+      "file": "part0293",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十七",
+      "label": "卷第二百八十七",
+      "n": 287
+    },
+    {
+      "file": "part0294",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十八",
+      "label": "卷第二百八十八",
+      "n": 288
+    },
+    {
+      "file": "part0295",
+      "type": "volume",
+      "title": "資治通鑑卷第二百八十九",
+      "label": "卷第二百八十九",
+      "n": 289
+    },
+    {
+      "file": "part0296",
+      "type": "volume",
+      "title": "資治通鑑卷第二百九十",
+      "label": "卷第二百九十",
+      "n": 290
+    },
+    {
+      "file": "part0297",
+      "type": "volume",
+      "title": "資治通鑑卷第二百九十一",
+      "label": "卷第二百九十一",
+      "n": 291
+    },
+    {
+      "file": "part0298",
+      "type": "volume",
+      "title": "資治通鑑卷第二百九十二",
+      "label": "卷第二百九十二",
+      "n": 292
+    },
+    {
+      "file": "part0299",
+      "type": "volume",
+      "title": "資治通鑑卷第二百九十三",
+      "label": "卷第二百九十三",
+      "n": 293
+    },
+    {
+      "file": "part0300",
+      "type": "volume",
+      "title": "資治通鑑卷第二百九十四",
+      "label": "卷第二百九十四",
+      "n": 294
+    },
+    {
+      "file": "part0301",
+      "type": "memorial",
+      "title": "進書表"
+    },
+    {
+      "file": "part0302",
+      "type": "editorial-note",
+      "title": "通鑑電子化校勘紀略"
+    }
+  ]
+}

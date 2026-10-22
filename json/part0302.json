@@ -1,0 +1,1697 @@
+[
+  {
+    "kind": [
+      "editorial-note"
+    ]
+  },
+  {
+    "volume-title": [
+      "通鑑電子化校勘紀略"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "chronicle": [
+      {
+        "era-or-label": "　　後學　"
+      },
+      {
+        "person-name": "鄒寰宇"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "chronicle": [
+      "胡梅磵公三省者",
+      {
+        "punct": "dou"
+      },
+      "宋末人也",
+      {
+        "punct": "dou"
+      },
+      "齊文信國公"
+    ]
+  },
+  {
+    "annotation": [
+      "天祥"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "陸忠烈公"
+    ]
+  },
+  {
+    "annotation": [
+      "秀夫"
+    ]
+  },
+  {
+    "chronicle": [
+      "同科登第",
+      {
+        "punct": "ju"
+      },
+      "世學",
+      {
+        "book-title": "通鑑"
+      },
+      {
+        "punct": "ju"
+      },
+      "及遭崖山國難",
+      {
+        "punct": "dou"
+      },
+      "公廿載撰著",
+      {
+        "book-title": "資治通鑑廣註"
+      },
+      "手稿盡燬於兵禍",
+      {
+        "punct": "ju"
+      },
+      "遂絕意仕途",
+      {
+        "punct": "dou"
+      },
+      "歸隱梅磵",
+      {
+        "punct": "dou"
+      },
+      "重註",
+      {
+        "book-title": "通鑑"
+      },
+      {
+        "punct": "ju"
+      },
+      "晚年終成",
+      {
+        "punct": "dou"
+      },
+      "公乃嘆曰",
+      {
+        "punct": "dou"
+      },
+      "吾成此書",
+      {
+        "punct": "dou"
+      },
+      "死無憾矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "胡公註",
+      {
+        "book-title": "通鑑"
+      },
+      {
+        "punct": "dou"
+      },
+      "其如三家註",
+      {
+        "book-title": "史記"
+      },
+      {
+        "punct": "dou"
+      },
+      "顏註之",
+      {
+        "book-title": "漢書"
+      },
+      {
+        "punct": "dou"
+      },
+      "裴註之",
+      {
+        "book-title": "三國"
+      },
+      {
+        "punct": "dou"
+      },
+      "皆一遵軌轍",
+      {
+        "punct": "dou"
+      },
+      "閉絕歧路",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "胡公治史可謂嚴矣",
+      {
+        "punct": "ju"
+      },
+      "公嘗著",
+      {
+        "book-title": "通鑑地理考"
+      },
+      "百卷",
+      {
+        "punct": "dou"
+      },
+      "尚未付印",
+      {
+        "punct": "dou"
+      },
+      "偶讀王伯厚之",
+      {
+        "book-title": "通鑑地理通釋"
+      },
+      {
+        "punct": "dou"
+      },
+      "竟以為己贅",
+      {
+        "punct": "dou"
+      },
+      "輒盡焚原稿",
+      {
+        "punct": "dou"
+      },
+      "不傳於後世",
+      {
+        "punct": "ju"
+      },
+      "惜乎哉",
+      {
+        "punct": "ju"
+      },
+      "何自苛若是",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "近人治史",
+      {
+        "punct": "dou"
+      },
+      "尤擅考據",
+      {
+        "punct": "ju"
+      },
+      "蓋因明清以降",
+      {
+        "punct": "dou"
+      },
+      "思想鉗固",
+      {
+        "punct": "dou"
+      },
+      "時人卽有心得",
+      {
+        "punct": "dou"
+      },
+      "然其文逮之者鮮矣",
+      {
+        "punct": "ju"
+      },
+      "故每寄志於史",
+      {
+        "punct": "dou"
+      },
+      "凡考據必求僻好偏",
+      {
+        "punct": "dou"
+      },
+      "以自保諸上而誇於下者也",
+      {
+        "punct": "dou"
+      },
+      "遂逐末道",
+      {
+        "punct": "ju"
+      },
+      "其較梅磵公",
+      {
+        "punct": "dou"
+      },
+      "則形似而神離",
+      {
+        "punct": "dou"
+      },
+      "去之遠矣",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "且自司馬溫公後",
+      {
+        "punct": "dou"
+      },
+      "官史叵信",
+      {
+        "punct": "ju"
+      },
+      "其若",
+      {
+        "book-title": "明史"
+      },
+      {
+        "punct": "dou"
+      },
+      "凡涉滿清",
+      {
+        "punct": "dou"
+      },
+      "皆曲筆以附韃虜",
+      {
+        "punct": "ju"
+      },
+      "崔杼之流",
+      {
+        "punct": "dou"
+      },
+      "何止上古",
+      {
+        "punct": "ju"
+      },
+      "凡今曰圣",
+      {
+        "punct": "dou"
+      },
+      "尊諱權掩",
+      {
+        "punct": "ju"
+      },
+      "史家本色",
+      {
+        "punct": "dou"
+      },
+      "了然無存",
+      {
+        "punct": "dou"
+      },
+      "豈不謬哉",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "逮至民國",
+      {
+        "punct": "dou"
+      },
+      "西學東漸",
+      {
+        "punct": "dou"
+      },
+      "風格蔚然一新",
+      {
+        "punct": "dou"
+      },
+      "巨匠輩出",
+      {
+        "punct": "ju"
+      },
+      "然菁穢並存",
+      {
+        "punct": "dou"
+      },
+      "一時唯洋諾諾",
+      {
+        "punct": "dou"
+      },
+      "數祖忘典",
+      {
+        "punct": "dou"
+      },
+      "殆禍及今",
+      {
+        "punct": "ju"
+      },
+      "已而多事之秋",
+      {
+        "punct": "dou"
+      },
+      "傳承幾覆",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "嗟虖",
+      {
+        "punct": "ju"
+      },
+      "儒道之式微者久矣",
+      {
+        "punct": "ju"
+      },
+      "今之衆人",
+      {
+        "punct": "dou"
+      },
+      "髫齓不聞",
+      {
+        "book-title": "詩"
+      },
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "書"
+      },
+      {
+        "punct": "dou"
+      },
+      {
+        "book-title": "禮"
+      },
+      "義"
+    ]
+  },
+  {
+    "annotation": [
+      {
+        "book-title": "易"
+      },
+      "非易也"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "弱冠方覺文華可惜",
+      {
+        "punct": "ju"
+      },
+      "螽斯振振",
+      {
+        "punct": "dou"
+      },
+      "毋汚先聖",
+      {
+        "punct": "dou"
+      },
+      "雖累百世",
+      {
+        "punct": "dou"
+      },
+      "垢彌甚耳",
+      {
+        "punct": "ju"
+      },
+      "螻蟻奮力",
+      {
+        "punct": "dou"
+      },
+      "不能妄推中興",
+      {
+        "punct": "dou"
+      },
+      "餘燼猶存",
+      {
+        "punct": "dou"
+      },
+      "惟願其傳承不斷於吾輩",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "古籍之電子化",
+      {
+        "punct": "dou"
+      },
+      "受衆者寡",
+      {
+        "punct": "dou"
+      },
+      "鮮有版行",
+      {
+        "punct": "ju"
+      },
+      "且受限於早期GB-2312-1980及GBK編碼",
+      {
+        "punct": "dou"
+      },
+      "漢字之生僻者多闕之",
+      {
+        "punct": "dou"
+      },
+      "其無柰者一也",
+      {
+        "punct": "ju"
+      },
+      "其後",
+      {
+        "punct": "dou"
+      },
+      "GB-18300-2005編碼雖多錄生僻字",
+      {
+        "punct": "dou"
+      },
+      "然前製之舊版編碼電子古籍",
+      {
+        "punct": "dou"
+      },
+      "尚待更新補善",
+      {
+        "punct": "dou"
+      },
+      "其無柰者二也",
+      {
+        "punct": "ju"
+      },
+      "前製版之電子古籍多簡體字",
+      {
+        "punct": "dou"
+      },
+      "而漢字編碼其簡繁有異",
+      {
+        "punct": "dou"
+      },
+      "轉化有差",
+      {
+        "punct": "ju"
+      },
+      "如發"
+    ]
+  },
+  {
+    "annotation": [
+      "發生"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "髮"
+    ]
+  },
+  {
+    "annotation": [
+      "髮膚"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "其簡體皆為发",
+      {
+        "punct": "dou"
+      },
+      "後"
+    ]
+  },
+  {
+    "annotation": [
+      "後來"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "后"
+    ]
+  },
+  {
+    "annotation": [
+      "皇后"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "其簡體皆為后",
+      {
+        "punct": "ju"
+      },
+      "故按軟件以簡化繁則必有微玷",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "胡註",
+      {
+        "book-title": "通鑑"
+      },
+      "之電子化精校",
+      {
+        "punct": "dou"
+      },
+      "始於西元二零一二年",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "曩時求索網絡上各",
+      {
+        "book-title": "通鑑"
+      },
+      "版本",
+      {
+        "punct": "dou"
+      },
+      "謬訛繁蕪",
+      {
+        "punct": "dou"
+      },
+      "其脫文之處尤多",
+      {
+        "punct": "dou"
+      },
+      "錯字"
+    ]
+  },
+  {
+    "annotation": [
+      "常見諸異體字"
+    ]
+  },
+  {
+    "chronicle": [
+      "亂碼頻仍",
+      {
+        "punct": "dou"
+      },
+      "實不堪一讀也",
+      {
+        "punct": "dou"
+      },
+      "甚憾之",
+      {
+        "punct": "ju"
+      },
+      "余遂參照紙本相較取正",
+      {
+        "punct": "dou"
+      },
+      "其前後更版百有餘次",
+      {
+        "punct": "dou"
+      },
+      "修字逾萬",
+      {
+        "punct": "dou"
+      },
+      "手錄無算",
+      {
+        "punct": "ju"
+      },
+      "凡四年矣",
+      {
+        "punct": "ju"
+      },
+      "賴衆人之力",
+      {
+        "punct": "dou"
+      },
+      "日趨以善",
+      {
+        "punct": "ju"
+      },
+      "然余以詮才末學之流忝竊勘校",
+      {
+        "punct": "dou"
+      },
+      "惟恐蠹筆入歧",
+      {
+        "punct": "dou"
+      },
+      "貽笑大方",
+      {
+        "punct": "ju"
+      },
+      "懇願讀者斧之以正",
+      {
+        "punct": "dou"
+      },
+      "則其善莫大焉",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "柔兆涒灘",
+      {
+        "punct": "dou"
+      },
+      "凜冬于成都",
+      {
+        "punct": "dou"
+      },
+      "是為記",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "break": []
+  },
+  {
+    "subsection-heading": [
+      {
+        "book-title": "通鑑"
+      },
+      "電子化之用字說明"
+    ]
+  },
+  {
+    "chronicle": [
+      "一",
+      {
+        "punct": "dou"
+      },
+      "以各紙本用字為準繩",
+      {
+        "punct": "dou"
+      },
+      "兼顧電子設備之閱讀體驗",
+      {
+        "punct": "dou"
+      },
+      "在電子化過程中",
+      {
+        "punct": "dou"
+      },
+      "對於部分無歧義之異體字",
+      {
+        "punct": "dou"
+      },
+      "進行了統一規範"
+    ]
+  },
+  {
+    "annotation": [
+      "下例字中",
+      {
+        "punct": "dou"
+      },
+      "前為本書所採用字",
+      {
+        "punct": "dou"
+      },
+      "後為其異體字或其正體字",
+      {
+        "punct": "dou"
+      },
+      "俗體字"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "旣"
+    ]
+  },
+  {
+    "annotation": [
+      "既"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "搖"
+    ]
+  },
+  {
+    "annotation": [
+      "摇"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "為"
+    ]
+  },
+  {
+    "annotation": [
+      "爲"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "愼"
+    ]
+  },
+  {
+    "annotation": [
+      "慎"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "槪"
+    ]
+  },
+  {
+    "annotation": [
+      "概"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "郞"
+    ]
+  },
+  {
+    "annotation": [
+      "郎"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "鎭"
+    ]
+  },
+  {
+    "annotation": [
+      "鎮"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "眞"
+    ]
+  },
+  {
+    "annotation": [
+      "真"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "宂"
+    ]
+  },
+  {
+    "annotation": [
+      "冗"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "屛"
+    ]
+  },
+  {
+    "annotation": [
+      "屏"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "敎"
+    ]
+  },
+  {
+    "annotation": [
+      "教"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "衞"
+    ]
+  },
+  {
+    "annotation": [
+      "衛"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "倂"
+    ]
+  },
+  {
+    "annotation": [
+      "併"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "塡"
+    ]
+  },
+  {
+    "annotation": [
+      "填"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "幷"
+    ]
+  },
+  {
+    "annotation": [
+      "并"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "贊"
+    ]
+  },
+  {
+    "annotation": [
+      "賛"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "隱"
+    ]
+  },
+  {
+    "annotation": [
+      "隠"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "穎"
+    ]
+  },
+  {
+    "annotation": [
+      "頴"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "蓋"
+    ]
+  },
+  {
+    "annotation": [
+      "葢"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "等",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "chronicle": [
+      "二",
+      {
+        "punct": "dou"
+      },
+      "部分無歧義之異體字",
+      {
+        "punct": "dou"
+      },
+      "電子版賓從各紙本混用",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "捍"
+    ]
+  },
+  {
+    "annotation": [
+      "扞"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "踴"
+    ]
+  },
+  {
+    "annotation": [
+      "踊"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "讌"
+    ]
+  },
+  {
+    "annotation": [
+      "宴"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "筯"
+    ]
+  },
+  {
+    "annotation": [
+      "箸"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "於"
+    ]
+  },
+  {
+    "annotation": [
+      "于"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "臭"
+    ]
+  },
+  {
+    "annotation": [
+      "臰"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "豬"
+    ]
+  },
+  {
+    "annotation": [
+      "猪"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "鴈"
+    ]
+  },
+  {
+    "annotation": [
+      "雁"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "玨"
+    ]
+  },
+  {
+    "annotation": [
+      "珏"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "槨"
+    ]
+  },
+  {
+    "annotation": [
+      "椁"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "準"
+    ]
+  },
+  {
+    "annotation": [
+      "准"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "跡"
+    ]
+  },
+  {
+    "annotation": [
+      "迹"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "褒"
+    ]
+  },
+  {
+    "annotation": [
+      "襃"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "等",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "chronicle": [
+      "三",
+      {
+        "punct": "dou"
+      },
+      "各紙本",
+      {
+        "book-title": "通鑑"
+      },
+      "中",
+      {
+        "punct": "dou"
+      },
+      "在特定範圍內使用且通常不可混用之異體字",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "煮"
+    ]
+  },
+  {
+    "annotation": [
+      "專指煮鹽"
+    ]
+  },
+  {
+    "chronicle": [
+      "煑"
+    ]
+  },
+  {
+    "annotation": [
+      "亨煑"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "匹"
+    ]
+  },
+  {
+    "annotation": [
+      "常義"
+    ]
+  },
+  {
+    "chronicle": [
+      "疋"
+    ]
+  },
+  {
+    "annotation": [
+      "專用於量詞"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "幷"
+    ]
+  },
+  {
+    "annotation": [
+      "常義"
+    ]
+  },
+  {
+    "chronicle": [
+      "並"
+    ]
+  },
+  {
+    "annotation": [
+      "不可用於地名"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "凶"
+    ]
+  },
+  {
+    "annotation": [
+      "常義"
+    ]
+  },
+  {
+    "chronicle": [
+      "兇"
+    ]
+  },
+  {
+    "annotation": [
+      "專指人"
+    ]
+  },
+  {
+    "chronicle": [
+      {
+        "punct": "dou"
+      },
+      "等",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "chronicle": [
+      "四",
+      {
+        "punct": "dou"
+      },
+      "電子化",
+      {
+        "book-title": "通鑑"
+      },
+      "過程中",
+      {
+        "punct": "dou"
+      },
+      "校對的最大難度來自部分易混淆字",
+      {
+        "punct": "dou"
+      }
+    ]
+  },
+  {
+    "chronicle": [
+      "賚賫",
+      {
+        "punct": "dou"
+      },
+      "詰誥",
+      {
+        "punct": "dou"
+      },
+      "徃往",
+      {
+        "punct": "dou"
+      },
+      "僭憯",
+      {
+        "punct": "dou"
+      },
+      "舁昇",
+      {
+        "punct": "dou"
+      },
+      "頟雒",
+      {
+        "punct": "dou"
+      },
+      "複復",
+      {
+        "punct": "dou"
+      },
+      "逐遂",
+      {
+        "punct": "dou"
+      },
+      "論諭",
+      {
+        "punct": "dou"
+      },
+      "卬邛",
+      {
+        "punct": "dou"
+      },
+      "冑胄",
+      {
+        "punct": "dou"
+      },
+      "黓默",
+      {
+        "punct": "dou"
+      },
+      "粱梁",
+      {
+        "punct": "dou"
+      },
+      "苫苦",
+      {
+        "punct": "dou"
+      },
+      "潁穎",
+      {
+        "punct": "dou"
+      },
+      "昢咄",
+      {
+        "punct": "dou"
+      },
+      "康庚",
+      {
+        "punct": "dou"
+      },
+      "汔迄",
+      {
+        "punct": "dou"
+      },
+      "瑑琭",
+      {
+        "punct": "dou"
+      },
+      "果杲",
+      {
+        "punct": "dou"
+      },
+      "遺遣",
+      {
+        "punct": "dou"
+      },
+      "誼諠",
+      {
+        "punct": "dou"
+      },
+      "踼蹋",
+      {
+        "punct": "dou"
+      },
+      "顏頻",
+      {
+        "punct": "dou"
+      },
+      "士土",
+      {
+        "punct": "dou"
+      },
+      "動勳",
+      {
+        "punct": "dou"
+      },
+      "日曰",
+      {
+        "punct": "dou"
+      },
+      "官宮",
+      {
+        "punct": "dou"
+      },
+      "傅傳",
+      {
+        "punct": "dou"
+      },
+      "授援",
+      {
+        "punct": "dou"
+      },
+      "隻雙",
+      {
+        "punct": "dou"
+      },
+      "盬監",
+      {
+        "punct": "dou"
+      },
+      "郤卻",
+      {
+        "punct": "dou"
+      },
+      "頁貢",
+      {
+        "punct": "dou"
+      },
+      "簿薄",
+      {
+        "punct": "dou"
+      },
+      "邵郡",
+      {
+        "punct": "dou"
+      },
+      "仗使",
+      {
+        "punct": "dou"
+      },
+      "陸陵",
+      {
+        "punct": "dou"
+      },
+      "拾捨",
+      {
+        "punct": "dou"
+      },
+      "及乃",
+      {
+        "punct": "dou"
+      },
+      "楝棟",
+      {
+        "punct": "dou"
+      },
+      "舂春",
+      {
+        "punct": "dou"
+      },
+      "碩頭",
+      {
+        "punct": "dou"
+      },
+      "戢戰",
+      {
+        "punct": "dou"
+      },
+      "諆謀",
+      {
+        "punct": "dou"
+      },
+      "昆毘",
+      {
+        "punct": "dou"
+      },
+      "奪奮",
+      {
+        "punct": "dou"
+      },
+      "祇祗",
+      {
+        "punct": "dou"
+      },
+      "刺剌",
+      {
+        "punct": "dou"
+      },
+      "緩綬",
+      {
+        "punct": "dou"
+      },
+      "奏秦",
+      {
+        "punct": "dou"
+      },
+      "痺庳",
+      {
+        "punct": "dou"
+      },
+      "虜虞",
+      {
+        "punct": "dou"
+      },
+      "緣綠",
+      {
+        "punct": "dou"
+      },
+      "媺微",
+      {
+        "punct": "dou"
+      },
+      "逄逢",
+      {
+        "punct": "dou"
+      },
+      "箸著",
+      {
+        "punct": "dou"
+      },
+      "鳴嗚",
+      {
+        "punct": "dou"
+      },
+      "宜宣",
+      {
+        "punct": "dou"
+      },
+      "甍薨",
+      {
+        "punct": "dou"
+      },
+      "爽奭",
+      {
+        "punct": "dou"
+      },
+      "澧灃",
+      {
+        "punct": "dou"
+      },
+      "由申",
+      {
+        "punct": "dou"
+      },
+      "瘳廖",
+      {
+        "punct": "dou"
+      },
+      "來夾",
+      {
+        "punct": "dou"
+      },
+      "隆降",
+      {
+        "punct": "dou"
+      },
+      "濣澣",
+      {
+        "punct": "dou"
+      },
+      "云元",
+      {
+        "punct": "dou"
+      },
+      "菙董",
+      {
+        "punct": "dou"
+      },
+      "幷井",
+      {
+        "punct": "dou"
+      },
+      "玫致",
+      {
+        "punct": "dou"
+      },
+      "穀榖縠",
+      {
+        "punct": "dou"
+      },
+      "亓元幵",
+      {
+        "punct": "dou"
+      },
+      "戊戌戍",
+      {
+        "punct": "dou"
+      },
+      "已己巳",
+      {
+        "punct": "dou"
+      },
+      "等等",
+      {
+        "punct": "ju"
+      }
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "break": []
+  },
+  {
+    "subsection-heading": [
+      {
+        "book-title": "通鑑"
+      },
+      "電子化校勘人姓名"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "role-line": [
+      "後學"
+    ]
+  },
+  {
+    "name-line": [
+      "王　雨"
+    ]
+  },
+  {
+    "break": []
+  },
+  {
+    "role-line": [
+      "後學"
+    ]
+  },
+  {
+    "name-line": [
+      "鄒寰宇"
+    ]
+  }
+]
