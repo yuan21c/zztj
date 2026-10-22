@@ -161,7 +161,7 @@
     });
   }
 
-  async function refreshCacheStatus() {
+  async function refreshCacheStatus(keepStatusText) {
     if (!cacheDialog) return;
     try {
       var status = await askSW("CACHE_STATUS");
@@ -171,8 +171,9 @@
       cacheCompleted = jsonCount >= TARGET_JSON && fontCount >= TARGET_FONT;
       cacheHasPartial = !cacheCompleted && (jsonCount > 0 || fontCount > 0);
 
-      if (!cacheRunning) {
-        setBtnLabel(cacheCompleted ? "已緩存" : "緩存");
+      setBtnLabel(cacheCompleted ? "已緩存" : "緩存");
+
+      if (!cacheRunning && !keepStatusText) {
         setCacheStatusText(
           cacheCompleted
             ? "已完整緩存：300 卷 + 8 個字體，可離線閱讀全部內容。"
@@ -337,7 +338,7 @@
       cacheRunning = false;
       cacheAbort = null;
       syncCacheButtons();
-      await refreshCacheStatus();
+      await refreshCacheStatus(true);
     }
   }
 
