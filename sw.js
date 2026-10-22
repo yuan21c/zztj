@@ -7,7 +7,7 @@
  */
 "use strict";
 
-const BUILD = "pwa-1";
+const BUILD = "pwa-2";
 const DATA_VERSION = "v1";
 const ASSET_VERSION = "v1";
 
@@ -26,13 +26,15 @@ const SHELL = [
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/icon-maskable-512.png",
-  "./icons/apple-touch-icon-180.png"
+  "./icons/apple-touch-icon-180.png",
 ];
 
 /* ---------------------------------------------------------------- 安装 */
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(SHELL_CACHE).then((cache) => cache.addAll(SHELL)));
+  event.waitUntil(
+    caches.open(SHELL_CACHE).then((cache) => cache.addAll(SHELL)),
+  );
 });
 
 /* ---------------------------------------------------------- 激活与清理 */
@@ -54,10 +56,10 @@ self.addEventListener("activate", (event) => {
               return caches.delete(key);
             }
             return null;
-          })
-        )
+          }),
+        ),
       )
-      .then(() => self.clients.claim())
+      .then(() => self.clients.claim()),
   );
 });
 

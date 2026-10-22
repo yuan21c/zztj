@@ -1802,13 +1802,17 @@
   }
 
   function loadVolume(partId) {
-    return fetch("json/" + partId + ".json").then(function (resp) {
-      if (!resp.ok)
-        throw new Error(
-          "无法加载 " + partId + ".json（HTTP " + resp.status + "）",
-        );
-      return resp.json();
-    });
+    return fetch("json/" + partId + ".json")
+      .catch(function () {
+        throw new Error("無法連接；若處於離線狀態，此卷可能尚未緩存");
+      })
+      .then(function (resp) {
+        if (!resp.ok)
+          throw new Error(
+            "无法加载 " + partId + ".json（HTTP " + resp.status + "）",
+          );
+        return resp.json();
+      });
   }
 
   /* 首排必须显式 load Web 字体：回退字体度量不同，且 fonts.ready 在使用前已 resolve。 */
