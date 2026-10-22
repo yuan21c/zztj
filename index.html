@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>資治通鑑</title>
 <link rel="stylesheet" href="css/reader.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#EDE4CF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#070C09" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="資治通鑑">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon-180.png">
+<link rel="stylesheet" href="css/pwa.css">
 </head>
 <body>
 
@@ -20,6 +30,7 @@
     <button id="btnReset">重置</button>
     <button id="btnTheme">夜間</button>
     <button id="btnToc">目錄</button>
+    <button id="btnCache" hidden>緩存</button>
   </nav>
   <button class="menu-toggle" id="btnMenu" aria-expanded="false">☰</button>
 </header>
@@ -33,6 +44,28 @@
 
 <div class="loading-overlay" id="loadingOverlay" aria-hidden="true">
   <div class="loading-spinner"></div><div class="loading-text">正在重排</div>
+</div>
+
+<div class="pwa-modal" id="pwaCacheDialog" hidden role="dialog" aria-modal="true" aria-labelledby="pwaCacheTitle">
+  <div class="pwa-modal-box pwa-cache-box">
+    <h2 id="pwaCacheTitle">離線緩存</h2>
+    <p id="pwaCacheSummary" class="pwa-hint">
+      將全部 300 卷與 8 個字體下載到本機，約 80 MB；完成後可完整離線閱讀。
+    </p>
+    <div class="pwa-progress" id="pwaProgress" hidden>
+      <span id="pwaProgressBar"></span>
+    </div>
+    <p id="pwaCacheStatus" class="pwa-status" aria-live="polite">正在檢查已緩存內容…</p>
+    <p id="pwaCacheIos" class="pwa-hint" hidden>
+      iOS 需先「加入主畫面」：Safari 分享 → 加入主畫面。
+      <button type="button" class="pwa-link" id="pwaIosLink">查看步驟</button>
+    </p>
+    <div class="pwa-actions">
+      <button type="button" id="pwaCacheStart">開始緩存</button>
+      <button type="button" id="pwaCacheClear" hidden>清除緩存</button>
+      <button type="button" id="pwaCacheClose">關閉</button>
+    </div>
+  </div>
 </div>
 
 <script src="js/reader.js"></script>

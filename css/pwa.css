@@ -1,0 +1,162 @@
+/* =======================================================================
+   PWA UI：缓存按钮 / 更新提示 / 缓存弹层 / 进度条 / iOS 指引
+   依赖 reader.css 中的 --paper / --ink / --ink-strong / --accent / --ui-font
+   ======================================================================= */
+
+#btnCache[hidden] {
+  display: none;
+}
+
+.pwa-update {
+  position: fixed;
+  left: 50%;
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  transform: translateX(-50%);
+  z-index: 320;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: calc(100vw - 32px);
+  padding: 10px 14px;
+  background: var(--paper);
+  color: var(--ink);
+  border: 1px solid var(--ink-strong);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
+  font-family: var(--ui-font);
+  font-size: 14px;
+}
+
+.pwa-update button {
+  font-family: var(--ui-font);
+  font-size: 13px;
+  line-height: 1.2;
+  padding: 4px 10px;
+  border: 1px solid var(--ink-strong);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+  letter-spacing: 0.08em;
+}
+
+.pwa-update .pwa-close {
+  border: none;
+  padding: 0 2px;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.pwa-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 330;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.pwa-modal[hidden] {
+  display: none;
+}
+
+.pwa-modal-box {
+  width: 100%;
+  max-width: 360px;
+  padding: 20px 22px;
+  background: var(--paper);
+  color: var(--ink);
+  border: 1px solid var(--ink-strong);
+  font-family: var(--ui-font);
+  font-size: 14px;
+  line-height: 1.7;
+  max-height: calc(100vh - 48px);
+  overflow: auto;
+}
+
+.pwa-cache-box {
+  max-width: 400px;
+}
+
+.pwa-modal-box h2 {
+  margin: 0 0 10px;
+  font-size: 17px;
+  font-weight: 400;
+  color: var(--accent);
+  letter-spacing: 0.08em;
+}
+
+.pwa-modal-box ol {
+  margin: 0 0 14px;
+  padding-left: 1.4em;
+}
+
+.pwa-modal-box code {
+  font-family: var(--ui-font);
+  font-size: 12px;
+  word-break: break-all;
+}
+
+.pwa-hint {
+  margin: 0 0 12px;
+  opacity: 0.82;
+  font-size: 13px;
+}
+
+.pwa-status {
+  margin: 0 0 14px;
+  min-height: 2.8em;
+  font-size: 13px;
+  color: var(--accent);
+}
+
+.pwa-progress {
+  height: 8px;
+  margin: 0 0 12px;
+  border: 1px solid var(--ink-strong);
+  background: color-mix(in srgb, var(--ink-strong) 8%, transparent);
+  overflow: hidden;
+}
+
+.pwa-progress > span {
+  display: block;
+  width: 0;
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.18s ease;
+}
+
+.pwa-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.pwa-modal-box button {
+  font-family: var(--ui-font);
+  font-size: 13px;
+  line-height: 1.2;
+  padding: 5px 12px;
+  border: 1px solid var(--ink-strong);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+  letter-spacing: 0.08em;
+}
+
+.pwa-modal-box button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.pwa-modal-box .pwa-link {
+  border: none;
+  padding: 0;
+  font-size: 12px;
+  color: var(--accent);
+  text-decoration: underline;
+  letter-spacing: 0;
+}
