@@ -34,6 +34,16 @@
     );
   }
 
+  function isIOSSafari() {
+    var ua = navigator.userAgent;
+    var iOS =
+      /iPad|iPhone|iPod/.test(ua) ||
+      (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    var safari =
+      /Safari/.test(ua) && !/Chrome|CriOS|Edg|OPR|Firefox|FxiOS/.test(ua);
+    return iOS && safari;
+  }
+
   /* ------------------------------------------------------------ SW 注册 */
 
   function registerSW() {
@@ -222,6 +232,8 @@
   function openCacheDialog() {
     if (!cacheDialog) return;
     cacheDialog.hidden = false;
+    var ios = $("pwaCacheIos");
+    if (ios) ios.hidden = !(isIOSSafari() && !isStandalone());
     syncCacheButtons();
     refreshCacheStatus();
   }
@@ -418,6 +430,45 @@
     );
   }
 
+  /* --------------------------------------------------------- iOS 指引 */
+
+  function showIOSGuide() {
+    var guide = $("pwaIosGuide");
+    if (!guide) {
+      guide = document.createElement("div");
+      guide.id = "pwaIosGuide";
+      guide.className = "pwa-modal";
+      guide.hidden = true;
+      guide.setAttribute("role", "dialog");
+      guide.setAttribute("aria-modal", "true");
+      guide.setAttribute("aria-labelledby", "pwaIosTitle");
+      guide.innerHTML =
+        '<div class="pwa-modal-box">' +
+        '<h2 id="pwaIosTitle">加入主畫面</h2>' +
+        "<ol>" +
+        "<li>用 Safari 開啟 <code>https://yuan21c.github.io/zztj/</code>。</li>" +
+        "<li>點底部工具欄的「分享」圖示（iPad 在頂部）。</li>" +
+        "<li>在分享選單中選「加入主畫面」。</li>" +
+        "<li>名稱建議「資治通鑑」，點「加入」。</li>" +
+        "<li>回主畫面啟動，即為獨立視窗；再點「緩存」下載全書。</li>" +
+        "</ol>" +
+        '<p class="pwa-hint">iOS 不會自動彈出安裝提示；若找不到「加入主畫面」，請確認不是私密瀏覽，且頁面已載入完成。</p>' +
+        '<button type="button" id="pwaIosClose">知道了</button>' +
+        "</div>";
+      document.body.appendChild(guide);
+
+      $("pwaIosClose").addEventListener("click", function () {
+        guide.hidden = true;
+      });
+      guide.addEventListener("click", function (event) {
+        if (event.target === guide) guide.hidden = true;
+      });
+    }
+    guide.hidden = false;
+    var close = $("pwaIosClose");
+    if (close) close.focus();
+  }
+
   /* ------------------------------------------------- 首次访问后的预热 */
 
   function warmUpCurrentVolume() {
@@ -470,6 +521,9 @@
     var close = $("pwaCacheClose");
     if (close) close.addEventListener("click", closeCacheDialog);
 
+    var iosLink = $("pwaIosLink");
+    if (iosLink) iosLink.addEventListener("click", showIOSGuide);
+
     if (cacheDialog) {
       cacheDialog.addEventListener("click", function (event) {
         if (event.target === cacheDialog) closeCacheDialog();
@@ -481,7 +535,10 @@
       if (cacheRunning) return;
       if (cacheDialog && !cacheDialog.hidden) {
         cacheDialog.hidden = true;
+        return;
       }
+      var guide = $("pwaIosGuide");
+      if (guide && !guide.hidden) guide.hidden = true;
     });
 
     new MutationObserver(syncThemeColor).observe(document.documentElement, {

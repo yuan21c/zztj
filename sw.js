@@ -7,7 +7,7 @@
  */
 "use strict";
 
-const BUILD = "pwa-4";
+const BUILD = "pwa-5";
 const DATA_VERSION = "v1";
 const ASSET_VERSION = "v1";
 
