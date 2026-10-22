@@ -7,7 +7,7 @@
  */
 "use strict";
 
-const BUILD = "pwa-2";
+const BUILD = "pwa-3";
 const DATA_VERSION = "v1";
 const ASSET_VERSION = "v1";
 
@@ -119,9 +119,20 @@ self.addEventListener("fetch", (event) => {
 
 self.addEventListener("message", (event) => {
   const data = event.data || {};
+  const port = event.ports && event.ports[0];
 
   if (data.type === "SKIP_WAITING") {
     self.skipWaiting();
+    return;
+  }
+
+  if (data.type === "CACHE_STATUS") {
+    event.waitUntil(reportCacheStatus(port));
+    return;
+  }
+
+  if (data.type === "CLEAR_OFFLINE") {
+    event.waitUntil(clearOffline(port));
   }
 });
 
@@ -150,4 +161,29 @@ async function cacheFirst(req, cacheName) {
     }
   }
   return resp;
+}
+
+async function reportCacheStatus(port) {
+  const dataCache = await caches.open(DATA_CACHE);
+  const assetCache = await caches.open(ASSET_CACHE);
+  const dataKeys = await dataCache.keys();
+  const assetKeys = await assetCache.keys();
+
+  const jsonCount = dataKeys.filter((req) =>
+    /\/json\/part\d+\.json$/.test(new URL(req.url).pathname),
+  ).length;
+
+  const fontCount = assetKeys.filter((req) =>
+    /\/fonts\/[^/]+\.woff2$/.test(new URL(req.url).pathname),
+  ).length;
+
+  if (port) {
+    port.postMessage({ type: "CACHE_STATUS", jsonCount, fontCount });
+  }
+}
+
+async function clearOffline(port) {
+  await caches.delete(DATA_CACHE);
+  await caches.delete(ASSET_CACHE);
+  if (port) port.postMessage({ type: "CLEAR_OFFLINE", ok: true });
 }
