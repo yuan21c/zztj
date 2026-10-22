@@ -7,6 +7,8 @@
 
   var TARGET_JSON = 300;
   var TARGET_FONT = 8;
+  var CACHE_CONCURRENCY = 3;
+  var OFFLINE_EXTRA = []; // 未来 img/ 静态图可列在此
 
   var updateBar = null;
   var pendingWorker = null;
@@ -15,6 +17,9 @@
 
   var cacheDialog = null;
   var cacheRunning = false;
+  var cacheAbort = null;
+  var cacheDone = 0;
+  var cacheTotal = 0;
   var cacheCompleted = false;
   var cacheHasPartial = false;
 
@@ -194,13 +199,24 @@
     var close = $("pwaCacheClose");
     if (!start) return;
 
-    start.textContent = "開始緩存";
-    start.disabled = true;
-    if (clear) {
-      clear.hidden = !(cacheCompleted || cacheHasPartial);
-      clear.disabled = false;
+    if (cacheRunning) {
+      start.textContent = "取消緩存";
+      start.disabled = false;
+      if (clear) clear.hidden = true;
+      if (close) close.disabled = true;
+    } else {
+      start.textContent = cacheCompleted
+        ? "重新緩存"
+        : cacheHasPartial
+          ? "繼續緩存"
+          : "開始緩存";
+      start.disabled = false;
+      if (clear) {
+        clear.hidden = !(cacheCompleted || cacheHasPartial);
+        clear.disabled = false;
+      }
+      if (close) close.disabled = false;
     }
-    if (close) close.disabled = false;
   }
 
   function openCacheDialog() {
@@ -235,6 +251,171 @@
     } catch (err) {
       setCacheStatusText("清除失敗：" + (err.message || "未知錯誤"));
     }
+  }
+
+  /* ------------------------------------------------------ 全量缓存流程 */
+
+  function onCacheStart() {
+    if (cacheRunning) {
+      if (cacheAbort) cacheAbort.abort();
+      return;
+    }
+    startFullCache();
+  }
+
+  async function startFullCache() {
+    if (!navigator.onLine) {
+      setCacheStatusText("目前離線，請連線後再試。");
+      return;
+    }
+    if (!navigator.serviceWorker.controller) {
+      setCacheStatusText("Service Worker 尚未接管，請重新載入頁面。");
+      return;
+    }
+
+    cacheRunning = true;
+    cacheAbort = new AbortController();
+    cacheDone = 0;
+    cacheTotal = 0;
+    syncCacheButtons();
+
+    var progress = $("pwaProgress");
+    var bar = $("pwaProgressBar");
+    if (progress) progress.hidden = false;
+    if (bar) bar.style.width = "0%";
+    setCacheStatusText("正在整理緩存清單…");
+
+    try {
+      var urls = await buildCacheList();
+      cacheTotal = urls.length;
+      setCacheStatusText("正在緩存 0 / " + cacheTotal + " 項…");
+
+      await runPool(urls, CACHE_CONCURRENCY, cacheAbort.signal);
+
+      if (cacheAbort.signal.aborted) {
+        setCacheStatusText(
+          "已暫停：已完成 " +
+            cacheDone +
+            " / " +
+            cacheTotal +
+            " 項，再次點擊可續傳。",
+        );
+      } else {
+        cacheCompleted = true;
+        setCacheStatusText("已完成：300 卷 + 8 個字體，可離線閱讀全部內容。");
+      }
+    } catch (err) {
+      if (cacheAbort) cacheAbort.abort();
+      if (err && err.name === "AbortError") {
+        setCacheStatusText(
+          "已取消：已完成 " + cacheDone + " / " + cacheTotal + " 項。",
+        );
+      } else {
+        setCacheStatusText(
+          "緩存中斷（" +
+            (err && err.message ? err.message : "網路錯誤") +
+            "）：已完成 " +
+            cacheDone +
+            " / " +
+            cacheTotal +
+            " 項，可再次點擊續傳。",
+        );
+      }
+    } finally {
+      cacheRunning = false;
+      cacheAbort = null;
+      syncCacheButtons();
+      await refreshCacheStatus();
+    }
+  }
+
+  async function buildCacheList() {
+    var indexResp = await fetch("json/index.json", { cache: "no-cache" });
+    if (!indexResp.ok) throw new Error("無法讀取目錄 index.json");
+    var index = await indexResp.json();
+    if (!index || !Array.isArray(index.entries)) {
+      throw new Error("目錄格式錯誤");
+    }
+
+    var list = index.entries.map(function (entry) {
+      return new URL("json/" + entry.file + ".json", document.baseURI).href;
+    });
+
+    var cssUrl = new URL("css/reader.css", document.baseURI).href;
+    var cssResp = await fetch(cssUrl, { cache: "no-cache" });
+    if (!cssResp.ok) throw new Error("無法讀取 reader.css");
+    var cssText = await cssResp.text();
+
+    var seen = new Set(list);
+    var re = /url\(\s*['"]?([^'")]+\.woff2)['"]?\s*\)/gi;
+    var match;
+    while ((match = re.exec(cssText))) {
+      var fontUrl = new URL(match[1], cssUrl).href;
+      if (!seen.has(fontUrl)) {
+        seen.add(fontUrl);
+        list.push(fontUrl);
+      }
+    }
+
+    OFFLINE_EXTRA.forEach(function (path) {
+      var url = new URL(path, document.baseURI).href;
+      if (!seen.has(url)) {
+        seen.add(url);
+        list.push(url);
+      }
+    });
+
+    return list;
+  }
+
+  async function runPool(urls, limit, signal) {
+    var next = 0;
+    var failure = null;
+
+    async function worker() {
+      while (true) {
+        if (signal.aborted || failure) return;
+        var index = next++;
+        if (index >= urls.length) return;
+        try {
+          await cacheOne(urls[index], signal);
+        } catch (err) {
+          failure = err;
+          return;
+        }
+      }
+    }
+
+    var workers = [];
+    for (var i = 0; i < limit; i++) workers.push(worker());
+    await Promise.all(workers);
+    if (failure) throw failure;
+  }
+
+  async function cacheOne(url, signal) {
+    var resp = await fetch(url, { cache: "no-cache", signal: signal });
+    if (!resp.ok) throw new Error("HTTP " + resp.status + "：" + url);
+
+    // 读空 body，确保连接释放、SW 的 cache.put 完成
+    if (resp.body) {
+      var reader = resp.body.getReader();
+      while (true) {
+        var chunk = await reader.read();
+        if (chunk.done) break;
+      }
+    }
+
+    cacheDone += 1;
+    updateProgress();
+  }
+
+  function updateProgress() {
+    var bar = $("pwaProgressBar");
+    var percent = cacheTotal ? Math.floor((cacheDone / cacheTotal) * 100) : 0;
+    if (bar) bar.style.width = percent + "%";
+    setCacheStatusText(
+      "正在緩存 " + cacheDone + " / " + cacheTotal + " 項（" + percent + "%）…",
+    );
   }
 
   /* ------------------------------------------------- 首次访问后的预热 */
@@ -279,6 +460,9 @@
 
     var btnCache = $("btnCache");
     if (btnCache) btnCache.addEventListener("click", openCacheDialog);
+
+    var start = $("pwaCacheStart");
+    if (start) start.addEventListener("click", onCacheStart);
 
     var clear = $("pwaCacheClear");
     if (clear) clear.addEventListener("click", clearOfflineCache);
